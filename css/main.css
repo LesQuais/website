@@ -54,21 +54,22 @@ h1 .name {
 }
 
 #right, #left {
-	position: fixed;
 	font-size: 380%;
-	vertical-align: middle;
 	color: black;
 	text-decoration: none;
 	z-index: 1;
-	top: 45%;
+	height: 100%;
+	display: inline-block;
+	vertical-align: middle;
+	padding-top: 25%;
 }
 
 #left {
-	left: 0;
+	float: left;
 }
 
 #right {
-	right: 0;
+	float: right;
 }
 
 #spacer {
