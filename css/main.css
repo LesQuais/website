@@ -11,6 +11,10 @@ body {
 	line-height: 180%;
 }
 
+a {
+	color: inherit;
+}
+
 #boat, #bg {
 	position: fixed;
 	z-index: -1;
@@ -85,6 +89,11 @@ h1 .name {
 
 #above {
 	color: #FFF;
+}
+
+/* Jekyll adds extraneous <p>.
+*/
+#spacer, #above {
 	margin-top: -1em;
 }
 
