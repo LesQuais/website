@@ -10,4 +10,6 @@ document.body.onload = function() {
 		bg.style.top = ((above.clientHeight - document.body.scrollTop) / 1.5) + 'px';
 		boat.style.bottom = ((document.body.scrollTop - spacer.offsetTop) / 1.25) - 120 + 'px';
 	});
+
+	window.scrollTo(0, spacer.offsetTop);
 }
