@@ -5,6 +5,7 @@ body {
 	font-weight: bold;
 	background-color: #000;
 	color: #FFF;
+	font-family: "Letter Gothic Pitch", sans-serif;
 }
 
 #boat, #bg {
@@ -26,6 +27,7 @@ h1 {
 	bottom: 0;
 	width: 50%;
 	background-color: #000;
+	font-family: "VAG Rounded", sans-serif;
 }
 
 h2, h3, h4 {
