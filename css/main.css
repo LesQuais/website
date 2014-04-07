@@ -57,19 +57,18 @@ h1 .name {
 	position: fixed;
 	font-size: 380%;
 	vertical-align: middle;
-	color: inherit;
+	color: black;
 	text-decoration: none;
-	z-index: 2;
+	z-index: 1;
+	top: 45%;
 }
 
 #left {
 	left: 0;
-	top: 45%;
 }
 
 #right {
 	right: 0;
-	top: 45%;
 }
 
 #spacer {
@@ -81,4 +80,15 @@ h1 .name {
 
 #below, h1 {
 	background-color: #000;
+}
+
+#above {
+	color: #FFF;
+	margin-top: -1em;
+}
+
+#above, #below {
+	position: relative;
+	padding: 1em;
+	z-index: 2;
 }
