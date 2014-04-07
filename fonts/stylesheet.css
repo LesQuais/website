@@ -9,7 +9,7 @@
          url('vagrounded-bold-webfont.woff') format('woff'),
          url('vagrounded-bold-webfont.ttf') format('truetype'),
          url('vagrounded-bold-webfont.svg#vagroundedbold') format('svg');
-    font-weight: normal;
+    font-weight: bold;
     font-style: normal;
 
 }

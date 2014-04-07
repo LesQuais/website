@@ -1,11 +1,14 @@
 body {
 	margin: 0;
-	font-size: 180%;
+	font-size: 130%;
 	font-family: sans-serif;
 	font-weight: bold;
 	background-color: #000;
 	color: #FFF;
+
 	font-family: "Letter Gothic Pitch", sans-serif;
+	letter-spacing: .05em;
+	line-height: 180%;
 }
 
 #boat, #bg {
@@ -28,15 +31,27 @@ h1 {
 	width: 50%;
 	background-color: #000;
 	font-family: "VAG Rounded", sans-serif;
+	font-size: bold;
+
+	letter-spacing: .18em;
 }
 
 h2, h3, h4 {
+	font-size: 100%;
 	color: white;
+}
+
+h1 .name {
+	text-transform: uppercase;
+}
+
+#meters {
+	letter-spacing: -0.18em;
 }
 
 #right, #left {
 	position: fixed;
-	font-size: 200%;
+	font-size: 380%;
 	vertical-align: middle;
 	color: inherit;
 	text-decoration: none;
