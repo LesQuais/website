@@ -1,13 +1,10 @@
 ---
 layout: default
-title: Your New Jekyll Site
+title: La traversée
 ---
 
-<div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-</div>
+<ol class="items">
+{% for item in site.pages %}
+	<li><a href="{{ item.url }}" id="{{ item.title }}">{{ item.title }}</a></li>
+{% endfor %}
+</ol>
