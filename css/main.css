@@ -3,6 +3,8 @@ body {
 	font-size: 180%;
 	font-family: sans-serif;
 	font-weight: bold;
+	background-color: #000;
+	color: #FFF;
 }
 
 #boat, #bg {
@@ -22,12 +24,16 @@ body {
 
 h1 {
 	position: absolute;
-	color: rgb(33,111,255);
-	right: 0;
+	left: 0;
 	bottom: 0;
+	background-color: #000;
 }
 
-a {
+h2, h3, h4 {
+	color: white;
+}
+
+#right, #left {
 	position: fixed;
 	font-size: 200%;
 	vertical-align: middle;
@@ -50,14 +56,5 @@ a {
 	position: relative;
 	display: block;
 	width: 100%;
-	color: rgba(33,111,255,0.33);
 	z-index: 1;
-}
-
-#above {
-	color: #111;
-}
-
-#below {
-	color: #DDD;
 }
