@@ -2,7 +2,7 @@
 layout: "item"
 title: "Australien"
 size: "152,64"
-color: "#33F"
+color: "rgb(95, 177, 222)"
 ---
 
 Au travers de ce navire témoigne la guerre, autant que l’éloignement du monde trop connu. L’Australie, une île-continent dans l’hémisphère sud encore à explorer et terre d’immigration; les îles du Pacifique, et le choix de Gauguin de retourner à “la vie sauvage“ : « J’emporte mes couleurs et mes pinceaux et je me retremperai loin de tous les hommes ».
