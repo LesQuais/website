@@ -30,11 +30,14 @@ h1 {
 	left: 0;
 	bottom: 0;
 	width: 50%;
-	background-color: #000;
+	margin: 0;
+	padding: .5em;
 	font-family: "VAG Rounded", sans-serif;
 	font-size: bold;
 
 	letter-spacing: .18em;
+
+	margin-bottom: -.5em;
 }
 
 h2, h3, h4 {
@@ -74,4 +77,8 @@ h1 .name {
 	display: block;
 	width: 100%;
 	z-index: 1;
+}
+
+#below, h1 {
+	background-color: #000;
 }
