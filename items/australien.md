@@ -1,6 +1,7 @@
 ---
-layout: item
-title: Australien
+layout: "item"
+title: "Australien"
+size: "152,64"
 color: "#33F"
 ---
 
