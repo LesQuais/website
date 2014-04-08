@@ -7,8 +7,8 @@ document.body.onload = function() {
 	spacer.style.height = window.innerHeight + 'px';
 
 	window.addEventListener('scroll', function() {
-		bg.style.top = ((above.clientHeight - document.body.scrollTop) / 1.5) + 'px';
-		boat.style.bottom = ((document.body.scrollTop - spacer.offsetTop) / 1.25) + 'px';
+		bg.style.top = ((above.clientHeight - window.scrollY) / 1.5) + 'px';
+		boat.style.bottom = ((window.scrollY - spacer.offsetTop) / 1.25) + 'px';
 	});
 
 	window.scrollTo(0, spacer.offsetTop);
