@@ -1,5 +1,5 @@
 body {
-	margin: auto;
+	margin: 0;
 	font-size: 130%;
 	font-family: sans-serif;
 	font-weight: bold;
@@ -11,10 +11,6 @@ body {
 	line-height: 180%;
 }
 
-body, #boat, #bg {
-	max-width: 960px;
-}
-
 a {
 	color: inherit;
 }
@@ -22,7 +18,7 @@ a {
 #boat, #bg {
 	position: fixed;
 	z-index: -1;
-	max-height: 100%;
+	width: 100%;
 }
 
 #bg {
