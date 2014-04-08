@@ -93,8 +93,8 @@ h1 .name {
 
 /* Jekyll adds extraneous <p>.
 */
-#spacer, #above {
-	margin-top: -1em;
+#below {
+	margin-top: -.5em;
 }
 
 #above, #below {
