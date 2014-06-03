@@ -1,20 +1,39 @@
 ---
-layout: item
-title: Himalaya
+layout: "item"
+title: "Himalaya"
+size: "136,38m"
+color: "rgb(95, 177, 222)"
 ---
-L'Himalaya, en sanskrit « demeure des neiges », (hima « neige » et alaya « maison, demeure »), ou chaîne de l'Himalaya, est un ensemble de chaînes de montagnes s'étirant sur plus de 2 400 km de long et large de 250 à 400 km, qui sépare le sous-continent indien du plateau tibétain dans le sud de l'Asie.
+Le navire tient son nom d’une chaîne de montagne située entre l’Inde et le Tibet dans le sud de l’Asie. L'Himalaya, de la langue sanskrit “demeure des neiges“, abrite les plus hautes montagnes du monde, soit les 14 sommets qui culminent à plus de 8000 m d’altitude dont le mont Everest, le plus haut de tous. 
+
+Ce sont aussi bien l’accumulation des exploits du navire en changeant d'assignation selon les époques, que les exploits des hommes cherchant à se mesurer aux sommets himalayens, qui nous ont conduit à le choisir pour l’entrée du collège. Posé sur le premier pilier de l’entrée, incliné comme une pente de montagne, l’Himalaya est vu de loin, sa lumière bleue teinte toute la sphère d’entrée à l'extérieur comme à l’intérieur. 
 
 {% include separator.html %}
 
-Un bateau est une construction humaine capable de flotter sur l'eau et de s'y déplacer, dirigé ou non par ses occupants. Il répond aux besoins du transport maritime ou fluvial, et permet diverses activités telles que le transport de personnes ou de marchandises, la guerre sur mer, la pêche, la plaisance, ou d'autres services tels que la sécurité des autres bateaux.
+Himalaya est un paquebot mixte et le 117e navire de la compagnie Messageries Maritimes construit à La Ciotat.
 
-
-1891
+1902
 ----
 
-Il remorque un navire…
+lancement pour la ligne Dunkerque - Haïphong ;
 
-3 juillet 1895
+1907
 --------------
 
-Ceci est [un lien](http://wikipedia.org/)
+aménagement à bord d’une école d'application d'élèves officiers de la Marine, sans lendemain du fait des coûts trop élevés :
+
+1915
+----
+
+effectue quelques voyages vers Madagascar et La Nouvelle Orléans ;
+
+
+1916
+----
+
+transporte avec le navire Sontay 11 420 soldats russes, affectés au front français,de Dalny à Marseille, puis le contingent sénégalais de Dakar pour la France ;Il transporte également 20 000 Chinois, 25 000 Annamites et Tonkinois de Chine vers la France pour couvrir le besoin de main d’œuvre de l'industrie de guerre ;
+
+1917
+----
+
+torpillé près de Bizerte, les rescapés sont sauvés par les avisos Impatiente et Gracieuse.
