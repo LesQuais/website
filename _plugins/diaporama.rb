@@ -12,20 +12,20 @@ module Jekyll
 	class DiaporamaTag < Liquid::Block
 
 
-		def initialize(tag_name, markup, tokens)
+		def initialize(tag_name, text, tokens)
 			super
-			@diaporama_name = markup.strip
+			@diaporama_name = text.strip
 		end
 
 
 		def render(context)
-			# @config = context.registers[:site].config['diaporamas']
+			page_id = context.registers[:page]['title'].downcase
 
 			result = '<ol>'
 
 			user_data.each do |img_name, caption|
 				result << '<li><img src="'
-				result << '/images/diaporamas/' << @diaporama_name << '/' << img_name
+				result << '/images/diaporamas/' << page_id << '/' << @diaporama_name << '/' << img_name
 				result << '" title="'
 				result << caption.strip.tr('"', '“')
 				result << '" /></li>'
