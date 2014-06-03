@@ -5,10 +5,12 @@ size: "152,64"
 color: "rgb(95, 177, 222)"
 ---
 
-Au travers de ce navire témoigne la guerre, autant que l’éloignement du monde trop connu. L’Australie, une île-continent dans l’hémisphère sud encore à explorer et terre d’immigration; les îles du Pacifique, et le choix de Gauguin de retourner à “la vie sauvage“ : « J’emporte mes couleurs et mes pinceaux et je me retremperai loin de tous les hommes ».Les aborigènes, populations autochtones de l’Australie, ont survécu dans le Nord et l’Ouest. Leur mythologie parle d’un temps primordial, le “temps du rêve“ au cours duquel le paysage a été modelé et les premiers êtres animés ont vécu. La peinture aborigène, qui a des styles divers, représente de façon symbolique des moments de cette histoire.
+Au travers de ce navire témoigne la guerre, autant que l’éloignement du monde trop connu. L’Australie, une île-continent dans l’hémisphère sud encore à explorer et terre d’immigration; les îles du Pacifique, et le choix de Gauguin de retourner à “la vie sauvage“ : « J’emporte mes couleurs et mes pinceaux et je me retremperai loin de tous les hommes ».
+Les aborigènes, populations autochtones de l’Australie, ont survécu dans le Nord et l’Ouest. Leur mythologie parle d’un temps primordial, le “temps du rêve“ au cours duquel le paysage a été modelé et les premiers êtres animés ont vécu. La peinture aborigène, qui a des styles divers, représente de façon symbolique des moments de cette histoire.
+
 {% include separator.html %}
 
-Australien est un paquebot et le 90e navire de la compagnie Messageries Maritimes construit à La Ciotat. Nous l’avons retenu avant tout pour son pouvoir évocateur d’un pays lointain. L’Australie pourrait être une possible destination des jeunes gens pour un premier grand voyage. C’est précisément vers la capitale de ce pays que le peintre Paul Gauguin y a embarqué à Marseille. 
+Australien est un paquebot et le 90e navire de la compagnie Messageries Maritimes construit à La Ciotat. Nous l’avons retenu avant tout pour son pouvoir évocateur d’un pays lointain. L’Australie pourrait être une possible destination des jeunes gens pour un premier grand voyage. C’est précisément vers la capitale de ce pays que le peintre Paul Gauguin y a embarqué à Marseille.
 
 1889
 ----
