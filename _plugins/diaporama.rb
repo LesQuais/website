@@ -22,7 +22,7 @@ module Jekyll
 		def render(context)
 			page_id = context.registers[:page]['title'].downcase
 
-			Fotorama::render(page_id, diaporama_name, user_data)
+			Fotorama::render(page_id, @diaporama_name, user_data)
 		end
 
 		# Transforms the text within the `diaporama` tag to a data structure

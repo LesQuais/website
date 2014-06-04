@@ -35,12 +35,16 @@ module DiaporamaParser
 	# Will generate:
 	#		{"toto" => "titi", "tutu" => "tata"}
 	def self.parse(text)
-		data = []
+		result = {}
 
-		text.each_line do |line|
-			data.push(line.split(/\s*:\s*/)) unless line.strip.empty?
+		entries = text.strip.split(/\n\n+/)
+
+		entries.each do |entry|
+			parts = entry.split(/\n/)
+			filename = parts.shift
+			result[filename] = parts.join(' ')
 		end
 
-		Hash[data]
+		result
 	end
 end
