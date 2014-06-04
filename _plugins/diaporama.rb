@@ -2,6 +2,8 @@
 #
 # Lists images in a given folder, allowing end-user to specify captions.
 #
+# Adds data for [Fotorama](http://fotorama.io) usage.
+#
 # Author: Matti Schneider
 # License: MIT
 
@@ -21,19 +23,20 @@ module Jekyll
 		def render(context)
 			page_id = context.registers[:page]['title'].downcase
 
-			result = '<ol>'
+			result = '<div class="fotorama" data-nav="thumbs" data-allowfullscreen="native" data-fit="scaledown" data-transition="crossfade">' # see usage of data attributes at http://fotorama.io/customize/
 
 			user_data.each do |img_name, caption|
-				result << '<li><img src="'
+				caption.strip!.tr!('"', '“')
+				result << '<img src="'
 				result << '/images/diaporamas/' << page_id << '/' << @diaporama_name << '/' << img_name
 				result << '" title="'
-				result << caption.strip.tr('"', '“')
-				result << '" /></li>'
+				result << caption
+				result << '" data-caption="'	# for fotorama
+				result << caption
+				result << '"/>'
 			end
 
-			result << '</ol>'
-
-			result
+			result << '</div>'
 		end
 
 		# Transforms the text within the `diaporama` tag to a data structure
