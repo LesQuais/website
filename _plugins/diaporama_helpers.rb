@@ -11,14 +11,14 @@ module Fotorama
 		result = '<div class="fotorama" data-nav="thumbs" data-allowfullscreen="native" data-fit="scaledown" data-transition="crossfade">' # see usage of data attributes at http://fotorama.io/customize/
 
 		user_data.each do |img_name, caption|
-			caption = caption.strip.tr('"', '“')
+			caption = caption.strip.tr('"', '“').split('\n')
 
 			result << '<img src="'
 			result << '/images/diaporamas/' << page_id << '/' << diaporama_name << '/' << img_name
 			result << '" title="'
-			result << caption
+			result << caption.join(' ')
 			result << '" data-caption="'	# for fotorama
-			result << caption
+			result << caption.join('&lt;br/&gt;')
 			result << '"/>'
 		end
 
@@ -42,7 +42,7 @@ module DiaporamaParser
 		entries.each do |entry|
 			parts = entry.split(/\n/)
 			filename = parts.shift
-			result[filename] = parts.join(' ')
+			result[filename] = parts.join('\n')
 		end
 
 		result

@@ -47,6 +47,20 @@ describe Fotorama do
 
 			it_should_behave_like 'fotorama renderer'
 		end
+
+		context 'with a multiline legend' do
+			let(:data) do
+				{ 'file.jpg' => 'Legend.\nAnother line.' }
+			end
+
+			it 'should include the legend as a single-line title' do
+				expect(subject).to include "title=\"Legend. Another line.\""
+			end
+
+			it 'should include the legend as a multi-line Fotorama caption' do
+				expect(subject).to include "data-caption=\"Legend.&lt;br/&gt;Another line.\""
+			end
+		end
 	end
 end
 
@@ -89,6 +103,18 @@ INPUT
 			end
 
 			it { should eq({ 'file.png' => 'legend', 'second file.jpg' => 'another legend' }) }
+		end
+
+				context 'with a multiline entry' do
+			let(:input) do
+<<INPUT
+file.png
+legend first line
+legend second line
+INPUT
+			end
+
+			it { should eq({ 'file.png' => 'legend first line\nlegend second line' }) }
 		end
 	end
 end
