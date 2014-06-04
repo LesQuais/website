@@ -37,7 +37,7 @@ module DiaporamaParser
 	def self.parse(text)
 		result = {}
 
-		entries = text.strip.split(/\n\n+/)
+		entries = text.strip.gsub(/\r\n/, '\n').split(/\n{2,}/)
 
 		entries.each do |entry|
 			parts = entry.split(/\n/)
