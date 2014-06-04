@@ -34,3 +34,15 @@ describe Fotorama do
 		end
 	end
 end
+
+describe DiaporamaParser do
+	describe '#parse' do
+		subject { DiaporamaParser::parse(input) }
+
+		context 'with one line' do
+			let(:input) { 'file.png : legend' }
+
+			it { should eq({ 'file.png' => 'legend' }) }
+		end
+	end
+end
