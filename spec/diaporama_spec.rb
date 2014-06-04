@@ -15,10 +15,21 @@ describe Fotorama do
 		it { should_not be_empty }
 		it { should include '<img' }
 
-		it 'should contain all images' do
+		it 'should include all images and build their path' do
 			data.each do |file, caption|
-				expect(subject).to include file
-				expect(subject).to include caption
+				expect(subject).to include "src=\"/images/diaporamas/#{page_id}/#{diaporama_name}/#{file}\""
+			end
+		end
+
+		it 'should include all legends as titles' do
+			data.each do |file, caption|
+				expect(subject).to include "title=\"#{caption}\""
+			end
+		end
+
+		it 'should include all legends as Fotorama captions' do
+			data.each do |file, caption|
+				expect(subject).to include "data-caption=\"#{caption}\""
 			end
 		end
 	end
