@@ -107,8 +107,8 @@ h1 .name {
 	float: left;
 	display: block;
 	width: 50%;
-	margin: 1em;
-	padding: 1em;
+	margin-right: 1em;
+	padding-right: 1em;
 }
 
 /* Diaporama legend */
