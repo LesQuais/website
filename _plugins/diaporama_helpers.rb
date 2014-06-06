@@ -8,7 +8,7 @@
 
 module Fotorama
 	def self.render(page_id, diaporama_name, user_data)
-		result = '<div class="fotorama" data-nav="thumbs" data-allowfullscreen="native" data-fit="scaledown" data-transition="crossfade">' # see usage of data attributes at http://fotorama.io/customize/
+		result = '<div class="fotorama" data-nav="thumbs" data-allowfullscreen="native" data-fit="scaledown" data-transition="crossfade" data-width="50%" data-ratio="4/3">' # see usage of data attributes at http://fotorama.io/customize/
 
 		user_data.each do |img_name, caption|
 			caption = caption.strip.tr('"', '“').split('\n')
