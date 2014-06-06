@@ -112,3 +112,9 @@ h1 .name {
 	background-repeat: no-repeat;
 	background-position: bottom;
 }
+
+.fotorama {
+	display: block;
+	width: 50%;
+}
+

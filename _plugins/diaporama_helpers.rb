@@ -8,7 +8,7 @@
 
 module Fotorama
 	def self.render(page_id, diaporama_name, user_data)
-		result = '<div class="fotorama" data-nav="thumbs" data-allowfullscreen="native" data-fit="scaledown" data-transition="crossfade" data-width="50%" data-maxheight="100%">' # see usage of data attributes at http://fotorama.io/customize/
+		result = '<div class="fotorama" data-nav="thumbs" data-allowfullscreen="native" data-fit="scaledown" data-transition="crossfade" data-width="100%" data-maxheight="100%">' # see usage of data attributes at http://fotorama.io/customize/
 
 		result << '<img src'
 
