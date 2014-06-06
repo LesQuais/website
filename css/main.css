@@ -103,17 +103,6 @@ h1 .name {
 	z-index: 2;
 }
 
-#above {
-	background: -webkit-gradient(linear, left bottom, left top, from(rgba(255, 255, 255, 1)), to(rgba(255, 255, 255, 0));
-	background: -moz-linear-gradient(center bottom, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0) 100%);
-	background: -o-linear-gradient(bottom, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0) 100%));
-	background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
-
-	background-size: 100% 8em;
-	background-repeat: no-repeat;
-	background-position: bottom;
-}
-
 .fotorama {
 	float: left;
 	display: block;
