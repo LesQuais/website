@@ -10,37 +10,35 @@ aborig1.jpg
 Seven sisters (sept sœurs) de Tjampawa Kawiny
 Acrylique sur toile 197 x 198 cm
 Source image : http://natsiaa30.nt.gov.au/view-artwork/6/247
-This is a Tjukurpa Story (Creation Story) about the constellations of Pleiades and Orion. The sisters are the constellation of Pleiades and the other star Orion is said to be Nyiru or Nyirunya (described as a lusty or bad man).
 
 aborig2.jpg
 Seven sisters (sept sœurs) de Tjampawa Kawiny
 Acrylique sur toile 197 x 198 cm
 Source image : http://natsiaa30.nt.gov.au/view-artwork/6/247
-This is a Tjukurpa Story (Creation Story) about the constellations of Pleiades and Orion. The sisters are the constellation of Pleiades and the other star Orion is said to be Nyiru  is said he wants to marry the eldest sister.
 
 aborig3.jpg
 Seven sisters (sept sœurs) de Tjampawa Kawiny
 Acrylique sur toile 197 x 198 cm
 Source image : http://natsiaa30.nt.gov.au/view-artwork/6/247
-This is a Tjukurpa Story (Creation Story) about the constellations of Pleiades and Orion. The sisters are the constellation of Pleiades and the other star Orion is said to be Nyiru or Nyirunya (described as a lusty or bad man). Nyiru is forever chasing the sisters known as the Kunkarunkara women as it is said he wants to marry the eldest sister.
 
 aborig4.jpg
 Seven sisters (sept sœurs) de Tjampawa Kawiny
 Acrylique sur toile 197 x 198 cm
 Source image : http://natsiaa30.nt.gov.au/view-artwork/6/247
-This is a Tjukurpa Story (Creation Story) about the constellations of Pleiades and Orion. The sisters are the constellation of Pleiades and the other star Orion is said to be Nyiru or Nyirunya (described as a lusty or bad man). Nyiru is forever chasing the sisters known as the Kunkarunkara women
-
 
 aborig5.jpg
 Seven sisters (sept sœurs) de Tjampawa Kawiny
 Acrylique sur toile 197 x 198 cm
 Source image : http://natsiaa30.nt.gov.au/view-artwork/6/247
-This is a Tjukurpa Story (Creation Story) about the constellations of Pleiades and Orion. The sisters are the constellation of Pleiades and the other star Orion is said to be Nyiru or Nyirunya (described as a lusty or bad man). Nyiru is forever chasing the sisters known as the Kunkarunkara women as it is said he wants to marry the eldest sister.
 {% enddiaporama %}
+
+This is a Tjukurpa (creation) Story about the constellations of Pleiades and Orion. The sisters are the constellation of Pleiades, and the other star Orion is said to be Nyiru or Nyirunya (described as a lusty or bad man) as he wants to marry the eldest sister.
 
 {% diaporama cartes %}
 carte_australie.jpg
 {% enddiaporama %}
+
+Le continent australien.
 
 Au travers de ce navire témoigne la guerre, autant que l’éloignement du monde trop connu : l’**Australie**, une île-continent dans l’hémisphère sud et terre d’immigration ;
 les îles du Pacifique et le choix de Gauguin de retourner à “la vie sauvage“ : « J’emporte mes couleurs et mes pinceaux et je me retremperai loin de tous les hommes ».
@@ -65,8 +63,6 @@ Il remorque un navire autrichien en panne jusqu’à Ajaccio.
 
 **Paul Gauguin** embarque à Marseille pour son dernier voyage. Il arrive à Sydney le 6 août de la même année, avant de poursuivre son voyage jusqu’aux Marquises.
 
-Paul Gauguin est un peintre français du 20e siècle (1848-1903). Dès ses 17 ans, il s’engage sur des navires, d’abord comme novice, puis il devient lieutenant et intègre la marine nationale. Abandonnant les voyages et le monde des affaires, il se consacre entièrement à sa passion : la peinture. Dès 1887 il embarque à nouveau pour Panama, la Martinique, puis la Polynésie, Tahiti et enfin les Marquises où il restera jusqu’à son décès le 8 mai 1903.
-
 {% diaporama gaugin %}
 gaugin1.jpg
 Cavalier sur la plage
@@ -88,6 +84,9 @@ Te Arii Vahine (La Reine de beauté)
 Huile sur toile, 1996
 Actuellement au musée Puchkine à Moscou
 {% enddiaporama %}
+
+Paul Gauguin est un peintre français du 20e siècle (1848-1903). Dès ses 17 ans, il s’engage sur des navires, d’abord comme novice, puis il devient lieutenant et intègre la marine nationale. Abandonnant les voyages et le monde des affaires, il se consacre entièrement à sa passion : la peinture. Dès 1887 il embarque à nouveau pour Panama, la Martinique, puis la Polynésie, Tahiti et enfin les Marquises où il restera jusqu’à son décès le 8 mai 1903.
+
 
 
 Août 1914
