@@ -27,6 +27,7 @@ Ceci est la légende associée à l'image fournie dans le dossier images/diapora
 
 marble of doom.png
 Ce qui apparaît trop souvent
+Source : Apple
 {% enddiaporama %}
 
 Un diaporama est donc constitué d'un dossier contenant des images, dans le dossier `images/diaporamas/`. Pour le faire apparaître dans une page, on doit donner le nom du dossier dans une balise `diaporama`. On peut ensuite associer des légendes aux images en donnant leur nom, deux points, et la légende. On clôt enfin le diaporama par la balise `enddiaporama`.
