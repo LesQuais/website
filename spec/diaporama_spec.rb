@@ -3,6 +3,33 @@ ROOT_FOLDER		= "#{File.dirname(__FILE__)}/.."
 require_relative "../_plugins/diaporama_helpers.rb"
 
 describe Fotorama do
+	shared_examples 'metadata renderer' do
+		it 'should include all legends as titles' do
+			data.each do |file, caption|
+				expect(subject).to include "title=\"#{caption}\""
+			end
+		end
+
+		it 'should include all legends as Fotorama captions' do
+			data.each do |file, caption|
+				expect(subject).to include "data-caption=\"#{caption}\""
+			end
+		end
+	end
+
+	describe '#html_metadata' do
+
+		subject { Fotorama::html_metadata(caption) }
+
+		context 'with a multiline legend' do
+			let(:caption) { 'Legend.\nAnother line.' }
+
+			it { should include "title=\"Legend. Another line.\"" }
+
+			it { should include "data-caption=\"Legend.&lt;br/&gt;Another line.\"" }
+		end
+	end
+
 	describe '#render' do
 		let(:page_id) { 'test_id' }
 		let(:diaporama_name) { 'test_name' }
@@ -10,27 +37,28 @@ describe Fotorama do
 		subject { Fotorama::render(page_id, diaporama_name, data) }
 
 		shared_examples 'fotorama renderer' do
-			it { should_not be_empty }
 			it { should include '<img' }
 
-			it 'should include all images and build their path' do
-				data.each do |file, caption|
-					expect(subject).to include "src=\"/images/diaporamas/#{page_id}/#{diaporama_name}/#{file}\""
+			it_should_behave_like 'metadata renderer'
+
+			it 'should link the first image as an img for degradability' do
+				file = data.keys[0]
+
+				expect(subject).to include "src=\"/images/diaporamas/#{page_id}/#{diaporama_name}/#{file}\""
+			end
+
+			it 'should lazy-load all other images' do
+				lazy_loaded = data.clone
+				lazy_loaded.shift
+
+				lazy_loaded.each do |file, caption|
+					expect(subject).to include "href=\"/images/diaporamas/#{page_id}/#{diaporama_name}/#{file}\""
 				end
 			end
 
-			it 'should include all legends as titles' do
-				data.each do |file, caption|
-					expect(subject).to include "title=\"#{caption}\""
-				end
-			end
-
-			it 'should include all legends as Fotorama captions' do
-				data.each do |file, caption|
-					expect(subject).to include "data-caption=\"#{caption}\""
-				end
-			end
+			it { should_not include '""' }
 		end
+
 
 		context 'with one entry' do
 			let(:data) do
@@ -46,20 +74,6 @@ describe Fotorama do
 			end
 
 			it_should_behave_like 'fotorama renderer'
-		end
-
-		context 'with a multiline legend' do
-			let(:data) do
-				{ 'file.jpg' => 'Legend.\nAnother line.' }
-			end
-
-			it 'should include the legend as a single-line title' do
-				expect(subject).to include "title=\"Legend. Another line.\""
-			end
-
-			it 'should include the legend as a multi-line Fotorama caption' do
-				expect(subject).to include "data-caption=\"Legend.&lt;br/&gt;Another line.\""
-			end
 		end
 	end
 end

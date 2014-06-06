@@ -8,21 +8,36 @@
 
 module Fotorama
 	def self.render(page_id, diaporama_name, user_data)
-		result = '<div class="fotorama" data-nav="thumbs" data-allowfullscreen="native" data-fit="scaledown" data-transition="crossfade" data-width="50%" data-ratio="4/3">' # see usage of data attributes at http://fotorama.io/customize/
+		result = '<div class="fotorama" data-nav="thumbs" data-allowfullscreen="native" data-fit="scaledown" data-transition="crossfade" data-width="50%" data-maxheight="100%">' # see usage of data attributes at http://fotorama.io/customize/
+
+		result << '<img src'
 
 		user_data.each do |img_name, caption|
+			result << '="'
+			result << image_path(page_id, diaporama_name, img_name)
+			result << '" '
+			result << html_metadata(caption)
+			result << '></a><a href'	# ending with an empty <a> is less annoying than having a loop initialization
+		end
+
+		result << '></a></div>'
+	end
+
+	def self.image_path(page_id, diaporama_name, image_name)
+		'/images/diaporamas/' << page_id << '/' << diaporama_name << '/' << image_name
+	end
+
+	# Generates HTML attributes from a raw, possibly multiline, caption.
+	#
+	# Returns a string ready for inclusion in an `img` or `a` tag, with Fotorama-related tags.
+	def self.html_metadata(caption)
 			caption = caption.strip.tr('"', '“').split('\n')
 
-			result << '<img src="'
-			result << '/images/diaporamas/' << page_id << '/' << diaporama_name << '/' << img_name
-			result << '" title="'
+			result =  'title="'
 			result << caption.join(' ')
 			result << '" data-caption="'	# for fotorama
 			result << caption.join('&lt;br/&gt;')
-			result << '"/>'
-		end
-
-		result << '</div>'
+			result << '"'
 	end
 end
 
