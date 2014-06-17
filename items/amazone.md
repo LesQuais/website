@@ -6,56 +6,114 @@ color: "rgb(107, 165, 58)"
 boat_over_bg: true
 ---
 
-Amazones
-----
-Dans la mythologie, les Amazones sont un peuple de femmes guerrières résidant sur les rives de la mer Noire. Les légendes et récits sont très nombreux à leur propos. Elles sont fréquemment représentées dans des bandes dessinées ou des films d’animation. 
-La magie et le mystère de la forêt
-----
-L'Amazonie est une vaste région de l’Amérique du Sud. Il s’agit d’une plaine couverte de forêt qui s’articule autour du fleuve Amazone et des ses affluents. Cette région est aujourd'hui dévastée par la déforestation. 
+{% diaporama lesamazones %}
 
-Nous avons retenu Amazone pour son pouvoir évocateur d’images : la forêt tropicale et les Amazones de la mythologie. Ce mot est placé dans la cage d’escalier très longue et étroite —comme le canal de Suez— visible de l’extérieur. Sa phosphorescence verdâtre évoque la magie et le mystère de la forêt. 
+Dans la mythologie, les Amazones sont un peuple de femmes guerrières résidant sur les rives de la mer Noire. Les légendes et récits sont très nombreux à leur propos. Elles sont fréquemment représentées dans de=s bandes dessinées ou des films d’animation.
+
+dahomey.jpg
+Les amazones guerrières du Dahomey (actuel Benin), photographie de 1890.
+Archives : New York Public Library ; source : Commons Wikipédia
+
+picasso.jpg
+« Amazone 10.3.59 XIII » de Pablo Picasso, © Succession Picasso 2014
+Lithographie dans l’ouvrage Toros et Toreros.
+
+jeu.jpg
+Image issue du jeu Heroes of Annihilated Empires ; source : Wikipédia
+{% enddiaporama %}
+
+
+{% diaporama amazonie %}
+
+L'Amazonie est une vaste région de l’Amérique du Sud. Il s’agit d’une plaine couverte de forêt qui s’articule autour du fleuve Amazone et des ses affluents. Cette région est aujourd'hui dévastée par la déforestation.
+fleuve.jpg
+L’immense plaine de l’Amazonie est traversée par l’Amazone le plus long fleuve sur la planète et couverte par la plus grande forêt du monde intertropical. Source : Commons Wikipedia
+
+foret.jpg
+Paysage d'Amazonie à l'ouest de Manaus
+Photographie de LecomteB, septembre 2009, source : Commons Wikipedia
+
+deforestation.jpg
+Déforestation en Amazonie vue depuis un satellite. Les routes tracées dans la forêt suivent un motif caractéristique en « arêtes de poisson ».
+Ce fichier provient de la NASA, source : Commons Wikipedia
+{% enddiaporama %}
+
+
+Nous avons retenu Amazone pour son pouvoir évocateur d’images : la forêt tropicale et les **Amazones** de la mythologie. Ce mot est placé dans la cage d’escalier très longue et étroite —comme le canal de Suez— visible de l’extérieur. Sa phosphorescence verdâtre évoque la magie et le **mystère de la forêt**.
 
 {% include separator.html %}
 
-Amazone est un paquebot qui mesure 117 mètres, et le 54e navire de la compagnie des Messageries Maritimes construit à La Ciotat. 
+Amazone est un paquebot qui mesure 117 mètres, et le 54e navire de la compagnie des Messageries Maritimes construit à La Ciotat.
 
 1869
 ----
 
-lancement pour la ligne d’Extrême Orient, construit spécialement pour rallier l’Indochine par le canal de Suez qui vient d’être ouvert. Il faut alors environ un mois de mer pour aller de Marseille à Saïgon ;
+_Lancement du navire_ pour la ligne d’Extrême Orient, construit spécialement pour rallier l’Indochine par le canal de Suez qui vient d’être ouvert. Il faut alors environ un mois de mer pour aller de Marseille à Saïgon.
+
+{% diaporama navire %}
+
+amlancement.jpg
+Lancement de l’Amazone en 1869
+
+mer.jpg
+Carte Postale, édition H. Grimaud, 54 Rue Mazenod – Marseille
+
+escalier.jpg
+Le grand escalier de la salle à manger de la 1ère classe
+Source : Archives de la Chambre de Commerce et d’Industrie Marseille-Provence
+
+cabine.jpg
+Cabine à 4 lits en 2e classe
+Source : Archives de la Chambre de Commerce et d’Industrie Marseille-Provence
+
+{% enddiaporama %}
 
 1883
 ----
 
-refondu pour les lignes du Levant ;
+Refondu pour les lignes du Levant.
 
-1885 
---------------
+1885
+-----
 
-part pour Haiphong et sert de transport de troupes pour le corps expéditionnaire du Tonkin. Le navire rentrera à Marseille aménagé en navire-hôpital ;
+Part pour Haiphong et sert de transport de troupes pour le corps expéditionnaire du Tonkin. Le navire rentrera à Marseille aménagé en navire-hôpital.
 
 1885
 ---------
 
-passe sur la ligne de Madagascar ;
+Passe sur la ligne de Madagascar.
 
 1888
 ---------------
 
-quitte le port de Toulon à destination de Haiphong au Vietnam avec 599 soldats ;
+Quitte le port de Toulon à destination de Haiphong au Vietnam avec 599 soldats.
 
 1889
 ---------------
 
-assure la ligne de l'Océan Indien et s'échoue à deux reprises dans la même année ;
+Assure la ligne de l'Océan Indien et s'échoue à deux reprises dans la même année.
 
-20 Mai 1891 
+20 Mai 1891
 ------------
 
-arrive à Marseille avec le poète Arthur Rimbaud malade embarqué à Aden au Yémen ;
+Arrive à Marseille avec le poète _Arthur Rimbaud_ malade embarqué à Aden au Yémen.
+
+{% diaporama rimbaud %}
+
+rimbaud.jpg
+Dessin du poète Arthur Rimbaud mourant réalisé à l'hôpital de Marseille par sa sœur Isabelle
+
+{% enddiaporama %}
 
 1898
 ------------
 
-l’Amazone est démoli à Marseille
+L’Amazone _est démoli_ à Marseille
 
+{% diaporama plan %}
+
+plans.jpg
+Plans pour la destruction de l’Amazone en 1898 à Marseille
+Source : Archives du Musée Ciotaden, La Ciotat
+
+{% enddiaporama %}
