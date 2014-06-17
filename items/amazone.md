@@ -1,8 +1,8 @@
 ---
 layout: "item"
 title: "Amazone"
-color: "rgb(95, 177, 222)"
 size: "117"
+color: "rgb(107, 165, 58)"
 boat_over_bg: true
 ---
 
