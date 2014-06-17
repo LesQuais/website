@@ -4,7 +4,7 @@ body {
 	font-family: sans-serif;
 	font-weight: bold;
 	background-color: #000;
-	color: #FFF;
+	color: white;
 
 	font-family: "VAG Rounded", "Letter Gothic Pitch", sans-serif;
 	letter-spacing: .05em;
@@ -13,6 +13,14 @@ body {
 
 a {
 	color: inherit;
+}
+
+strong {
+	color: black;
+}
+
+#below strong {
+	color: white;
 }
 
 #boat, #bg {
@@ -45,7 +53,6 @@ h1 {
 
 h2, h3, h4 {
 	font-size: 100%;
-	color: white;
 }
 
 h1 .name {
@@ -83,11 +90,10 @@ h1 .name {
 }
 
 #below, h1 {
-	background-color: #000;
+	background-color: black;
 }
 
 #above {
-	color: #FFF;
 	font-size: 120%;
 }
 
