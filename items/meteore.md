@@ -1,7 +1,7 @@
 ---
 layout: "item"
 title: "Météore"
-size: "13,05m"
+size: "21,20"
 color: "rgb(217, 178, 218)"
 id: "meteore"
 ---

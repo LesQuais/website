@@ -1,7 +1,7 @@
 ---
 layout: "item"
 title: "Phocéen I"
-size: "45m"
+size: "45"
 color: "rgb(255, 236, 0)"
 id: "phoceen"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: "item"
 title: "Ampère"
-size: "91,50m"
+size: "91,50"
 color: "rgb(81, 166, 148)"
 id: "ampere"
 ---

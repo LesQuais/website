@@ -1,7 +1,7 @@
 ---
 layout: "item"
 title: "Monterrey"
-size: "197,20m"
+size: "197,20"
 color: "rgb(66, 119, 126)"
 ---
 

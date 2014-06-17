@@ -1,7 +1,7 @@
 ---
 layout: "item"
 title: "Vésuve"
-size: "40,20m"
+size: "40,20"
 color: "rgb(231, 178, 66)"
 id: "vesuve"
 ---
