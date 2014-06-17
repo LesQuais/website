@@ -2,7 +2,7 @@
 layout: "item"
 title: "Vésuve"
 size: "40,20m"
-color: "rgb(95, 177, 222)"
+color: "rgb(231, 178, 66)"
 id: "vesuve"
 ---
 

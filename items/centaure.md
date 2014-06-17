@@ -2,7 +2,7 @@
 layout: "item"
 title: "Centaure"
 size: "231,25m"
-color: "rgb(95, 177, 222)"
+color: "rgb(5, 87, 158)"
 ---
 Dans la mythologie grecque, un centaure est une créature mi-homme, mi-cheval. Le Centaure sont réputés pour leur tir infaillible, et il est le symbole de la dualité entre les instincts sauvages et l’être civilisé. Avec l’Amazone dans la cage d’escalier, nous faisons allusion aux Amazones femmes-guerrières de la mythologie, ici nous évoquons l’homme dans son rapport avec l’animal. 
 {% include separator.html %}

@@ -2,7 +2,7 @@
 layout: "item"
 title: "Monterrey"
 size: "197,20m"
-color: "rgb(95, 177, 222)"
+color: "rgb(66, 119, 126)"
 ---
 
 Le nom du bateau vient de la ville Monterrey située dans le nord-est du Mexique. Elle a 1,1 million d'habitants et on la surnomme : la ville des montages. 

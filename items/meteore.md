@@ -2,7 +2,7 @@
 layout: "item"
 title: "Météore"
 size: "13,05m"
-color: "rgb(95, 177, 222)"
+color: "rgb(217, 178, 218)"
 id: "meteore"
 ---
 Nous avons retenu ce nom pour cette tentative de s’inscrire dans le futur d’une nouvelle technique, mais aussi pour sa belle trajectoire d’astre liant le ciel et la terre. Par le Météore nous célébrons également la vitalité des adolescents ainsi que leur capacité d’illuminer notre monde.

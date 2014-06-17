@@ -2,7 +2,7 @@
 layout: "item"
 title: "Himalaya"
 size: "136,38m"
-color: "rgb(95, 177, 222)"
+color: "rgb(0, 156, 221)"
 ---
 Le navire tient son nom d’une chaîne de montagne située entre l’Inde et le Tibet dans le sud de l’Asie. L'Himalaya, de la langue sanskrit “demeure des neiges“, abrite les plus hautes montagnes du monde, soit les 14 sommets qui culminent à plus de 8000 m d’altitude dont le mont Everest, le plus haut de tous. 
 
