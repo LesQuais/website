@@ -3,6 +3,7 @@ layout: "item"
 title: "Amazone"
 size: "117m"
 color: "rgb(95, 177, 222)"
+boat_over_bg: true
 ---
 
 Amazones

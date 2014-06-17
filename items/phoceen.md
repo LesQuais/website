@@ -3,6 +3,7 @@ layout: "item"
 title: "Phocéen I"
 size: "45m"
 color: "rgb(95, 177, 222)"
+id: "phoceen"
 ---
 
 Notre choix a été motivé :par le caractère innovant de ce navire, qui a ouvert la voie vers l’apogée industrielle que la ville a connue pendant un siècle et demi ;pour souligner l’importance des comptoirs phocéens fondés sur la côte occidentale de la Méditerranée, notamment Marseille (Massalia) et Antibes (Antipolis) ;et rappeler qu’à cette époque, la “Sublime Porte“ est un empire considérable qui s’étend sur une large part de l’Europe.

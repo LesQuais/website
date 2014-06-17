@@ -12,8 +12,22 @@ layout: default
 </style>
 
 
-<img id="bg" src="../images/backgrounds/{{ page.title | downcase }}.jpg" alt="{{ page.title | capitalize }} (objet)" />
-<img id="boat" src="../images/boats/{{ page.title | downcase }}.png" alt="{{ page.title | capitalize }} (bateau)" />
+{% capture page_id %}
+	{% if page.id %}
+		{{ page.id }}
+	{% else %}
+		{{ page.title | downcase }}
+	{% endif %}
+{% endcapture %}
+
+{% if page.boat_over_bg %}
+	{% include boat_over_bg.html %}
+{% else %}
+	{% include bg_over_boat.html %}
+{% endif %}
+
+
+
 
 <div id="above">
 {{ content }}

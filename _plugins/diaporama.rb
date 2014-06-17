@@ -20,7 +20,9 @@ module Jekyll
 		end
 
 		def render(context)
-			page_id = context.registers[:page]['title'].downcase
+			page = context.registers[:page]
+
+			page_id = page['id'] || page['title'].downcase
 
 			Fotorama::render(page_id, @diaporama_name, user_data)
 		end
