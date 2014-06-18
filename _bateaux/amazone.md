@@ -1,5 +1,5 @@
 ---
-layout: "item"
+layout: "boat"
 title: "Amazone"
 size: "117"
 color: "rgb(107, 165, 58)"

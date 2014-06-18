@@ -1,5 +1,5 @@
 ---
-layout: "item"
+layout: "boat"
 title: "Australien"
 size: "152,64"
 color: "rgb(125, 175, 220)"

@@ -1,5 +1,5 @@
 ---
-layout: "item"
+layout: "boat"
 title: "Exemple"
 size: "1337,42"
 color: "rgb(125, 127, 122)"
