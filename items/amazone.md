@@ -26,6 +26,7 @@ Image issue du jeu Heroes of Annihilated Empires ; source : Wikipédia
 {% diaporama amazonie %}
 
 L'Amazonie est une vaste région de l’Amérique du Sud. Il s’agit d’une plaine couverte de forêt qui s’articule autour du fleuve Amazone et des ses affluents. Cette région est aujourd'hui dévastée par la déforestation.
+
 fleuve.jpg
 L’immense plaine de l’Amazonie est traversée par l’Amazone le plus long fleuve sur la planète et couverte par la plus grande forêt du monde intertropical. Source : Commons Wikipedia
 
@@ -100,8 +101,12 @@ Arrive à Marseille avec le poète _Arthur Rimbaud_ malade embarqué à Aden au 
 
 {% diaporama rimbaud %}
 
+Comme je descendais des Fleuves impassibles,Je ne me sentis plus guidé par les haleurs :Des Peaux-rouges criards les avaient pris pour cibles,Les ayant cloués nus aux poteaux de couleurs.J'étais insoucieux de tous les équipages,Porteur de blés flamands ou de cotons anglais.Quand avec mes haleurs ont fini ces tapages,Les Fleuves m'ont laissé descendre où je voulais.Dans les clapotements furieux des marées,Moi, l'autre hiver, plus sourd que les cerveaux d'enfants,Je courus ! Et les Péninsules démarréesN'ont pas subi tohu-bohus plus triomphants.
+
+...(3 premières strophes du poème Le Bateau ivre écrit par Arthur Rimbaud en 1871)
+
 rimbaud.jpg
-Dessin du poète Arthur Rimbaud mourant réalisé à l'hôpital de Marseille par sa sœur Isabelle
+Dessin du poète Arthur Rimbaud mourant réalisé à l'hôpital de Marseille par sa sœur Isabelle ; source : Commons Wikipedia.
 
 {% enddiaporama %}
 
