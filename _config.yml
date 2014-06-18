@@ -1,3 +1,6 @@
 name: Les Quais
 markdown: redcarpet
 highlighter: false
+collections:
+  bateaux:
+    output: true
