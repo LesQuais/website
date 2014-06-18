@@ -1,7 +1,6 @@
 ---
-layout: "item"
+layout: "default"
 title: "l'amitié"
-color: "rgb(235, 234, 152)"
 ---
 
 Le mot s’élever nous vient d’une citation du pédagogue français Célestin Freinet : « C'est l'enfant lui-même qui doit s’éduquer, s’élever avec le concours des adultes » (dans Naissance d’une pédagogie populaire).

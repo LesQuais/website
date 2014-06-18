@@ -1,7 +1,6 @@
 ---
-layout: "item"
+layout: "default"
 title: "se construire"
-color: "rgb(235, 234, 152)"
 ---
 
 Se construire

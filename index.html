@@ -3,8 +3,16 @@ layout: default
 title: La traversée
 ---
 
-<ol class="items">
+<ol id="boats">
 {% for boat in site.bateaux %}
 	<li style="color: {{ boat.color }}"><a href="{{ boat.url }}" id="{{ boat.title }}">{{boat.title}}&nbsp;{{boat.size}}&nbsp;m</a></li>
 {% endfor %}
 </ol>
+
+<ol id="words">
+{% for word in site.mots %}
+	<li><a href="{{ word.url }}">{{word.title}}</a></li>
+{% endfor %}
+</ol>
+
+<link rel="stylesheet" type="text/css" href="css/index.css">

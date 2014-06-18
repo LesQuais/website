@@ -4,3 +4,5 @@ highlighter: false
 collections:
   bateaux:
     output: true
+  mots:
+    output: true
