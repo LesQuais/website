@@ -4,7 +4,7 @@ title: La traversée
 ---
 
 <ol class="items">
-{% for item in site.bateaux %}
-	<li><a href="./{{ item.url }}" id="{{ item.title }}">{{ item.title }}</a></li>
+{% for boat in site.bateaux %}
+	<li style="color: {{ boat.color }}"><a href="{{ boat.url }}" id="{{ boat.title }}">{{boat.title}}&nbsp;{{boat.size}}&nbsp;m</a></li>
 {% endfor %}
 </ol>
