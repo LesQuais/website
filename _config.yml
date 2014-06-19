@@ -6,3 +6,5 @@ collections:
     output: true
   mots:
     output: true
+  meta:
+    output: true
