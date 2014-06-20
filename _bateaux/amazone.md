@@ -40,7 +40,7 @@ Ce fichier provient de la NASA, source : Commons Wikipedia
 {% enddiaporama %}
 
 
-Nous avons retenu Amazone pour son pouvoir évocateur d’images : la forêt tropicale et les **Amazones** de la mythologie. Ce mot est placé dans la cage d’escalier très longue et étroite —comme le canal de Suez— visible de l’extérieur. Sa phosphorescence verdâtre évoque la magie et le **mystère de la forêt**.
+Nous avons retenu Amazone pour son pouvoir évocateur d’images : la forêt tropicale et les **Amazones** de la mythologie. Ce mot est placé dans la cage d’escalier très longue et étroite — comme le canal de Suez — visible de l’extérieur. Sa phosphorescence verdâtre évoque la magie et le **mystère de la forêt.**
 
 {% include separator.html %}
 
@@ -94,7 +94,7 @@ Quitte le port de Toulon à destination de Haiphong au Vietnam avec 599 soldats.
 
 Assure la ligne de l'Océan Indien et s'échoue à deux reprises dans la même année.
 
-20 Mai 1891
+20 mai 1891
 ------------
 
 Arrive à Marseille avec le poète _Arthur Rimbaud_ malade embarqué à Aden au Yémen.
