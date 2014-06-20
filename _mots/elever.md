@@ -1,6 +1,6 @@
 ---
 layout: "default"
-title: "l'amitié"
+title: "s'élever"
 order: 3
 ---
 
