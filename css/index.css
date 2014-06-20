@@ -19,10 +19,10 @@ ol {
 }
 
 #meta {
-	display: inline-block;
 	color: rgb(82, 82, 26);
 
 	font-size: 70%;
+	font-weight: normal;
 
 	position: relative;
 	line-height: 1.2;
@@ -35,12 +35,13 @@ ol {
 	color: rgb(219, 204, 29);
 	font-size: 200%;
 	position: absolute;
-	right: 0;
+	left: 3.5em;	/* longest string is 7 letters long, at twice the font-size that's 3.5em to be at its rightmost */
 	top: .5em;	/* centered with 3 lines minus 1 em for the content itself */
 }
 
 #boats {
 	display: inline-block;
+	padding-left: 0;
 
 	-webkit-transform:	rotate(90deg);
 	-moz-transform:		rotate(90deg);
