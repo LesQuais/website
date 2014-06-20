@@ -2,6 +2,7 @@
 layout: "item"
 title: "qui"
 color: "rgb(82, 82, 26)"
+order: 1
 ---
 
 **Suzanne Hetzel & Jean Schneider** : artistes de l’œuvre **Les quais**

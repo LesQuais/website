@@ -2,6 +2,7 @@
 layout: "item"
 title: "comment"
 color: "rgb(82, 82, 26)"
+order: 3
 ---
 
 **Les quais** est une œuvre réalisée avec plusieurs matériaux et techniques.

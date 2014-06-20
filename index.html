@@ -4,7 +4,8 @@ title: La traversée
 ---
 
 <ol id="meta">
-{% for entry in site.meta %}
+{% assign metas = site.meta | sort: 'order' %}
+{% for entry in metas %}
 	<li><a href="{{ entry.url }}">{{entry.title}}</a></li>
 {% endfor %}
 </ol>
@@ -19,7 +20,8 @@ title: La traversée
 </ol>
 
 <ol id="words">
-{% for word in site.mots %}
+{% assign words = site.mots | sort: 'order' %}
+{% for word in words %}
 	<li><a href="{{ word.url }}">{{word.title}}</a></li>
 {% endfor %}
 </ol>
