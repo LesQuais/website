@@ -53,5 +53,7 @@ ol {
 }
 
 #words li {
-	display: inline;
+	display: inline-block;
+	width: 24%;
+	text-align: center;
 }
