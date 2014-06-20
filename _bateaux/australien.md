@@ -1,7 +1,7 @@
 ---
 layout: "boat"
 title: "Australien"
-size: "152,64"
+size: 152.64
 color: "rgb(125, 175, 220)"
 boat_over_bg: true
 ---

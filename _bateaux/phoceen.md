@@ -1,7 +1,7 @@
 ---
 layout: "boat"
 title: "Phocéen I"
-size: "45"
+size: 45
 color: "rgb(255, 236, 0)"
 id: "phoceen"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: "boat"
 title: "Ampère"
-size: "91,50"
+size: 91.50
 color: "rgb(81, 166, 148)"
 id: "ampere"
 ---

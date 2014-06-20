@@ -1,7 +1,7 @@
 ---
 layout: "boat"
 title: "Vésuve"
-size: "40,20"
+size: 40.20
 color: "rgb(231, 178, 66)"
 id: "vesuve"
 ---

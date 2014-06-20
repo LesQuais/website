@@ -1,7 +1,7 @@
 ---
 layout: "boat"
 title: "Météore"
-size: "21,20"
+size: 21.20
 color: "rgb(217, 178, 218)"
 id: "meteore"
 ---
