@@ -18,8 +18,25 @@ ol {
 	list-style: none;
 }
 
-#words {
-	color: rgb(235, 234, 152);
+#meta {
+	display: inline-block;
+	color: rgb(82, 82, 26);
+
+	font-size: 70%;
+
+	position: relative;
+	line-height: 1.2;
+	top: 0;
+}
+
+#meta::after {
+	content: '?';
+
+	color: rgb(219, 204, 29);
+	font-size: 200%;
+	position: absolute;
+	right: 0;
+	top: .5em;	/* centered with 3 lines minus 1 em for the content itself */
 }
 
 #boats {
@@ -29,4 +46,12 @@ ol {
 	-moz-transform:		rotate(90deg);
 	-o-transform:		rotate(90deg);
 	-ms-transform:		rotate(90deg);
+}
+
+#words {
+	color: rgb(235, 234, 152);
+}
+
+#words li {
+	display: inline;
 }
