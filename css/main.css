@@ -14,3 +14,9 @@ body {
 a {
 	color: inherit;
 }
+
+
+.name {
+	text-transform: uppercase;
+	letter-spacing: .18em;
+}

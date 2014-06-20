@@ -48,6 +48,10 @@ ol {
 	-ms-transform:		rotate(90deg);
 }
 
+#boats li {
+	margin-bottom: 1em;
+}
+
 #words {
 	color: rgb(235, 234, 152);
 }

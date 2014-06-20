@@ -12,7 +12,9 @@ title: La traversée
 <ol id="boats">
 {% assign boats = site.bateaux | sort: 'size' %}
 {% for boat in boats reversed %}
-	<li style="color: {{ boat.color }}; font-size: {{ boat.size | plus: 100 }}%"><a href="{{ boat.url }}" id="{{ boat.title }}">{{boat.title}}&nbsp;{{boat.size}}&nbsp;m</a></li>
+	<li style="color: {{ boat.color }}; font-size: {{ boat.size | plus: 50 }}%">
+		<a href="{{ boat.url }}" id="{{ boat.title }}"><span class="name">{{boat.title}}</span>&nbsp;{{boat.size}}<span id="meters">&nbsp;m</span></a>
+	</li>
 {% endfor %}
 </ol>
 
