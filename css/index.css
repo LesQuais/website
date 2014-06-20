@@ -18,6 +18,10 @@ ol {
 	list-style: none;
 }
 
+#meta, #words {
+	letter-spacing: .18em;
+}
+
 #meta {
 	color: rgb(82, 82, 26);
 
