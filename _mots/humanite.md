@@ -1,5 +1,5 @@
 ---
-layout: "default"
+layout: "embedded"
 title: "l'humanité"
 order: 4
 ---

@@ -1,0 +1,9 @@
+body {
+	color: rgb(255, 236, 0);
+	letter-spacing: .18em;
+	font-weight: normal;
+}
+
+#close {
+	text-decoration: none;
+}
