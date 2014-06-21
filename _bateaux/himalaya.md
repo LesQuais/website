@@ -1,5 +1,4 @@
 ---
-layout: "boat"
 title: "Himalaya"
 size: 136.38
 color: "rgb(0, 156, 221)"

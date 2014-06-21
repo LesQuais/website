@@ -1,5 +1,4 @@
 ---
-layout: "embedded"
 title: "s'élever"
 order: 3
 ---

@@ -1,5 +1,4 @@
 ---
-layout: "boat"
 title: "Centaure"
 size: 231.25
 color: "rgb(5, 87, 158)"

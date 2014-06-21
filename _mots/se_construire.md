@@ -1,5 +1,4 @@
 ---
-layout: "embedded"
 title: "se construire"
 order: 1
 ---

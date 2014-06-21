@@ -1,6 +1,7 @@
 name: Les Quais
 markdown: redcarpet
 highlighter: false
+
 collections:
   bateaux:
     output: true
@@ -8,3 +9,24 @@ collections:
     output: true
   meta:
     output: true
+
+defaults:
+  -
+    scope:
+      path: ""	# means "all files"
+      type: "bateaux"	# targets a collection
+    values:
+      layout: "boat"
+  -
+    scope:
+      path: ""	# means "all files"
+      type: "meta"	# targets a collection
+    values:
+      layout: "embedded"
+  -
+    scope:
+      path: ""	# means "all files"
+      type: "mots"	# targets a collection
+    values:
+      layout: "embedded"
+

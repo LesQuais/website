@@ -1,5 +1,4 @@
 ---
-layout: "boat"
 title: "Monterrey"
 size: 197.20
 color: "rgb(66, 119, 126)"
