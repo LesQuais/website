@@ -1,8 +1,8 @@
 </div>
 
 <div id="spacer">
-	<a id="left" href="{{ page.previous }}" >⟨</a>
-	<a id="right" href="{{ page.next }}">⟩</a>
+	<a id="prev" href="{{ page.prev.url }}" title="{{ page.prev.title }}">⟨</a>
+	<a id="next" href="{{ page.next.url }}" title="{{ page.next.title }}">⟩</a>
 
 	<h1><span class="name">{{ page.title | capitalize }}</span>&nbsp;{% size_as_integer_or_two_decimals %}<span id="meters">&nbsp;m</span></h1>
 </div>
