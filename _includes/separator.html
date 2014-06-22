@@ -1,10 +1,13 @@
 </div>
 
 <div id="spacer">
-	<a id="prev" href="{{ page.prev.url }}" title="{{ page.prev.title }}">⟨</a>
-	<a id="next" href="{{ page.next.url }}" title="{{ page.next.title }}">⟩</a>
+	<nav>
+		<a id="prev" href="{{ page.prev.url }}" title="{{ page.prev.title }}">&lt;</a>
 
-	<h1><span class="name">{{ page.title | capitalize }}</span>&nbsp;{% size_as_integer_or_two_decimals %}<span id="meters">&nbsp;m</span></h1>
+		<h1><span class="name">{{ page.title | capitalize }}</span>&nbsp;{% size_as_integer_or_two_decimals %}<span id="meters">&nbsp;m</span></h1>
+
+		<a id="next" href="{{ page.next.url }}" title="{{ page.next.title }}">&gt;</a>
+	</nav>
 </div>
 
 <div id="below">
