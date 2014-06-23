@@ -1,5 +1,5 @@
 name: Les Quais
-markdown: redcarpet
+markdown: kramdown
 highlighter: false
 
 collections:
