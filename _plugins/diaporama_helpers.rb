@@ -24,7 +24,7 @@ module Fotorama
 	end
 
 	def self.image_path(page_id, diaporama_name, image_name)
-		'/images/diaporamas/' << page_id << '/' << diaporama_name << '/' << image_name
+		'../images/diaporamas/' << page_id << '/' << diaporama_name << '/' << image_name
 	end
 
 	# Generates HTML attributes from a raw, possibly multiline, caption.
