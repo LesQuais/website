@@ -35,6 +35,23 @@ layout: default
 {{ content }}
 </div>
 
+<div id="spacer">
+	<nav>
+		<a id="prev" href="{{ page.prev.url }}" title="{{ page.prev.title }}">&lt;</a>
+
+		<h1><span class="name">{{ page.title | capitalize }}</span>&nbsp;{% size_as_integer_or_two_decimals %}<span id="meters">&nbsp;m</span></h1>
+
+		<a id="next" href="{{ page.next.url }}" title="{{ page.next.title }}">&gt;</a>
+	</nav>
+</div>
+
+<div id="below">
+	{% capture below_content %}
+	{{ page.below }}
+	{% endcapture %}
+	{{ below_content | markdownify }}
+</div>
+
 <script type="text/javascript" src="../scripts/item.js"></script>
 
 <script src="../scripts/lib/jquery-1.11.min.js"></script>

@@ -26,7 +26,7 @@ Source : Commons Wikipedia
 
 Nous avons retenu ce nom pour le rôle éclaireur **d’André-Marie Ampère** dans le domaine de l'électromagnétisme et de la chimie. Le câblier symbolise toujours **les réseaux de communication** de plus en plus étendus et nombreux.
 
-{% include separator.html %}
+{% below %}
 
 Ampère est un _câblier_ et le 155e navire construit à La Ciotat.
 
@@ -66,4 +66,4 @@ Source : image provenant de la revue L’Illustration N° 4670 du 3 septembre 19
 
 Sabordé dans le port de Marseille, il sera vendu à la démolition aux Chantiers de La Seyne pour 1 Franc symbolique.
 
-
+{% endbelow %}

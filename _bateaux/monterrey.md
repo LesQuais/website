@@ -25,7 +25,7 @@ Le Monterrey est emblématique du monde des affaires d’aujourd’hui : il ne c
 
 Nous avons voulu rendre hommage au savoir faire de la construction navale qui fut développé à la Ciotat, et pour cette raison nous avons choisi **le premier et le dernier navire** : Phocéen I et Monterrey. La fermeture des Chantiers Navals à La Ciotat en 1989 marquera la fin de la construction navale dans le sud de la France.
 
-{% include separator.html %}
+{% below %}
 
 Monterrey est un porte conteneur et le 337e et dernier navire construit par les Chantiers navals de La Ciotat.
 
@@ -112,3 +112,5 @@ Affrété par MSC Geneva, rebaptisé MSC Nicole.
 ------------
 
 Acquis par Gulmare Holdings S.A. (MSC), il navigue en 2014 toujours sous ce nom.
+
+{% endbelow %}

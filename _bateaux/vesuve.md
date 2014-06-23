@@ -19,7 +19,7 @@ eruption.jpg
 L’exemplarité de la technique de construction du navire, ainsi que l’image et la mémoire évoquées par le nom du **volcan** nous ont amené à le choisir. Nous avons aussi trouvé attachant que le Rhône, fleuve difficilement navigable et imprévisible, soit indirectement associé à un volcan.
 Nous avons jugé opportun de le poser sur l’entrée de la salle de spectacle ouvert à un public venant de l’extérieur. Nous y voyons vivacité, énergie et une mémoire enfouie.
 
-{% include separator.html %}
+{% below %}
 
 Le Vésuve est le premier bateau sortant du Chantier de La Ciotat avec une coque en fer. Jusqu’ici, la structure des navires était en bois, éventuellement doublée de cuivre ou de fer. Le Vésuve est un vapeur de rivière à coque de fer à aubes, sans mâts.
 
@@ -58,3 +58,4 @@ Fin 1843
 
 Le Vésuve est dépecé à Lyon
 
+{% endbelow %}

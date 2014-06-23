@@ -35,7 +35,7 @@ pour souligner l’importance des comptoirs phocéens fondés sur la côte occid
 et rappeler qu’à cette époque, la **“Sublime Porte“** est un empire considérable qui s’étend sur une large part de l’Europe.
 Nous lui attribuons la couleur jaune pour son rôle d’éclaireur et d’ouverture.
 
-{% include separator.html %}
+{% below %}
 
 1835
 ----
@@ -80,3 +80,4 @@ Peinture du sultan Mahmud II ; source non renseignée
 
 Lancement du Phocéen II, muni des premières machines à vapeur construites à La Ciotat.
 
+{% endbelow %}

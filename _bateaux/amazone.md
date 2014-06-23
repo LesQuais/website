@@ -41,7 +41,7 @@ Ce fichier provient de la NASA, source : Commons Wikipedia
 
 Nous avons retenu Amazone pour son pouvoir évocateur d’images : la forêt tropicale et les **Amazones** de la mythologie. Ce mot est placé dans la cage d’escalier très longue et étroite — comme le canal de Suez — visible de l’extérieur. Sa phosphorescence verdâtre évoque la magie et le **mystère de la forêt.**
 
-{% include separator.html %}
+{% below %}
 
 Amazone est un paquebot qui mesure 117 mètres, et le 54e navire de la compagnie des Messageries Maritimes construit à La Ciotat.
 
@@ -136,3 +136,5 @@ Plans pour la destruction de l’Amazone en 1898 à Marseille
 Source : Archives du Musée Ciotaden, La Ciotat
 
 {% enddiaporama %}
+
+{% endbelow %}

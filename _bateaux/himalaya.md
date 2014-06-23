@@ -32,7 +32,7 @@ Source : Commons Wikipedia
 Ce sont aussi bien l’accumulation des exploits du navire en changeant d'assignation selon les époques, que les **exploits des hommes** cherchant à se mesurer aux **sommets himalayens**, qui nous ont conduit à le choisir pour l’entrée du collège.
 Posé sur le premier pilier de l’entrée, incliné comme une pente de montagne, l’Himalaya est vu de loin, sa lumière bleue teinte toute la sphère d’entrée à l'extérieur comme à l’intérieur.
 
-{% include separator.html %}
+{% below %}
 
 Himalaya est un paquebot mixte et le 117e navire de la compagnie Messageries Maritimes construit à La Ciotat.
 
@@ -81,3 +81,5 @@ Torpillé près de Bizerte, les rescapés sont sauvés par les avisos Impatiente
 feu.jpg
 
 {% enddiaporama %}
+
+{% endbelow %}

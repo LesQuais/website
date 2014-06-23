@@ -20,7 +20,7 @@ Centaure et Centauresse ; Odilon Redon ; env. 1885/1890 ; 36,5 × 34 cm ; charb
 Dans la mythologie grecque, un centaure est **une créature mi-homme, mi-cheval**.Les Centaures sont réputés pour leur tir infaillible, et il est le symbole de la dualité entre les instincts sauvages et l’être civilisé.
 Avec l’Amazone dans la cage d’escalier, nous faisons allusion aux Amazones femmes-guerrières de la mythologie, ici nous évoquons l’homme dans son **rapport avec l’animal**.
 
-{% include separator.html %}
+{% below %}
 
 Centaure est le plus grand pétrolier français au moment de son _lancement_ et le 199e navire construit à La Ciotat.
 Par sa _technique de construction_, il affirme le savoir-faire des chantiers de la Ciotat ce qui leur vaudra de nombreuses commandes. Il témoigne de l'importance de plus en plus importante du pétrole dans le développement économique.
@@ -96,3 +96,5 @@ On lui donnera le nom VENCE
 ---------------
 
 Démolition à Barcelone
+
+{% endbelow %}
