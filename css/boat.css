@@ -42,6 +42,7 @@ nav h1 {
 h2, h3, h4 {
 	color: white;
 	font-size: 100%;
+	font-weight: normal;
 }
 
 #prev {
@@ -71,6 +72,7 @@ h2, h3, h4 {
 
 #above {
 	font-size: 120%;
+	font-weight: bold;
 }
 
 /* Jekyll adds extraneous <p>.
