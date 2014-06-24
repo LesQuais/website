@@ -13,23 +13,19 @@ layout: default
 	}
 </style>
 
-
 {% capture page_id %}{% if page.id %}{{ page.id }}{% else %}{{ page.title | downcase }}{% endif %}{% endcapture %}
-
-{% if page.boat_over_bg %}
-	{% include boat_over_bg.html %}
-{% else %}
-	{% include bg_over_boat.html %}
-{% endif %}
-
-
-
 
 <div id="above">
 {{ content }}
 </div>
 
 <div id="spacer">
+	{% if page.boat_over_bg %}
+		{% include boat_over_bg.html %}
+	{% else %}
+		{% include bg_over_boat.html %}
+	{% endif %}
+
 	<nav>
 		<a id="prev" href="{{ page.prev.url }}" title="{{ page.prev.title }}">&lt;</a>
 
