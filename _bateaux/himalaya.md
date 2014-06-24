@@ -3,26 +3,21 @@ title: "Himalaya"
 size: 136.38
 color: "rgb(0, 156, 221)"
 ---
-{% diaporama reinhold %}
 
-Reinhold Messner, né le 17 septembre 1944 dans le Tyrol du Sud est un alpiniste italien, considéré par beaucoup comme l'un des meilleurs du XXᵉ siècle. Il est réputé pour avoir réalisé première ascension en solitaire de l’Everest, qui plus est sans apport d'oxygène, et pour être le premier à avoir gravi les quatorze sommets de plus de 8000 mètres.
+{% diaporama reinhold %}
 
 messner.jpg
 Reinhold Messner photographié au Château Juval (Kastelbell-Tschars – Tyrol du sud) en août 2012. Auteur : Vale93b ; source : Commons Wikipedia
-
-{% enddiaporama %}
-
-
-{% diaporama equipe %}
 
 equipe.jpg
 Alpinistes au sommet Ortler (Italie) ; fond: Reinhold Messner, König Ortler ; auteur : Edward Theodore Compton (1849-1921) ; source : Commons Wikipedia
 
 {% enddiaporama %}
-
-{% diaporama sommets %}
+Reinhold Messner, né le 17 septembre 1944 dans le Tyrol du Sud est un alpiniste italien, considéré par beaucoup comme l'un des meilleurs du XXᵉ siècle. Il est réputé pour avoir réalisé première ascension en solitaire de l’Everest, qui plus est sans apport d'oxygène, et pour être le premier à avoir gravi les quatorze sommets de plus de 8000 mètres.
 
 Le navire tient son nom d’une chaîne de montagne située entre l’Inde et le Tibet dans le sud de l’Asie. L'Himalaya, de la langue sanskrit “demeure des neiges“, abrite les plus hautes montagnes du monde, soit les 14 sommets qui culminent à plus de 8000 m d’altitude dont le mont Everest, le plus haut de tous.
+
+{% diaporama sommets %}
 
 montagnes.jpg
 Source : Commons Wikipedia
@@ -56,12 +51,12 @@ Source : Archives de Chambre de Commerce et de l’Industrie de Marseille
 1907
 --------------
 
-Aménagement à bord d’une école d'application d'élèves officiers de la Marine, sans lendemain du fait des coûts trop élevés :
+Aménagement à bord d’une école d'application d'élèves officiers de la Marine, sans lendemain du fait des coûts trop élevés.
 
 1915
 ----
 
-Effectue quelques voyages vers Madagascar et La Nouvelle Orléans ;
+Effectue quelques voyages vers Madagascar et La Nouvelle Orléans.
 
 
 1916
@@ -76,7 +71,7 @@ Il transporte également 20 000 Chinois, 25 000 Annamites et Tonkinois de Chine 
 
 Torpillé près de Bizerte, les rescapés sont sauvés par les avisos Impatiente et Gracieuse.
 
-{% diaporama naviretorpillageH %}
+{% diaporama torpillageH %}
 
 feu.jpg
 

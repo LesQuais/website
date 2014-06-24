@@ -7,8 +7,6 @@ boat_over_bg: true
 
 {% diaporama lesamazones %}
 
-Dans la mythologie, les Amazones sont un peuple de femmes guerrières résidant sur les rives de la mer Noire. Les légendes et récits sont très nombreux à leur propos. Elles sont fréquemment représentées dans de=s bandes dessinées ou des films d’animation.
-
 dahomey.jpg
 Les amazones guerrières du Dahomey (actuel Benin), photographie de 1890.
 Archives : New York Public Library ; source : Commons Wikipédia
@@ -19,7 +17,9 @@ Lithographie dans l’ouvrage Toros et Toreros.
 
 jeu.jpg
 Image issue du jeu Heroes of Annihilated Empires ; source : Wikipédia
+
 {% enddiaporama %}
+Dans la mythologie, les Amazones sont un peuple de femmes guerrières résidant sur les rives de la mer Noire. Les légendes et récits sont très nombreux à leur propos. Elles sont fréquemment représentées dans de=s bandes dessinées ou des films d’animation.
 
 
 {% diaporama amazonie %}
@@ -27,19 +27,21 @@ Image issue du jeu Heroes of Annihilated Empires ; source : Wikipédia
 L'Amazonie est une vaste région de l’Amérique du Sud. Il s’agit d’une plaine couverte de forêt qui s’articule autour du fleuve Amazone et des ses affluents. Cette région est aujourd'hui dévastée par la déforestation.
 
 fleuve.jpg
-L’immense plaine de l’Amazonie est traversée par l’Amazone le plus long fleuve sur la planète et couverte par la plus grande forêt du monde intertropical. Source : Commons Wikipedia
+La plaine de l’Amazonie est traversée par l’Amazone, le plus long fleuve sur la planète.
+Source : Commons Wikipedia
 
 foret.jpg
-Paysage d'Amazonie à l'ouest de Manaus
+Paysage d'Amazonie à l'ouest de Manaus.
 Photographie de LecomteB, septembre 2009, source : Commons Wikipedia
 
 deforestation.jpg
 Déforestation en Amazonie vue depuis un satellite. Les routes tracées dans la forêt suivent un motif caractéristique en « arêtes de poisson ».
 Ce fichier provient de la NASA, source : Commons Wikipedia
+
 {% enddiaporama %}
 
 
-Nous avons retenu Amazone pour son pouvoir évocateur d’images : la forêt tropicale et les **Amazones** de la mythologie. Ce mot est placé dans la cage d’escalier très longue et étroite — comme le canal de Suez — visible de l’extérieur. Sa phosphorescence verdâtre évoque la magie et le **mystère de la forêt.**
+Nous avons retenu Amazone pour son pouvoir évocateur d’images : la forêt tropicale et les **Amazones** de la mythologie. Ce mot est placé dans la cage d’escalier très longue et étroite - comme le canal de Suez - visible de l’extérieur. Sa phosphorescence verdâtre évoque la magie et le **mystère de la forêt.**
 
 {% below %}
 
@@ -47,8 +49,7 @@ Amazone est un paquebot qui mesure 117 mètres, et le 54e navire de la compagnie
 
 1869
 ----
-
-_Lancement du navire_ pour la ligne d’Extrême Orient, construit spécialement pour rallier l’Indochine par le canal de Suez qui vient d’être ouvert. Il faut alors environ un mois de mer pour aller de Marseille à Saïgon.
+Lancement du navire pour la ligne d’Extrême Orient, construit spécialement pour rallier l’Indochine par le canal de Suez qui vient d’être ouvert. Il faut alors environ un mois de mer pour aller de Marseille à Saïgon.
 
 {% diaporama navire %}
 
@@ -96,10 +97,14 @@ Assure la ligne de l'Océan Indien et s'échoue à deux reprises dans la même a
 20 mai 1891
 ------------
 
-Arrive à Marseille avec le poète _Arthur Rimbaud_ malade embarqué à Aden au Yémen.
+Arrive à Marseille avec le poète Arthur Rimbaud malade embarqué à Aden au Yémen.
 
 {% diaporama rimbaud %}
 
+rimbaud.jpg
+Dessin du poète Arthur Rimbaud mourant réalisé à l'hôpital de Marseille par sa sœur Isabelle ; source : Commons Wikipedia.
+
+{% enddiaporama %}
 Comme je descendais des Fleuves impassibles,
 Je ne me sentis plus guidé par les haleurs :
 Des Peaux-rouges criards les avaient pris pour cibles,
@@ -116,18 +121,12 @@ Je courus ! Et les Péninsules démarrées
 N'ont pas subi tohu-bohus plus triomphants.
 
 ...
-
 (3 premières strophes du poème Le Bateau ivre écrit par Arthur Rimbaud en 1871)
-
-rimbaud.jpg
-Dessin du poète Arthur Rimbaud mourant réalisé à l'hôpital de Marseille par sa sœur Isabelle ; source : Commons Wikipedia.
-
-{% enddiaporama %}
 
 1898
 ------------
 
-L’Amazone _est démoli_ à Marseille
+L’Amazone est démoli à Marseille
 
 {% diaporama plan %}
 

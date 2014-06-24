@@ -10,8 +10,11 @@ Le mont Vésuve est un volcan italien d'une hauteur de 1281 mètres, bordant la 
 {% diaporama volcan %}
 
 naples.jpg
+
 terrasse.jpg
+
 crater.jpg
+
 eruption.jpg
 
 {% enddiaporama %}
@@ -40,14 +43,16 @@ Mai 1838
 --------------
 
 Part pour Beaucaire.
-Ce navire fit le _service sur le Rhône_ pour assurer le transport entre Lyon, Valence, Beaucaire et Arles.
+Ce navire fit le service sur le Rhône pour assurer le transport entre Lyon, Valence, Beaucaire et Arles.
 
 Nous n'avons pas trouvé de représentation du navire Vésuve, alors nous proposons quelques cartes postales anciennes qui montrent des bateaux à vapeur qui naviguaient sur le Rhône à la même époque, et auxquels il devait ressembler.
 
 {% diaporama navire %}
 
 colombe.jpg
+
 vienne.jpg
+
 tarascon.jpg
 
 {% enddiaporama %}

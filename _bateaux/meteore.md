@@ -8,7 +8,7 @@ id: "meteore"
 {% diaporama regle %}
 
 morceaux.jpg
-Fragments du météore qui survola l'oblast de Tcheliabinsk en Russie, le vendredi 15 février 2013.
+Fragments du météore qui survola Tcheliabinsk en Russie, le vendredi 15 février 2013.
 Photographe : Alexander Sapozhnikov ; source : Commons Wikipedia
 
 {% enddiaporama %}
@@ -17,6 +17,7 @@ Photographe : Alexander Sapozhnikov ; source : Commons Wikipedia
 eclats.jpg
 Explosion météorite
 Auteur : NASA Ames Research Center/S. Molau and P. Jenniskens ; source : Commons Wikipedia
+
 {% enddiaporama %}
 
 
@@ -26,7 +27,7 @@ Par le Météore nous célébrons également la vitalité des adolescents ainsi 
 
 {% below %}
 
-Cet hydravion construit à trois exemplaires est le témoin d’une tentative des Chantiers de La Ciotat de prendre part au développement du _marché aéronautique_ balbutiant. Le Météore est construit à La Ciotat et piloté aux essais par le ciotadin Ernest Burri.
+Cet hydravion construit à trois exemplaires est le témoin d’une tentative des Chantiers de La Ciotat de prendre part au développement du marché aéronautique balbutiant. Le Météore est construit à La Ciotat et piloté aux essais par le Ciotadin Ernest Burri.
 Sa longueur est de 13,06 m et son envergure de 21,20 m, il peut transporter 6 passagers.
 
 3 Septembre 1925
@@ -35,9 +36,8 @@ Sa longueur est de 13,06 m et son envergure de 21,20 m, il peut transporter 6 pa
 Effectue son premier vol
 
 {% diaporama avionM %}
+
 meteor1.jpg
-Archives du Musée Ciotaden, La Ciotat
-meteor2.jpg
 Archives du Musée Ciotaden, La Ciotat
 
 meteor3.jpg
@@ -46,9 +46,8 @@ Archives du Musée Ciotaden, La Ciotat
 meteor4.jpg
 Archives du Musée Ciotaden, La Ciotat
 
-meteor5.jpg
-
 {% enddiaporama %}
+
 Le 17 février 1931
 ------------
 
@@ -56,6 +55,11 @@ Ouvre la ligne aérienne Paris-Saigon pour le compte de la Compagnie Air Orient.
 La construction des avions à La Ciotat s’est interrompue définitivement avec la Deuxième Guerre mondiale.
 
 {% diaporama courrier %}
+
+meteor2.jpg
+Archives du Musée Ciotaden, La Ciotat
+
+horaire.jpg
 
 meteor5.jpg
 

@@ -6,9 +6,6 @@ color: "rgb(66, 119, 126)"
 
 {% diaporama ville %}
 
-Le nom du bateau vient de la ville Monterrey située dans le nord-est du Mexique. Elle a 1,1 million d'habitants et on la surnomme : la ville des montages.
-Sources : Commons Wikipedia
-
 carte.jpg
 Monterrey entre el Obispado y el Cerro de la Silla 1904 ; Elizabeth Visere McGary “An American Girl in Mexico” ; publiée par Dodd, Mead et Company en 1904 à New York ; source : Commons Wikipedia.
 
@@ -19,6 +16,8 @@ ville2.jpg
 Auteur non renseigné ; source : Commons Wikipedia.
 
 {% enddiaporama %}
+Le nom du bateau vient de la ville Monterrey située dans le nord-est du Mexique. Elle a 1,1 million d'habitants et on la surnomme : la ville des montages.
+Sources : Commons Wikipedia
 
 
 Le Monterrey est emblématique du monde des affaires d’aujourd’hui : il ne cesse de changer de propriétaires qui ne cessent de lui changer son nom. Ce navire est **toujours en activité**.
@@ -36,8 +35,6 @@ Lancement de la construction.
 
 {% diaporama constructionM %}
 
-Source : Archives du Musée Ciotaden, La Ciotat
-
 journal2.jpg
 
 dessous.jpg
@@ -45,6 +42,8 @@ dessous.jpg
 charge.jpg
 
 {% enddiaporama %}
+Source : Archives du Musée Ciotaden, La Ciotat
+
 
 1988
 ------------
@@ -66,14 +65,16 @@ Remorqué à La Spezia en Italie pour achever la construction.
 
 {% diaporama depart %}
 
-Source : Archives du Musée Ciotaden, La Ciotat
-
 bord.jpg
+
 navire1.jpg
+
 tire.jpg
+
 journaux.jgp
 
 {% enddiaporama %}
+Source : Archives du Musée Ciotaden, La Ciotat
 
 
 {% diaporama fin %}
@@ -111,6 +112,6 @@ Affrété par MSC Geneva, rebaptisé MSC Nicole.
 2001
 ------------
 
-Acquis par Gulmare Holdings S.A. (MSC), il navigue en 2014 toujours sous ce nom.
+Acquis par Gulmare Holdings S.A. (MSC), en 2014, il navigue toujours sous ce nom.
 
 {% endbelow %}
