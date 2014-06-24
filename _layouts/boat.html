@@ -14,13 +14,7 @@ layout: default
 </style>
 
 
-{% capture page_id %}
-	{% if page.id %}
-		{{ page.id }}
-	{% else %}
-		{{ page.title | downcase }}
-	{% endif %}
-{% endcapture %}
+{% capture page_id %}{% if page.id %}{{ page.id }}{% else %}{{ page.title | downcase }}{% endif %}{% endcapture %}
 
 {% if page.boat_over_bg %}
 	{% include boat_over_bg.html %}
