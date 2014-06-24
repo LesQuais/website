@@ -40,10 +40,7 @@ layout: default
 </div>
 
 <div id="below">
-	{% capture below_content %}
-	{{ page.below }}
-	{% endcapture %}
-	{{ below_content | markdownify }}
+	{{ page.below | markdownify }}
 </div>
 
 <script type="text/javascript" src="../scripts/item.js"></script>
