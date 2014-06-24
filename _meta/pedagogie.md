@@ -1,7 +1,7 @@
 ---
-title: "?"
+title: "pourquoi"
 color: "rgb(219, 204, 29)"
-order: 1
+order: 4
 ---
 Propositions d'activités pédagogiques pouvant s'appuyer sur l'œuvre "Les quais".
 
