@@ -1,10 +1,12 @@
-document.body.onload = function() {
+window.onload = function() {
 	var under	= document.getElementById('under'),
 		over	= document.getElementById('over'),
 		above	= document.getElementById('above')
 		spacer	= document.getElementById('spacer');
 
 	spacer.style.height = window.innerHeight + 'px';
+
+	under.style.position = 'fixed';
 
 	window.addEventListener('scroll', function() {
 		under.style.top = ((above.clientHeight - window.scrollY) / 1.5) + 'px';
