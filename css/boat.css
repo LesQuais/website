@@ -95,6 +95,10 @@ h2, h3, h4 {
 	padding-right: 1em;
 }
 
+.fotorama__wrap {
+	background-color: rgba(255, 255, 255, 0.2);
+}
+
 /* Diaporama legend */
 .fotorama + p {
 	font-size: 90%;
