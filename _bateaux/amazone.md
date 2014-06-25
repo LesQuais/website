@@ -19,12 +19,10 @@ jeu.jpg
 Image issue du jeu Heroes of Annihilated Empires ; source : Wikipédia
 
 {% enddiaporama %}
+
 Dans la mythologie, les Amazones sont un peuple de femmes guerrières résidant sur les rives de la mer Noire. Les légendes et récits sont très nombreux à leur propos. Elles sont fréquemment représentées dans de=s bandes dessinées ou des films d’animation.
 
-
 {% diaporama amazonie %}
-
-L'Amazonie est une vaste région de l’Amérique du Sud. Il s’agit d’une plaine couverte de forêt qui s’articule autour du fleuve Amazone et des ses affluents. Cette région est aujourd'hui dévastée par la déforestation.
 
 fleuve.jpg
 La plaine de l’Amazonie est traversée par l’Amazone, le plus long fleuve sur la planète.
@@ -39,6 +37,8 @@ Déforestation en Amazonie vue depuis un satellite. Les routes tracées dans la 
 Ce fichier provient de la NASA, source : Commons Wikipedia
 
 {% enddiaporama %}
+
+L'Amazonie est une vaste région de l’Amérique du Sud. Il s’agit d’une plaine couverte de forêt qui s’articule autour du fleuve Amazone et des ses affluents. Cette région est aujourd'hui dévastée par la déforestation.
 
 
 Nous avons retenu Amazone pour son pouvoir évocateur d’images : la forêt tropicale et les **Amazones** de la mythologie. Ce mot est placé dans la cage d’escalier très longue et étroite - comme le canal de Suez - visible de l’extérieur. Sa phosphorescence verdâtre évoque la magie et le **mystère de la forêt.**
