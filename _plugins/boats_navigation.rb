@@ -1,7 +1,7 @@
 module Jekyll
   class BoatsNavigation < Jekyll::Generator
     def generate(site)
-      boats = site.collections['bateaux'].docs.sort { |a, b| b.data['size'] <=> a.data['size'] }
+      boats = site.collections['bateaux'].docs.sort { |a, b| a.data['size'] <=> b.data['size'] }
 
       boats.length.times do |index|
         boat = boats[index]
