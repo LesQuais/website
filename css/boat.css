@@ -111,6 +111,30 @@ h2, h3, h4 {
 	clear: both;
 }
 
+.fotorama__caption {
+	font-family: inherit;
+	color: white;
+	font-size: 90%;
+}
+
+.fotorama__caption__wrap {
+	background-color: black;
+	background-color: rgba(0, 0, 0, 0.8);
+
+	width: 100%;
+	opacity: 0;
+	-webkit-transition-property: opacity;
+	-moz-transition-property: opacity;
+	transition-property: opacity;
+	-webkit-transition-duration: .3s;
+	-moz-transition-duration: .3s;
+	transition-duration: .3s;
+}
+
+.fotorama:hover .fotorama__caption__wrap {
+	opacity: 1;
+}
+
 /* The last paragraph of #above can not be a legend. */
 #above p:last-child {
 	font-size: 100%;
