@@ -3,10 +3,10 @@ description: 'The home page should load and present meta links, words and boat n
 scenario: [
 	{
 		'MetaListWidget.container':		shortestMetaRegExp,
-		'BoatListWidget.container':		longestBoatName,
+		'BoatsListWidget.container':	longestBoatName,
 		'WordsListWidget.container':	firstWord,
 	},
 	{
-		'BoatListWidget.firstBoatName':	longestBoatName,
+		'BoatsListWidget.firstBoatName':	longestBoatName,
 	}
 ]

@@ -1,3 +1,5 @@
+title:			'h1',
 previousLink:	'#prev',
 nextLink:		'#next',
-name:			'h1'
+aboveDiaporama:	'#above .fotorama',
+belowDiaporama:	'#below .fotorama',
