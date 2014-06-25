@@ -5,7 +5,7 @@ color: "rgb(217, 178, 218)"
 id: "meteore"
 ---
 
-{% diaporama regle %}
+{% diaporama regles %}
 
 morceaux.jpg
 Fragments du météore qui survola Tcheliabinsk en Russie, le vendredi 15 février 2013.
