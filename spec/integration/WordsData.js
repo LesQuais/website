@@ -1,0 +1,1 @@
+firstWord = /se construire/i
