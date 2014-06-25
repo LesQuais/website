@@ -103,8 +103,18 @@ h2, h3, h4 {
 	color: white;
 }
 
-.fotorama, .fotorama + p + * {
-	clear: left;
+/* Clearfix */
+.fotorama + *::after {
+	display: block;
+	content: ' ';
+	width: 100%;
+	clear: both;
+}
+
+/* The last paragraph of #above can not be a legend. */
+#above p:last-child {
+	font-size: 100%;
+	clear: both;
 }
 
 
