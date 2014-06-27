@@ -24,3 +24,26 @@ h1, h2, h3, h4, p, blockquote {
 	text-transform: uppercase;
 	letter-spacing: .18em;
 }
+
+blockquote {
+	margin: 0;
+}
+
+blockquote p {	/* Quotes should respect layout (poems) */
+	margin-bottom: 1em;
+}
+
+blockquote p:first-child {
+	position: relative;
+}
+
+blockquote p:first-child::before {
+	content: '« ';
+	position: absolute;
+	top: 0;
+	left: -1em;
+}
+
+blockquote p:last-child::after {
+	content: ' »';
+}
