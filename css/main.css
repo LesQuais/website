@@ -1,6 +1,6 @@
 body {
 	margin: auto;
-	width: 960px;
+	max-width: 1024px;
 	font-size: 130%;
 	font-family: sans-serif;
 	background-color: #000;
