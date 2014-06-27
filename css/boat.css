@@ -152,6 +152,14 @@ h2, h3, h4 {
 		width: 100%;
 	}
 
+	nav, h1 {
+		font-weight: normal;
+	}
+
+	.name {
+		letter-spacing: 0;
+	}
+
 	#above, #below {
 		padding: 0;
 	}
