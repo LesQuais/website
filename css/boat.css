@@ -81,7 +81,7 @@ h2, h3, h4 {
 
 #above, #below {
 	position: relative;
-	padding: 1em;
+	padding: 2em;
 	z-index: 2;
 }
 
@@ -89,7 +89,7 @@ h2, h3, h4 {
 	float: left;
 	display: block;
 	width: 50%;
-	padding-right: 2em;
+	padding-right: 1em;
 	margin: .8em 0;	/* 180% line-height */
 }
 
