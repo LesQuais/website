@@ -92,29 +92,44 @@ h2, h3, h4 {
 	float: left;
 	display: block;
 	width: 50%;
+	box-sizing: border-box;
 	padding-right: 1em;
-	margin: .8em 0;	/* 180% line-height */
+	margin: .5em 0;	/* 150% line-height */
+	clear: left;
 }
 
-/* Diaporama legend */
-.fotorama + p {
+.legend {
+	width: 48%;
+	box-sizing: border-box;
+	display: inline-block;
 	padding-top: .3em;
-	font-size: 90%;
+	font-size: 80%;
+	line-height: 150%;
 	color: white;
+	margin-bottom: 1em;
+}
+
+/* Sources are the last paragraph */
+.legend p:last-child {
+	margin-top: 1em;
 }
 
 /* Clearfix */
-.fotorama + *::after {
+.legend::after {
 	display: block;
 	content: ' ';
 	width: 100%;
 	clear: both;
 }
 
+.legend + * {
+	clear: both;
+}
+
 .fotorama__caption {
 	font-family: inherit;
 	color: white;
-	font-size: 90%;
+	font-size: 80%;
 }
 
 .fotorama__caption__wrap {
@@ -133,12 +148,6 @@ h2, h3, h4 {
 
 .fotorama:hover .fotorama__caption__wrap {
 	opacity: 1;
-}
-
-/* The last paragraph of #above can not be a legend. */
-#above p:last-child {
-	font-size: 100%;
-	clear: both;
 }
 
 
@@ -166,8 +175,11 @@ h2, h3, h4 {
 
 	.fotorama {
 		float: none;
-		width: 100%;
 		padding-right: 0;
 		margin: 0;
+	}
+
+	.fotorama, .legend {
+		width: 100%;
 	}
 }
