@@ -47,15 +47,24 @@ h2, h3, h4 {
 	float: left;
 }
 
-#next {
+#home, #next {
 	float: right;
+	margin-left: .5em;
 }
 
 #prev, #next {
-	text-decoration: none;
 	font-size: 120%;
-	margin-top: -.1em;
+	margin-top: -.15em;
 	font-weight: normal;
+}
+
+#prev, #next, #home {
+	text-decoration: none;
+}
+
+#home img {
+	color: white;
+	height: 1em;
 }
 
 #spacer {

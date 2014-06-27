@@ -1,5 +1,6 @@
 title:			'h1',
 previousLink:	'#prev',
 nextLink:		'#next',
+homeLink:		'#home',
 aboveDiaporama:	'#above .fotorama',
 belowDiaporama:	'#below .fotorama',
