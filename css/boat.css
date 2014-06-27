@@ -1,5 +1,6 @@
 strong {
 	color: black;
+	font-weight: normal;
 }
 
 #below strong {
@@ -66,17 +67,6 @@ h2, h3, h4 {
 
 #below, nav {
 	background-color: black;
-}
-
-#above {
-	font-size: 120%;
-	font-weight: bold;
-}
-
-/* Jekyll adds extraneous <p>.
-*/
-#below {
-	margin-top: -.5em;
 }
 
 #above, #below {
