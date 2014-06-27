@@ -143,9 +143,17 @@ h2, h3, h4 {
 
 
 @media (max-width: 48em) {	/* longest name is 20 chars, + 2 for nav, + 2 for spaces, * 2 for 50% default width, + 10% uncertainty */
+	body {
+		font-size: 100%;
+	}
+
 	nav {
 		box-sizing: border-box;
 		width: 100%;
+	}
+
+	#above, #below {
+		padding: 0;
 	}
 
 	.fotorama {
