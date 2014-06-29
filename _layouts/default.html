@@ -1,13 +1,34 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta charset="utf-8"/>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
 		<title>{{ page.title }} — {{ site.name }}</title>
-		<meta name="viewport" content="width=device-width">
+		<meta name="viewport" content="width=device-width"/>
+		<meta name="description" content="{{ site.description }}"/>
 
-		<link rel="stylesheet" href="../css/main.css">
-		<link rel="stylesheet" href="../fonts/stylesheet.css">
+		<link rel="stylesheet" href="../css/main.css"/>
+		<link rel="stylesheet" href="../fonts/stylesheet.css"/>
+
+		{% capture page_id %}{% if page.id %}{{ page.id }}{% else %}{{ page.title | downcase }}{% endif %}{% endcapture %}
+		{% capture social_title %}{{ site.name }} : {{ page.title }}{% endcapture %}
+
+		<meta name="twitter:card" content="summary_large_image"/>
+		<meta property="og:type" content="website"/>
+
+		<meta name="twitter:title" content="{{ social_title }}"/>
+		<meta property="og:title" content="{{ social_title }}"/>
+
+		<meta name="twitter:description" content="{{ site.description }}"/>
+		<meta property="og:description" content="{{ site.description }}"/>
+
+		<meta name="twitter:image:src" content="http://lesquais.mattischneider.fr/images/cards/{{page_id}}.jpeg"/>
+		<meta property="og:image" content="http://lesquais.mattischneider.fr/images/cards/{{page_id}}.jpeg"/>
+
+		<meta name="twitter:domain" content="http://lesquais.voyage"/>
+		<meta property="og:url" content="http://lesquais.voyage"/>
+
+		<meta name="twitter:site" content="@matti_sg"/>
 	</head>
 	<body>
 		{{ content }}
