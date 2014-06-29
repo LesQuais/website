@@ -3,6 +3,8 @@ layout: default
 title: La traversée
 ---
 
+<link rel="stylesheet" type="text/css" href="css/index.css">
+
 <ol id="meta">
 {% assign metas = site.meta | sort: 'order' %}
 {% for entry in metas %}
@@ -25,7 +27,3 @@ title: La traversée
 	<li><a href="{{ word.url }}">{{word.title}}</a></li>
 {% endfor %}
 </ol>
-
-<link rel="stylesheet" href="css/main.css">
-<link rel="stylesheet" href="fonts/stylesheet.css">
-<link rel="stylesheet" type="text/css" href="css/index.css">
