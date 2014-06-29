@@ -6,41 +6,51 @@ color: "rgb(5, 87, 158)"
 
 {% diaporama mythologie %}
 
-oldcentaure.jpg
-Le Centaure chevauché par l'Amour ; œuvre romaine du Ier - IIe siècle après J.-C.
-Découvert à Rome au XVIIe siècle ; marbre ;  hauteur 1,47 m longueur 1,07 m ; Musée du Louvre, Paris.
-
 peinture.jpg
-Centaure ; artiste : Girma Kefle Meskal (Ethiopie) ; dimensions: 23.5 x 34 cm ; acrylique sur parchemin ; collection particulière.
 
 redon.jpg
-Centaure et Centauresse ; Odilon Redon ; env. 1885/1890 ; 36,5 × 34 cm ; charbon sur papier ; collection privée.
+
+oldcentaure.jpg
 
 {% enddiaporama %}
 
-Dans la mythologie grecque, un centaure est **une créature mi-homme, mi-cheval**.Les Centaures sont réputés pour leur tir infaillible, et il est le symbole de la dualité entre les instincts sauvages et l’être civilisé.
-Avec l’Amazone dans la cage d’escalier, nous faisons allusion aux Amazones femmes-guerrières de la mythologie, ici nous évoquons l’homme dans son **rapport avec l’animal**.
+{% legend %}
+La représentation de la figure mythologique du centaure par trois artistes de différentes époques. 
+
+"Centaure" de Girma Kefle Meskal (Ethiopie) ; dimensions: 23.5 x 34 cm ; acrylique sur parchemin. Collection privée.
+"Centaure et Centauresse" d'Odilon Redon ; env. 1885/1890 ; 36,5 × 34 cm ; charbon sur papier.
+Collection privée.
+"Le Centaure chevauché par l'Amour" ; œuvre romaine du Iᵉ - IIᵉ siècle après J.-C.
+Découvert à Rome au XVIIᵉ siècle ; marbre ;  hauteur 1,47 m longueur 1,07 m.
+Musée du Louvre, Paris.
+{% endlegend %}
+
+Dans la mythologie grecque, un centaure est **une créature mi-homme, mi-cheval.** Les centaures sont réputés pour leur tir infaillible, et il est le symbole de la dualité entre les instincts sauvages et l’être civilisé.
+Avec l’Amazone dans la cage d’escalier, nous faisons allusion aux Amazones femmes-guerrières de la mythologie, ici nous évoquons l’homme dans son **rapport avec l’animal.**
 
 {% below %}
 
-Centaure est le plus grand pétrolier français au moment de son lancement et le 199e navire construit à La Ciotat.
+Centaure est le plus grand pétrolier français au moment de son lancement et le 199ᵉ navire construit à La Ciotat.
 Par sa technique de construction, il affirme le savoir-faire des chantiers de la Ciotat ce qui leur vaudra de nombreuses commandes. Il témoigne de l'importance de plus en plus importante du pétrole dans le développement économique.
 
 {% diaporama constructionC %}
 
+machine.jpg
+
 construction1.jpg
-Archives du Musée Ciotaden, La Ciotat
 
 construction2.jpg
-Archives du Musée Ciotaden, La Ciotat
 
 construction3.jpg
-Archives du Musée Ciotaden, La Ciotat
-
-machine.jpg
-Archives de la Chambre de Commerces et d’Industrie de Marseille
 
 {% enddiaporama %}
+
+{% legend %}
+Ce navire a une hélice entrainée par une turbine de 20 000 chevaux vapeur. On voit ici l'impressionnante salle des machines, puis différentes étapes de sa construction. 
+
+La photographie de la salle des machines se trouve aux archives de la CCI Marseille-Provence.
+Les photographies de la construction du Centaure sont aux archives du Musée Ciotaden à La Ciotat.
+{% endlegend %}
 
 22 juillet 1959
 ------------
@@ -49,33 +59,40 @@ Lancement du Centaure. Le lancement initialement prévu pour le dimanche 19 juil
 
 {% diaporama lancementC %}
 
+spectateurs.jpg
+
 lancrecto.jpg
-Cette carte montre le lancement du Centaure et fut envoyé probablement à l’occasion du lancement du Sea Sapphire le 8 juin 1962.
-Les lancements de navires furent un jour de fête pour toute la population de La Ciotat.
 
 lancverso.jpg
-« Ayez un peu de  patience et vos serez bientôt parmi nous.  Ici, il y aura un lancement le 4 juin d’un pétrolier de 200 m. C’est dommage que vous n’y soyez pas. Baisers. Jean H. & Paulette. »
-Édition Aris - Bandol
-
-spectateurs.jpg
-Archives du Musée Ciotaden, La Ciotat
 
 {% enddiaporama %}
+
+{% legend %}
+Les lancements de navires furent un jour de fête pour toute la population de La Ciotat.
+La carte montrant le lancement du Centaure fut probablement envoyée à l’occasion du lancement du Sea Sapphire le 8 juin 1962.
+
+Texte de la carte postale : « Ayez un peu de  patience et vos serez bientôt parmi nous. Ici, il y aura un lancement le 4 juin d’un pétrolier de 200 m. C’est dommage que vous n’y soyez pas. Baisers. Jean H. & Paulette. »
+Photographie des spectateurs : archives du Musée Ciotaden, La Ciotat.
+{% endlegend %}
 
 Il assure la ligne du Golfe Persique, puis effectue des livraisons entre le Golfe et le Japon.
 
 {% diaporama navireC %}
 
+salle.jpg
+
 navire1.jpg
-Archives du Musée Ciotaden, La Ciotat
 
 navire2.jpg
-Archives du Musée Ciotaden, La Ciotat
-
-salle.jpg
-Archives de la Chambre de Commerce et d’Industrie de Marseille
 
 {% enddiaporama %}
+
+{% legend %}
+L'aménagement du "Carré des affaires" est dans un style contemporain de l'époque de la construction du bateau.
+
+L'image du "Carré des affaires" se trouve aux archives de la CCI de Marseille-Provence. 
+Celles des navires aux archives du Musée Ciotaden à La Ciotat
+{% endlegend %}
 
 1962
 -----

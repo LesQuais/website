@@ -7,17 +7,20 @@ color: "rgb(66, 119, 126)"
 {% diaporama ville %}
 
 carte.jpg
-Monterrey entre el Obispado y el Cerro de la Silla 1904 ; Elizabeth Visere McGary “An American Girl in Mexico” ; publiée par Dodd, Mead et Company en 1904 à New York ; source : Commons Wikipedia.
 
 ville1.jpg
-Auteur non renseigné ; image provenant du site : The Art of Cody Seekins
 
 ville2.jpg
-Auteur non renseigné ; source : Commons Wikipedia.
 
 {% enddiaporama %}
-Le nom du bateau vient de la ville Monterrey située dans le nord-est du Mexique. Elle a 1,1 million d'habitants et on la surnomme : la ville des montages.
-Sources : Commons Wikipedia
+
+{% legend %}
+Le nom du bateau vient de la ville Monterrey située dans le nord-est du Mexique. Elle a 1,1 million d'habitants et on la surnomme la ville des montages.
+
+Carte : Monterrey entre el Obispado y el Cerro de la Silla 1904 ; Elizabeth Visere McGary “An American Girl in Mexico” ; publiée par Dodd, Mead et Company en 1904 à New York. Source : Commons Wikipedia.
+Vue nocturne : auteur non renseigné ; l'image provient du site : The Art of Cody Seekins.
+Vue diurne : auteur non renseigné. Source : Commons Wikipedia.
+{% endlegend %}
 
 
 Le Monterrey est emblématique du monde des affaires d’aujourd’hui : il ne cesse de changer de propriétaires qui ne cessent de lui changer son nom. Ce navire est **toujours en activité**.
@@ -26,7 +29,7 @@ Nous avons voulu rendre hommage au savoir faire de la construction navale qui fu
 
 {% below %}
 
-Monterrey est un porte conteneur et le 337e et dernier navire construit par les Chantiers navals de La Ciotat.
+Monterrey est un porte conteneur et le 337ᵉ et dernier navire construit par les Chantiers Navals de La Ciotat.
 
 1987
 ------------
@@ -37,13 +40,20 @@ Lancement de la construction.
 
 journal2.jpg
 
-dessous.jpg
+journal4.jpg
 
 charge.jpg
 
-{% enddiaporama %}
-Source : Archives du Musée Ciotaden, La Ciotat
+dessous.jpg
 
+{% enddiaporama %}
+
+
+{% legend %}
+La construction du navire débutée à La Ciotat, s'est terminée dans le port de la Spezia. 
+
+Photographies d'un article paru dans un magazine. Toutes les images : archives du Musée Ciotaden à La Ciotat.
+{% endlegend %}
 
 1988
 ------------
@@ -53,10 +63,15 @@ Les grèves du chantier de La Ciotat arrêtent les travaux.
 {% diaporama greve %}
 
 journal3.jpg
-Source : Archives du Musée Ciotaden, La Ciotat
-
 
 {% enddiaporama %}
+
+{% legend %}
+Un article du mensuel Marseille du mois de février 1988 fait part de la volonté des ouvriers des Chantiers Navals de se battre contre la fermeture définitive. Depuis les licenciements massifs commencés en 1986, les ouvriers sont en grève et organisent des nombreuses manifestations. 
+milliers d'hommes vont perdre leur travail. 
+
+Source : archives du Musée Ciotaden, La Ciotat
+{% endlegend %}
 
 1989
 ------------
@@ -71,18 +86,27 @@ navire1.jpg
 
 tire.jpg
 
+{% enddiaporama %}
+
+{% legend %}
+Le Monterrey quitte le port de La Ciotat pour l'Italie avant la fi de la construction. 
+
+Toutes les photographehie au archives du Musée Ciotaden à La Ciotat. 
+{% endlegend %}
+
+
+{% diaporama articles %}
+
 journaux.jgp
 
 {% enddiaporama %}
-Source : Archives du Musée Ciotaden, La Ciotat
 
+{% legend %}
+Une collecte d'articles qui témoignent de la tristesse de la part des Ciotadins en voyant le dernier navire sortir du port. La fin d'une belle histoire de 138 ans. 
 
-{% diaporama fin %}
+Source : archives du Musée Ciotaden, La Ciotat
+{% endlegend %}
 
-navire2.jpg
-Source : Archives du Musée Ciotaden, La Ciotat
-
-{% enddiaporama %}
 
 1996
 ------------

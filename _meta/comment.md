@@ -29,6 +29,6 @@ http://www.lenseigne.fr/
 L'installation électrique a été faite par Eric Lannoy, de la société Ericelec à Cassis.
 http://www.ericelec13.com/
 
-Nous remercions tous ces fournisseurs de leur accueil, de leurs conseils, et du soin particulier qu'ils ont apporté à la réalisation de cette œuvre.
+Nous remercions tous ces fournisseurs de leur accueil, de leurs conseils et du soin particulier qu'ils ont apporté à la réalisation de cette œuvre.
 
 

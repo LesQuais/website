@@ -7,29 +7,34 @@ color: "rgb(0, 156, 221)"
 {% diaporama reinhold %}
 
 messner.jpg
-Reinhold Messner photographié au Château Juval (Kastelbell-Tschars – Tyrol du sud) en août 2012. Auteur : Vale93b ; source : Commons Wikipedia
 
 equipe.jpg
-Alpinistes au sommet Ortler (Italie) ; fond: Reinhold Messner, König Ortler ; auteur : Edward Theodore Compton (1849-1921) ; source : Commons Wikipedia
 
 {% enddiaporama %}
-Reinhold Messner, né le 17 septembre 1944 dans le Tyrol du Sud est un alpiniste italien, considéré par beaucoup comme l'un des meilleurs du XXᵉ siècle. Il est réputé pour avoir réalisé première ascension en solitaire de l’Everest, qui plus est sans apport d'oxygène, et pour être le premier à avoir gravi les quatorze sommets de plus de 8000 mètres.
 
-Le navire tient son nom d’une chaîne de montagne située entre l’Inde et le Tibet dans le sud de l’Asie. L'Himalaya, de la langue sanskrit “demeure des neiges“, abrite les plus hautes montagnes du monde, soit les 14 sommets qui culminent à plus de 8000 m d’altitude dont le mont Everest, le plus haut de tous.
+{% legend %}
+Reinhold Messner, né le 17 septembre 1944 dans le Tyrol du Sud, est un alpiniste italien, considéré par beaucoup comme l'un des meilleurs du XXᵉ siècle. Il est réputé pour avoir réalisé la première ascension en solitaire de l’Everest sans apport d'oxygène, et pour être le premier à avoir gravi les quatorze sommets de plus de 8000 mètres.
+
+Reinhold Messner au Château Juval (Tyrol du Sud) en août 2012. Auteur : Vale93b. Source : Commons Wikipedia.
+Alpinistes au sommet Ortler (Italie) ; fond Reinhold Messner, König Ortler ; auteur : Edward Theodore Compton (1849-1921) ; Commons Wikipedia.
+{% endlegend %}
+
+Le navire tient son nom d’une chaîne de montagne située entre l’Inde et le Tibet dans le sud de l’Asie. L'Himalaya, de la langue sanskrit “demeure des neiges“, abrite les plus hautes montagnes du monde, soit les 14 sommets qui culminent à plus de 8000 mètres d’altitude dont le mont Everest, le plus haut de tous.
+Image : Commons Wikipedia.
 
 {% diaporama sommets %}
 
 montagnes.jpg
-Source : Commons Wikipedia
 
 {% enddiaporama %}
+
 
 Ce sont aussi bien l’accumulation des exploits du navire en changeant d'assignation selon les époques, que les **exploits des hommes** cherchant à se mesurer aux **sommets himalayens**, qui nous ont conduit à le choisir pour l’entrée du collège.
 Posé sur le premier pilier de l’entrée, incliné comme une pente de montagne, l’Himalaya est vu de loin, sa lumière bleue teinte toute la sphère d’entrée à l'extérieur comme à l’intérieur.
 
 {% below %}
 
-Himalaya est un paquebot mixte et le 117e navire de la compagnie Messageries Maritimes construit à La Ciotat.
+Himalaya est un paquebot mixte et le 117ᵉ navire de la compagnie Messageries Maritimes construit à La Ciotat.
 
 1902
 ----
@@ -38,15 +43,20 @@ Lancement pour la ligne Dunkerque - Haïphong.
 
 {% diaporama navireH %}
 
+helice.jpg
+
 lancementH.jpg
-Source : Archives du Musée Ciotden, La Ciotat
 
 bateau.jpg
 
-helice.jpg
-Source : Archives de Chambre de Commerce et de l’Industrie de Marseille
-
 {% enddiaporama %}
+
+{% legend %}
+
+
+Hélice sur le pont : archives de la CCI Marseille-Provence.
+Lancement et navire : archives du Musée Ciotaden, La Ciotat.
+{% endlegend %}
 
 1907
 --------------
@@ -76,5 +86,9 @@ Torpillé près de Bizerte, les rescapés sont sauvés par les avisos Impatiente
 feu.jpg
 
 {% enddiaporama %}
+
+{% legend %}
+À 2 heures 15, une explosion se produit à bâbord vers l'avant dans une cale chargée de munition. Tout l'avant prend feu et à 2 heures 50 le navire disparait et entraîne 36 personnes. 
+{% endlegend %}
 
 {% endbelow %}

@@ -7,31 +7,37 @@ id: "phoceen"
 {% diaporama porte %}
 
 porte1.jpg
-La Sublime Porte durant la période ottomane
-Source Wikipedia
 
 porte2.jpg
-La Sublim Porta de la mairie d’Istanbul en 2006
-Photographie : G. Dall'Orto ; source Wikipedia
 
 {% enddiaporama %}
+
+{% legend %}
+La Sublime Porte était la porte d'honneur monumentale du siège du gouvernement de l'Empire ottoman. Elle se situait au centre ville de Constantinople, aujourd'hui Istanbul. 
+
+La Sublime Porte durant la période ottomane ; source Wikipedia.
+La Sublime Porte de la mairie d’Istanbul en 2006.
+Photographie : G. Dall'Orto ; source Wikipedia
+{% endlegend %}
 
 {% diaporama industrie %}
 
 industrie1.jpg
-Étendue des Chantiers Navals dans le port de La Ciotat en 1940.
-Archives du Musée Ciotaden, La Ciotat
 
 industrie2.jpg
-Port de La Ciotat vers 1945
-Archives du Musée Ciotaden, La Ciotat
 
 industrie3.jpg
-Livraison d’hélice et tramway à l’Escalet
-Archives du Musée Ciotaden, La Ciotat
 
 {% enddiaporama %}
 
+
+{% legend %}
+Étendue des Chantiers Navals dans le port de La Ciotat en 1940.
+Port de La Ciotat vers 1945.
+Livraison d’hélice et tramway à l’Escalet.
+
+Toutes les photographies se trouvent aux archives du Musée Ciotaden à La Ciotat.
+{% endlegend %}
 
 Notre choix a été motivé :
 par le caractère innovant de ce navire, qui a ouvert la voie vers **l’apogée industrielle** que la ville a connue pendant un siècle et demi ;
@@ -54,12 +60,18 @@ Lancement du Phocéen I, premier navire à vapeur en Méditerranée. Il est en b
 {% diaporama navire %}
 
 gravure1.jpg
-Archives du Musée Ciotaden, La Ciotat
 
 gravure2.jpg
-Collection privée, La Ciotat
 
 {% enddiaporama %}
+
+{% legend %}
+Au cours des siècles, la qualité du mouillage de son port, alliée au savoir faire et à l’expertise de ses habitants, va faire la réputation de La Ciotat. Plusieurs auteurs font remonter la présence des premiers ateliers de construction maritime au 15ᵉ siècle.
+
+La gravure du navire : archives du Musée Ciotaden, La Ciotat. 
+La gravure du port de La Ciotat : collection privée, La Ciotat.
+{% endlegend %}
+
 
 1838
 --------------
@@ -69,17 +81,24 @@ Le sultan de l’empire Ottoman Mahmoud II acquiert le Phocéen, qui est rebapti
 {% diaporama carte %}
 
 empire.jpg
-Carte de l’empire ottoman vers 1800.
-Auteur : Esemono ; source : Commons Wikipedia
 
 {% enddiaporama %}
+
+{% legend %}
+Carte de l’empire ottoman vers 1800.
+Auteur : Esemono ; source : Commons Wikipedia
+{% endlegend %}
 
 {% diaporama sultan %}
 
 sultan.jpg
-Peinture du sultan Mahmud II ; source non renseignée
 
 {% enddiaporama %}
+
+{% legend %}
+Peinture du sultan Mahmoud II ; source non renseignée.
+{% endlegend %}
+
 
 1841
 --------------

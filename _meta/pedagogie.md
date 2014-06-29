@@ -86,3 +86,8 @@ Latin / Grec
 
 On pourra évoquer, au travers des enseignes Amazone et Centaure, les animaux prodigieux, les monstres, le récit merveilleux (combat des Centaures et des Lapithes). La persistance de ces êtres dans nos représentations est illustrée par quelques éléments d’iconographie que nous avons choisi.
 
+à télécharger
+------------------
+Un díaporama avec l'ensemble des photographies anciennes des navires construits à La Ciotat et utilisés par l'œuvre artistique. 
+
+
