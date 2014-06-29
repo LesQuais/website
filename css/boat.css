@@ -1,3 +1,7 @@
+html {
+	background-image: none;
+}
+
 strong {
 	color: black;
 	font-weight: normal;
@@ -100,7 +104,8 @@ h2, h3, h4 {
 }
 
 /* Sources are the last paragraph */
-.legend p:last-child {
+.legend > p:last-child {
+	font-size: 80%;
 	margin-top: 1em;
 }
 

@@ -23,11 +23,11 @@ defaults:
       path: ""	# means "all files"
       type: "meta"	# targets a collection
     values:
-      layout: "embedded"
+      layout: "meta"
   -
     scope:
       path: ""	# means "all files"
       type: "mots"	# targets a collection
     values:
-      layout: "embedded"
+      layout: "word"
 
