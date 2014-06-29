@@ -1,13 +1,16 @@
+html {
+	background-color: #000;
+	color: white;
+}
+
 body {
 	margin: auto;
 	max-width: 1024px;
 	font-size: 130%;
 	font-family: sans-serif;
-	background-color: #000;
-	color: white;
 
 	font-family: "VAG Rounded", "Letter Gothic Pitch", sans-serif;
-	letter-spacing: .05em;
+	letter-spacing: .1em;
 	line-height: 180%;
 }
 
@@ -15,9 +18,12 @@ a {
 	color: inherit;
 }
 
-h1, h2, h3, h4, p, blockquote {
-	margin-top: 0;
-	margin-bottom: 0;
+h2, h3, h4 {
+	color: white;
+}
+
+nav a {
+	text-decoration: none;
 }
 
 .name {
@@ -46,4 +52,14 @@ blockquote p:first-child::before {
 
 blockquote p:last-child::after {
 	content: ' »';
+}
+
+#prev {
+	float: left;
+	margin-right: .5em;
+}
+
+#next {
+	float: right;
+	margin-left: .5em;
 }

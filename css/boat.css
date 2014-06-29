@@ -35,20 +35,14 @@ nav h1 {
 	display: inline;
 }
 
+h1, h2, h3, h4, p, blockquote {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
 h2, h3, h4 {
-	color: white;
 	font-size: 100%;
 	font-weight: normal;
-}
-
-#prev {
-	float: left;
-	margin-right: .5em;
-}
-
-#next {
-	float: right;
-	margin-left: .5em;
 }
 
 #home {
@@ -59,10 +53,6 @@ h2, h3, h4 {
 	font-size: 120%;
 	margin-top: -.15em;
 	font-weight: normal;
-}
-
-#prev, #next, #home {
-	text-decoration: none;
 }
 
 #home img {

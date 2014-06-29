@@ -4,7 +4,8 @@ color: "rgb(82, 82, 26)"
 order: 2
 ---
 
-Les quais
+Le projet
+---------
 
 Sous le titre **Les quais**, notre proposition artistique réunit les mouvements alternés d’accostage et de départ qui rythment toute navigation. Terres nouvelles, escales connues et familières, port d’attache, éloignement des repères et approche des atterrages, nous souhaitons susciter ces émotions en les associant à la fréquentation du collège pendant quatre ans par des personnalités en pleine transformation.
 

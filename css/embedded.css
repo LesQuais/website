@@ -1,9 +1,38 @@
-body {
-	color: rgb(255, 236, 0);
-	letter-spacing: .18em;
-	font-weight: normal;
+html {
+	height: 100%;
+	width: 100%;
+	background-image: url(../images/earth.png);
+	background-position: center;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: contain;
 }
 
-#close {
-	text-decoration: none;
+body {
+	color: black;
+	background-color: rgb(219, 204, 29);
+	background-color: rgba(219, 204, 29, 0.9);
+	font-weight: normal;
+	padding: 2em;
+}
+
+nav {
+	color: white;
+	margin-bottom: 6em;
+	font-weight: bold;
+}
+
+nav, h1 {
+	letter-spacing: .12em;
+}
+
+h1 {
+	font-size: 800%;
+	text-align: center;
+	margin-bottom: 0;
+}
+
+h2 {
+	text-transform: uppercase;
+	color: white;
 }

@@ -1,6 +1,7 @@
 name: Les Quais
 markdown: kramdown
 highlighter: false
+# baseurl: /
 
 collections:
   bateaux:
