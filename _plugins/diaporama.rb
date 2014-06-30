@@ -16,7 +16,9 @@ module Jekyll
 
 		def initialize(tag_name, text, tokens)
 			super
-			@diaporama_name = text.strip
+			parts = text.split(',')
+			@diaporama_name = parts[0].strip
+			@additional_classes = parts[1] ? parts[1].strip : ''
 		end
 
 		def render(context)
@@ -24,7 +26,7 @@ module Jekyll
 
 			page_id = page['id'] || page['title'].downcase
 
-			Fotorama::render(page_id, @diaporama_name, user_data)
+			Fotorama::render(page_id, @diaporama_name, user_data, @additional_classes)
 		end
 
 		# Transforms the text within the `diaporama` tag to a data structure

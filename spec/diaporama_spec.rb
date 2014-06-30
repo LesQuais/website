@@ -59,8 +59,13 @@ describe Fotorama do
 			it { should_not include '""' }
 		end
 
+		let(:data) do
+			{ ['file.jpg'] => 'legend' }
+		end
 
 		context 'with one entry' do
+			it_should_behave_like 'fotorama renderer'
+		end
 			let(:data) do
 				{ 'file.jpg' => 'legend' }
 			end
@@ -73,7 +78,14 @@ describe Fotorama do
 				{ 'file.png' => 'legend', 'second file.jpg' => 'another legend' }
 			end
 
+		describe 'with additional classes' do
+			let(:additional_classes) { 'special' }
+
+			subject { Fotorama::render(page_id, diaporama_name, data, additional_classes) }
+
 			it_should_behave_like 'fotorama renderer'
+
+			it { should include "class=\"fotorama #{additional_classes}\"" }
 		end
 	end
 end
