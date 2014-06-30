@@ -1,6 +1,5 @@
 ---
 title: "quoi"
-color: "rgb(82, 82, 26)"
 order: 2
 ---
 
