@@ -25,7 +25,7 @@ Les noms des artistes et la signification des peintures.
 Toutes les peintures se trouvent sur le site du prix national Telstra Natsiaa pour la peinture aborigène organisé dans la région Northern Territory : http://natsiaa30.nt.gov.au/categories/painting
 {% endlegend %}
 
-{% diaporama carteA %}
+{% diaporama carteA, large %}
 
 carte_australie.jpg
 

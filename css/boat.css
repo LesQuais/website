@@ -92,6 +92,11 @@ h2, h3, h4 {
 	clear: left;
 }
 
+.fotorama.large {
+	float: none;
+	width: 100%;
+}
+
 .legend {
 	width: 48%;
 	box-sizing: border-box;

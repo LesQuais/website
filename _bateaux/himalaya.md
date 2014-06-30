@@ -23,7 +23,8 @@ Alpinistes au sommet Ortler (Italie) ; fond Reinhold Messner, König Ortler ; au
 Le navire tient son nom d’une chaîne de montagne située entre l’Inde et le Tibet dans le sud de l’Asie. L'Himalaya, de la langue sanskrit “demeure des neiges“, abrite les plus hautes montagnes du monde, soit les 14 sommets qui culminent à plus de 8000 mètres d’altitude dont le mont Everest, le plus haut de tous.
 Image : Commons Wikipedia.
 
-{% diaporama sommets %}
+
+{% diaporama sommets, large %}
 
 montagnes.jpg
 
