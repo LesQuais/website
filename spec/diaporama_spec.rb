@@ -42,7 +42,7 @@ describe Fotorama do
 			it_should_behave_like 'metadata renderer'
 
 			it 'should link the first image as an img for degradability' do
-				file = data.keys[0]
+				file = data.keys[0][0]
 
 				expect(subject).to include "src=\"../images/diaporamas/#{page_id}/#{diaporama_name}/#{file}\""
 			end
@@ -51,8 +51,8 @@ describe Fotorama do
 				lazy_loaded = data.clone
 				lazy_loaded.shift
 
-				lazy_loaded.each do |file, caption|
-					expect(subject).to include "href=\"../images/diaporamas/#{page_id}/#{diaporama_name}/#{file}\""
+				lazy_loaded.each do |files, caption|
+					expect(subject).to include "href=\"../images/diaporamas/#{page_id}/#{diaporama_name}/#{files[0]}\""
 				end
 			end
 
@@ -66,17 +66,28 @@ describe Fotorama do
 		context 'with one entry' do
 			it_should_behave_like 'fotorama renderer'
 		end
+
+		context 'with multiple entries' do
 			let(:data) do
-				{ 'file.jpg' => 'legend' }
+				{ ['file.png'] => 'legend', ['second file.jpg'] => 'another legend' }
 			end
 
 			it_should_behave_like 'fotorama renderer'
 		end
 
-		context 'with multiple entries' do
+		context 'with a multi-resolution entry' do
 			let(:data) do
-				{ 'file.png' => 'legend', 'second file.jpg' => 'another legend' }
+				{ ['file.jpg', 'full.jpg'] => 'legend' }
 			end
+
+			it_should_behave_like 'fotorama renderer'
+
+			it 'should link to the high-resolution version for fullscreen' do
+				file = data.keys[0][1]
+
+				expect(subject).to include "data-full=\"../images/diaporamas/#{page_id}/#{diaporama_name}/#{file}\""
+			end
+		end
 
 		describe 'with additional classes' do
 			let(:additional_classes) { 'special' }
@@ -102,7 +113,7 @@ legend
 INPUT
 			end
 
-			it { should eq({ 'file.png' => 'legend' }) }
+			it { should eq({ ['file.png'] => 'legend' }) }
 		end
 
 		context 'with leading whitespace' do
@@ -114,7 +125,7 @@ legend
 INPUT
 			end
 
-			it { should eq({ 'file.png' => 'legend' }) }
+			it { should eq({ ['file.png'] => 'legend' }) }
 		end
 
 		context 'with multiple entries' do
@@ -128,10 +139,10 @@ another legend
 INPUT
 			end
 
-			it { should eq({ 'file.png' => 'legend', 'second file.jpg' => 'another legend' }) }
+			it { should eq({ ['file.png'] => 'legend', ['second file.jpg'] => 'another legend' }) }
 		end
 
-				context 'with a multiline entry' do
+		context 'with a multiline entry' do
 			let(:input) do
 <<INPUT
 file.png
@@ -140,7 +151,30 @@ legend second line
 INPUT
 			end
 
-			it { should eq({ 'file.png' => 'legend first line\nlegend second line' }) }
+			it { should eq({ ['file.png'] => 'legend first line\nlegend second line' }) }
 		end
+
+		context 'with multiple resolutions' do
+			let(:input) do
+<<INPUT
+file.png/file-full.png
+legend
+INPUT
+			end
+
+			it { should eq({ ['file.png', 'file-full.png'] => 'legend' }) }
+		end
+
+				context 'with multiple resolutions and spaces' do
+			let(:input) do
+<<INPUT
+file.png / file-full.png
+legend
+INPUT
+			end
+
+			it { should eq({ ['file.png', 'file-full.png'] => 'legend' }) }
+		end
+
 	end
 end

@@ -13,10 +13,14 @@ module Fotorama
 
 		result << '<img src'
 
-		user_data.each do |img_name, caption|
+		user_data.each do |filenames, caption|
+			filename = filenames[0]
+			filename_fullwidth = filenames[1]
+
 			result << '="'
-			result << image_path(page_id, diaporama_name, img_name)
+			result << image_path(page_id, diaporama_name, filename)
 			result << '" '
+			result << 'data-full="' + image_path(page_id, diaporama_name, filename_fullwidth) + '" ' if filename_fullwidth
 			result << html_metadata(caption)
 			result << '></a><a href'	# ending with an empty <a> is less annoying than having a loop initialization
 		end
@@ -57,7 +61,7 @@ module DiaporamaParser
 
 		entries.each do |entry|
 			parts = entry.split(/\n/)
-			filename = parts.shift
+			filename = parts.shift.split('/').map(&:strip)
 			result[filename] = parts.join('\n')
 		end
 
