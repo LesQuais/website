@@ -3,6 +3,7 @@ title: "Phocéen"
 size: 45
 color: "rgb(255, 236, 0)"
 id: "phoceen"
+boat_over_bg: true
 ---
 {% diaporama porte %}
 
