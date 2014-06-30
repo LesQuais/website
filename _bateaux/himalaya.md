@@ -2,6 +2,7 @@
 title: "Himalaya"
 size: 136.38
 color: "rgb(0, 156, 221)"
+boat_over_bg: true
 ---
 
 {% diaporama reinhold %}
