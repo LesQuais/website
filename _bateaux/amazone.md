@@ -11,7 +11,7 @@ picasso.jpg
 
 dahomey.jpg
 
-jeu.jpg
+jeu.jpg / jeu-large.jpg
 
 {% enddiaporama %}
 
