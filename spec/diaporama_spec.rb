@@ -44,7 +44,7 @@ describe Fotorama do
 			it 'should link the first image as an img for degradability' do
 				file = data.keys[0]
 
-				expect(subject).to include "src=\"/images/diaporamas/#{page_id}/#{diaporama_name}/#{file}\""
+				expect(subject).to include "src=\"../images/diaporamas/#{page_id}/#{diaporama_name}/#{file}\""
 			end
 
 			it 'should lazy-load all other images' do
@@ -52,7 +52,7 @@ describe Fotorama do
 				lazy_loaded.shift
 
 				lazy_loaded.each do |file, caption|
-					expect(subject).to include "href=\"/images/diaporamas/#{page_id}/#{diaporama_name}/#{file}\""
+					expect(subject).to include "href=\"../images/diaporamas/#{page_id}/#{diaporama_name}/#{file}\""
 				end
 			end
 
