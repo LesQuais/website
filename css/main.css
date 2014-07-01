@@ -38,6 +38,10 @@ nav a {
 	letter-spacing: .18em;
 }
 
+ul {
+	padding-left: 0;
+}
+
 blockquote {
 	margin: 0;
 }

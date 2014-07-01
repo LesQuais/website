@@ -39,10 +39,12 @@ Livraison d’hélice et tramway à l’Escalet.
 Toutes les photographies se trouvent aux archives du Musée Ciotaden à La Ciotat.
 {% endlegend %}
 
-Notre choix a été motivé :
-par le caractère innovant de ce navire, qui a ouvert la voie vers **l’apogée industrielle** que la ville a connue pendant un siècle et demi ;
-pour souligner l’importance des comptoirs phocéens fondés sur la côte occidentale de la Méditerranée, notamment Marseille (Massalia) et Antibes (Antipolis) ;
-et rappeler qu’à cette époque, la **“Sublime Porte“** est un empire considérable qui s’étend sur une large part de l’Europe.
+Notre choix a été motivé&nbsp;:
+
+- par le caractère innovant de ce navire, qui a ouvert la voie vers **l’apogée industrielle** que la ville a connue pendant un siècle et demi&nbsp; ;
+- pour souligner l’importance des comptoirs phocéens fondés sur la côte occidentale de la Méditerranée, notamment Marseille (Massalia) et Antibes (Antipolis)&nbsp;;
+- et rappeler qu’à cette époque, la **“Sublime Porte“** est un empire considérable qui s’étend sur une large part de l’Europe.
+
 Nous lui attribuons la couleur jaune pour son rôle d’éclaireur et d’ouverture.
 
 {% below %}
