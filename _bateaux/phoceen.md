@@ -5,11 +5,12 @@ color: "rgb(255, 236, 0)"
 id: "phoceen"
 boat_over_bg: true
 ---
+
 {% diaporama porte %}
 
-porte1.jpg
+out_porte1.jpg/porte1.jpg
 
-porte2.jpg
+out_porte2.jpg/porte2.jpg
 
 {% enddiaporama %}
 
@@ -22,11 +23,11 @@ La Sublime Porte de la mairie d’Istanbul en 2006. Photographie&nbsp;: G. Dall'
 
 {% diaporama industrie %}
 
-industrie1.jpg
+out_industrie1.jpg/industrie1.jpg
 
-industrie2.jpg
+out_industrie2.jpg/industrie2.jpg
 
-industrie3.jpg
+out_industrie3.jpg/industrie3.jpg
 
 {% enddiaporama %}
 
@@ -61,9 +62,9 @@ Lancement du Phocéen&nbsp;I, premier navire à vapeur en Méditerranée. Il est
 
 {% diaporama navire %}
 
-gravure1.jpg
+out_gravure1.jpg/gravure1.jpg
 
-gravure2.jpg
+out_gravure2.jpg/gravure2.jpg
 
 {% enddiaporama %}
 
@@ -82,7 +83,7 @@ Le sultan de l’empire Ottoman Mahmoud&nbsp;II acquiert le Phocéen, qui est re
 
 {% diaporama carte %}
 
-empire.jpg
+out_empire.jpg/empire.jpg
 
 {% enddiaporama %}
 
@@ -92,7 +93,7 @@ Carte de l’empire ottoman vers 1800. Auteur&nbsp;: Esemono&nbsp;; source&nbsp;
 
 {% diaporama sultan %}
 
-sultan.jpg
+out_sultan.jpg/sultan.jpg
 
 {% enddiaporama %}
 

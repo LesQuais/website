@@ -6,11 +6,11 @@ color: "rgb(66, 119, 126)"
 
 {% diaporama ville %}
 
-carte.jpg
+out_carte.jpg/carte.jpg
 
-ville1.jpg
+out_ville1.jpg/ville1.jpg
 
-ville2.jpg
+out_ville2.jpg/ville2.jpg
 
 {% enddiaporama %}
 
@@ -38,13 +38,13 @@ Lancement de la construction.
 
 {% diaporama constructionM %}
 
-journal2.jpg
+out_journal2.jpg/journal2.jpg
 
-journal4.jpg
+out_journal4.jpg/journal4.jpg
 
-charge.jpg
+out_charge.jpg/charge.jpg
 
-dessous.jpg
+out_dessous.jpg/dessous.jpg
 
 {% enddiaporama %}
 
@@ -62,7 +62,7 @@ Les grèves du chantier de La Ciotat arrêtent les travaux.
 
 {% diaporama greve %}
 
-journal3.jpg
+out_journal3.jpg/journal3.jpg
 
 {% enddiaporama %}
 
@@ -79,11 +79,11 @@ Remorqué à La Spezia en Italie pour achever la construction.
 
 {% diaporama depart %}
 
-bord.jpg
+out_bord.jpg/bord.jpg
 
-navire1.jpg
+out_navire1.jpg/navire1.jpg
 
-tire.jpg
+out.tire.jpg/tire.jpg
 
 {% enddiaporama %}
 
@@ -96,7 +96,7 @@ Toutes les photographies sont aux archives du Musée Ciotaden à La Ciotat.
 
 {% diaporama articles %}
 
-journaux.jgp
+out_journaux.jgp/journaux.jgp
 
 {% enddiaporama %}
 

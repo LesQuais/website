@@ -7,9 +7,9 @@ boat_over_bg: true
 
 {% diaporama reinhold %}
 
-messner.jpg
+out_messner.jpg/messner.jpg
 
-equipe.jpg
+out_equipe.jpg/equipe.jpg
 
 {% enddiaporama %}
 
@@ -46,9 +46,9 @@ Lancement pour la ligne Dunkerque - Haiphong.
 
 helice.jpg
 
-lancementH.jpg
+out_lancementH.jpg/lancementH.jpg
 
-bateau.jpg
+out_bateau.jpg/bateau.jpg
 
 {% enddiaporama %}
 
@@ -84,7 +84,7 @@ Torpillé près de Bizerte, les rescapés sont sauvés par les avisos Impatiente
 
 {% diaporama torpillageH %}
 
-feu.jpg
+out_feu.jpg/feu.jpg
 
 {% enddiaporama %}
 

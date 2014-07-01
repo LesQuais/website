@@ -7,13 +7,13 @@ id: "vesuve"
 
 {% diaporama volcan %}
 
-naples.jpg
+out_terrasse.jpg/terrasse.jpg
 
-terrasse.jpg
+out_naples.jpg/naples.jpg
 
-crater.jpg
+out_crater.jpg/crater.jpg
 
-eruption.jpg
+out_eruption.jpg/eruption.jpg
 
 {% enddiaporama %}
 
@@ -50,11 +50,11 @@ Ce navire fit le service sur le Rhône pour assurer le transport entre Lyon, Val
 
 {% diaporama navire %}
 
-colombe.jpg
+out_vienne.jpg/vienne.jpg
 
-vienne.jpg
+out_colombe.jpg/colombe.jpg
 
-tarascon.jpg
+out_tarascon.jpg/tarascon.jpg
 
 {% enddiaporama %}
 

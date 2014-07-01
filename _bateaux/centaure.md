@@ -6,11 +6,11 @@ color: "rgb(5, 87, 158)"
 
 {% diaporama mythologie %}
 
-peinture.jpg
+out_peinture.jpg/peinture.jpg
 
-redon.jpg
+out_redon.jpg/redon.jpg
 
-oldcentaure.jpg
+out_oldcentaure.jpg/oldcentaure.jpg
 
 {% enddiaporama %}
 
@@ -33,13 +33,13 @@ Par sa technique de construction, il affirme le savoir-faire des Chantiers Naval
 
 {% diaporama constructionC %}
 
-machine.jpg
+out_machine.jpg/machine.jpg
 
-construction1.jpg
+out_construction1.jpg/construction1.jpg
 
-construction2.jpg
+out_construction2.jpg/construction2.jpg
 
-construction3.jpg
+out_construction3.jpg/construction3.jpg
 
 {% enddiaporama %}
 
@@ -57,11 +57,11 @@ Lancement du Centaure. Le lancement initialement prévu pour le dimanche 19 juil
 
 {% diaporama lancementC %}
 
-spectateurs.jpg
+out_spectateurs.jpg/spectateurs.jpg
 
-lancrecto.jpg
+out_lancrecto.jpg/lancrecto.jpg
 
-lancverso.jpg
+out_lancverso.jpg/lancverso.jpg
 
 {% enddiaporama %}
 
@@ -77,11 +77,11 @@ Il assure la ligne du golfe Persique, puis effectue des livraisons entre le golf
 
 {% diaporama navireC %}
 
-salle.jpg
+out_salle.jpg/salle.jpg
 
-navire1.jpg
+out_navire1.jpg/navire1.jpg
 
-navire2.jpg
+out_navire2.jpg/navire2.jpg
 
 {% enddiaporama %}
 

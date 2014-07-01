@@ -7,11 +7,11 @@ boat_over_bg: true
 
 {% diaporama lesamazones %}
 
-picasso.jpg
+out_picasso.jpg/picasso.jpg
 
-dahomey.jpg
+out_dahomey.jpg/dahomey.jpg
 
-jeu.jpg / jeu-large.jpg
+out_jeu.jpg/jeu.jpg
 
 {% enddiaporama %}
 
@@ -25,11 +25,11 @@ Dans la mythologie, les Amazones sont un peuple de femmes guerrières résidant 
 
 {% diaporama amazonie %} 
 
-fleuve.jpg
+out_fleuve.jpg/fleuve.jpg
 
-foret.jpg
+out_foret.jpg/foret.jpg
 
-deforestation.jpg
+out_deforestation.jpg/deforestation.jpg
 
 {% enddiaporama %}
 
@@ -55,13 +55,13 @@ Lancement du navire pour la ligne d’Extrême Orient, construit spécialement p
 
 {% diaporama navire %}
 
-escalier.jpg
+out_escalier.jpg/escalier.jpg
 
-cabine.jpg
+out_cabine.jpg/cabine.jpg
 
-amlancement.jpg
+out_amlancement.jpg/amlancement.jpg
 
-mer.jpg
+out_mer.jpg/mer.jpg
 
 {% enddiaporama %}
 
@@ -139,7 +139,7 @@ L’Amazone est démoli à Marseille
 
 {% diaporama plan %}
 
-plans.jpg
+out_plans.jpg/plans.jpg
 
 {% enddiaporama %}
 

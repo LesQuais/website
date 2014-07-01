@@ -7,7 +7,7 @@ id: "meteore"
 
 {% diaporama regles %}
 
-morceaux.jpg
+out_morceaux.jpg/morceaux.jpg
 
 {% enddiaporama %}
 
@@ -20,7 +20,7 @@ Source&nbsp;: Commons Wikipedia.
 
 {% diaporama ciel %}
 
-eclats.jpg
+out_eclats.jpg/eclats.jpg
 
 {% enddiaporama %}
 
@@ -48,11 +48,11 @@ Effectue son premier vol
 
 {% diaporama avionM %}
 
-meteor1.jpg
+out_meteor1.jpg/meteor1.jpg
 
-meteor3.jpg
+out_meteor3.jpg/meteor3.jpg
 
-meteor4.jpg
+out_meteor4.jpg/meteor4.jpg
 
 {% enddiaporama %}
 
@@ -71,11 +71,11 @@ La construction des avions à La Ciotat s’est interrompue définitivement avec
 
 {% diaporama courrier %}
 
-meteor2.jpg
+out_meteor2.jpg/meteor2.jpg
 
-horaire.jpg
+out_horaire.jpg/horaire.jpg
 
-meteor5.jpg
+out_meteor5.jpg/meteor5.jpg
 
 {% enddiaporama %}
 

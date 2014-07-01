@@ -8,9 +8,9 @@ boat_over_bg: true
 
 {% diaporama mesure %}
 
-homme.jpg
+out_homme.jpg/homme.jpg
 
-milli.jpg
+out_milli.jpg/milli.jpg
 
 {% enddiaporama %}
 
@@ -34,13 +34,13 @@ Lancement. Fait rare, le navire refusa de glisser après sa libération. Il glis
 
 {% diaporama navireAmp %}
 
-construction.jpg
+out_construction.jpg/construction.jpg
 
-menuAmp.jpg
+out_menuAmp.jpg/menuAmp.jpg
 
-navire1.jpg
+out_navire1.jpg/navire1.jpg
 
-navire2.jpg
+out_navire2.jpg/navire2.jpg
 
 {% enddiaporama %}
 
@@ -51,15 +51,16 @@ L'Ampère sur la cale de construction, puis un lancement avec foie gras, crousta
 Toutes les images se trouvent aux archives du Musée Ciotaden à La Ciotat.
 {% endlegend %}
 
+
 {% diaporama activite %}
 
-article.jpg
+out_article.jpg/article.jpg
 
-rond.jpg
+out_rond.jpg/rond.jpg
 
-cable.jpg
+out_cable.jpg/cable.jpg
 
-cartecable.jpg
+out_cartecable.jpg/cartecable.jpg
 
 {% enddiaporama %}
 

@@ -7,15 +7,15 @@ boat_over_bg: true
 
 {% diaporama aborigene %}
 
-aborig1.jpg
+out_aborig1.jpg/aborig1.jpg
 
-aborig2.jpg
+out_aborig2.jpg/aborig2.jpg
 
-aborig3.jpg
+out_aborig3.jpg/aborig3.jpg
 
-aborig4.jpg
+out_aborig4.jpg/aborig4.jpg
 
-aborig5.jpg
+out_aborig5.jpg/aborig5.jpg
 
 {% enddiaporama %}
 
@@ -60,13 +60,13 @@ Paul Gauguin embarque à Marseille pour son dernier voyage. Il arrive à Sydney 
 
 {% diaporama gaugin %}
 
-gaugin1.jpg
+out_gaugin1.jpg/gaugin1.jpg
 
-gaugin2.jpg
+out_gaugin2.jpg/gaugin2.jpg
 
-gaugin3.jpg
+out_gaugin3.jpg/gaugin3.jpg
 
-gaugin4.jpg
+out_gaugin4.jpg/gaugin4.jpg
 
 {% enddiaporama %}
 
@@ -84,17 +84,17 @@ L’Australien est réquisitionné comme navire auxiliaire. Il effectuera des tr
 
 {% diaporama navire %}
 
-phare.jpg
+out_phare.jpg/phare.jpg
 
-navireaus.jpg
+out_navireaus.jpg/navireaus.jpg
 
-navireaus_txt.jpg
+out_navireaus_txt.jpg/navireaus_txt.jpg
 
-menu1910.jpg
+out_menu1910.jpg/menu1910.jpg
 
-menu1915.jpg
+out_menu1915.jpg/menu1915.jpg
 
-menu1915verso.jpg
+out_menu1915verso.jpg/menu1915verso.jpg
 
 {% enddiaporama %}
 
@@ -116,7 +116,7 @@ En route dans un convoi pour Saigon, il est torpillé non loin de Malte par le s
 
 {% diaporama torpillage %}
 
-torpillage_autralien.jpg
+out_torpillage_autralien.jpg/torpillage_autralien.jpg
 
 {% enddiaporama %}
 
