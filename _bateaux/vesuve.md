@@ -22,7 +22,7 @@ Le mont Vésuve est un volcan italien d'une hauteur de 1281 mètres, bordant la 
 {% endlegend %}
 
 
-L’exemplarité de la technique de construction du navire, ainsi que l’image et la mémoire évoquées par le nom du **volcan** nous ont amené à le choisir. Nous avons aussi trouvé attachant que le Rhône, fleuve difficilement navigable et imprévisible, soit indirectement associé à un volcan.
+L’exemplarité de la technique de construction du navire, ainsi que l’image et la mémoire évoquées par le nom du **volcan** nous ont amené à le choisir. Nous avons aussi trouvé attachant que **le Rhône**, fleuve difficilement navigable et imprévisible, soit indirectement associé à un volcan.\\
 Nous avons jugé opportun de le poser sur l’entrée de la salle de spectacle ouvert à un public venant de l’extérieur. Nous y voyons vivacité, énergie et une mémoire enfouie.
 
 {% below %}
@@ -45,7 +45,7 @@ Sort pour la première fois et donne des résultats peu satisfaisants.
 Mai 1838
 --------------
 
-Part pour Beaucaire.
+Part pour Beaucaire.\\
 Ce navire fit le service sur le Rhône pour assurer le transport entre Lyon, Valence, Beaucaire et Arles.
 
 {% diaporama navire %}
@@ -65,6 +65,6 @@ Nous n'avons pas trouvé de représentation du navire Vésuve, alors nous propos
 Fin 1843
 ---------
 
-Le Vésuve est dépecé à Lyon
+Le Vésuve est dépecé à Lyon.
 
 {% endbelow %}

@@ -20,9 +20,9 @@ aborig5.jpg
 {% enddiaporama %}
 
 {% legend %}
-Les noms des artistes et la signification des peintures. 
+Les noms des artistes et la signification des peintures.
 
-Toutes les peintures se trouvent sur le site du prix national Telstra Natsiaa pour la peinture aborigène organisé dans la région Northern Territory : http://natsiaa30.nt.gov.au/categories/painting
+Toutes les peintures se trouvent sur le site du prix national Telstra Natsiaa pour la peinture aborigène organisé dans la région Northern Territory&nbsp;: http://natsiaa30.nt.gov.au/categories/painting
 {% endlegend %}
 
 {% diaporama carteA, large %}
@@ -32,8 +32,8 @@ carte_australie.jpg
 {% enddiaporama %}
 
 
-Au travers de ce navire témoigne la guerre, autant que l’éloignement du monde trop connu : l’**Australie**, une île-continent dans l’hémisphère sud et terre d’immigration ;
-les îles du Pacifique et le choix de Gauguin de retourner à “la vie sauvage“ : « J’emporte mes couleurs et mes pinceaux et je me retremperai loin de tous les hommes ».
+Au travers de ce navire témoigne la guerre, autant que l’éloignement du monde trop connu&nbsp;: **l’Australie**, une île-continent dans l’hémisphère sud et terre d’immigration &nbsp;;
+les îles du Pacifique et le choix de Gauguin de retourner à “la vie sauvage“&nbsp;: «&nbsp;J’emporte mes couleurs et mes pinceaux et je me retremperai loin de tous les hommes&nbsp;».
 Les aborigènes, populations autochtones de l’Australie, ont survécu dans le Nord et l’Ouest. Leur mythologie parle d’un temps primordial, le “temps du rêve“ au cours duquel le paysage a été modelé et les premiers êtres animés ont vécu. La **peinture aborigène**, qui a des styles divers, représente de façon symbolique des moments de cette histoire.
 
 {% below %}
@@ -44,7 +44,7 @@ Australien est un paquebot et le 90ᵉ navire de la compagnie Messageries Mariti
 1889
 ----
 
-Lancement de l’Australien, le premier d’une série de 4 “navires-sœurs“ avec le Polynésien, l’Armand Behic et le Ville de la Ciotat, affecté aux lignes du Pacifique : Australie et Nouvelle Calédonie.
+Lancement de l’Australien, le premier d’une série de 4 “navires-sœurs“ avec le Polynésien, l’Armand Behic et le Ville de la Ciotat, affecté aux lignes du Pacifique&nbsp;: Australie et Nouvelle Calédonie.
 
 
 1891
@@ -71,9 +71,9 @@ gaugin4.jpg
 {% enddiaporama %}
 
 {% legend %}
-Dès ses 17 ans, Paul Gauguin (1848-1903) s’engage sur des navires, d’abord comme novice, puis comme lieutenant dans la marine nationale. Abandonnant les voyages et le monde des affaires, il se consacre entièrement à sa passion : la peinture. Dès 1887 il embarque à nouveau pour Panama, la Martinique, puis la Polynésie, Tahiti et enfin les Marquises où il restera jusqu’à son décès le 8 mai 1903.
+Dès ses 17 ans, Paul Gauguin (1848-1903) s’engage sur des navires, d’abord comme novice, puis comme lieutenant dans la marine nationale. Abandonnant les voyages et le monde des affaires, il se consacre entièrement à sa passion&nbsp;: la peinture. Dès 1887 il embarque à nouveau pour Panama, la Martinique, puis la Polynésie, Tahiti et enfin les Marquises où il restera jusqu’à son décès le 8&nbsp;mai 1903.
 
-"Cavalier sur la plage" 1902, est dans la Stavros Niarchos Collection. 
+"Cavalier sur la plage" 1902, est dans la Stavros Niarchos Collection.\\
 "Te Tiare Faranise" (Les Fleurs de France) 1891, "Ne pas travailler" 1896 et "Te Arii Vahine" (La Reine de beauté) 1996, se trouvent au musée Puchkine à Moscou.
 {% endlegend %}
 
@@ -101,18 +101,18 @@ menu1915verso.jpg
 {% legend %}
 Deux cartes postales et deux dîners : les déplacements militaires et les voyages de loisir faisaient le plein du courrier maritime.
 L’auteur de la carte qui indique l'emplacement de sa cale au recto fait partie de l’armée d’Orient et part pour Salonique.
-Les cartes de menu sont décorées d'une image de ville se trouvant sur une des lignes desservies par les Messageries Maritimes. Pour celle de 1910 : Shanghaï en Chine. Pour celle de 1915 : Benarès (aujourd’hui Varanasi) en Inde, d’après une peinture de Mauris Levis.
+Les cartes de menu sont décorées d'une image de ville se trouvant sur une des lignes desservies par les Messageries Maritimes. Pour celle de 1910&nbsp;: Shanghaï en Chine. Pour celle de 1915&nbsp;: Benarès (aujourd’hui Varanasi) en Inde, d’après une peinture de Mauris Levis.
 
-Texte de la carte navire : « Après 42 jours de traversée arrivé Marseille, il fait froid. Bonjour à vos parents et à Victor. Abel » (qui rentre du Tonkin).
+Texte de la carte navire&nbsp;: «&nbsp;Après 42 jours de traversée arrivé Marseille, il fait froid. Bonjour à vos parents et à Victor. Abel&nbsp;» (qui rentre du Tonkin).
 Carte adressée le 30 avril 1907 à Mademoiselle Berthe Dulaugier à Bordeaux.
-Texte de la carte-menu ; « 21 Mai 16 heures. Dernières Nouvelles. Nous recevons le renseignement suivant. Nous ne restons pas à Lemnos (?), nous partons demain pour les Dardanelles. Notre courrier ne partira pas encore ce soir, demain nous l’espérons. »
-Au diner du 18 mai 1915 : « Potage Flamande - Langue de bœuf braisée à la purée de lentilles -  Dindonnerau rôti - Salade - Epinard aux croûtons - Babas au rhum - Fromage & fruits - Biscuits - Café & eau-de-vie »
+Texte de la carte-menu&nbsp;; «&nbsp;21 Mai 16 heures. Dernières Nouvelles. Nous recevons le renseignement suivant. Nous ne restons pas à Lemnos&nbsp;(?), nous partons demain pour les Dardanelles. Notre courrier ne partira pas encore ce soir, demain nous l’espérons.&nbsp;»
+Au diner du 18 mai 1915&nbsp;: «&nbsp;Potage Flamande - Langue de bœuf braisée à la purée de lentilles - Dindonnerau rôti - Salade - Épinard aux croûtons - Babas au rhum - Fromage & fruits - Biscuits - Café & eau-de-vie&nbsp;»
 {% endlegend %}
 
 20 Juillet 1918
 ---------------
 
-En route dans un convoi pour Saïgon, il est torpillé non loin de Malte par le sous marin allemand UC 54 et coule à 6h30 du matin.
+En route dans un convoi pour Saigon, il est torpillé non loin de Malte par le sous marin allemand UC 54 et coule à 6h30 du matin.
 
 {% diaporama torpillage %}
 
@@ -121,10 +121,10 @@ torpillage_autralien.jpg
 {% enddiaporama %}
 
 {% legend %}
-À comparer les cartes des différents navires torpillés, on remarque un même fond de "modèle de torpillage peint" avec le bateau touché en incrustation. 
+À comparer les cartes des différents navires torpillés, on remarque un même fond de "modèle de torpillage peint" avec le bateau touché en incrustation.
 
-Carte postale des Messagerie Maritimes
-Source : archives du Musée Ciotaden à La Ciotat
+Carte postale des Messagerie Maritimes.
+Source&nbsp;: archives du Musée Ciotaden à La Ciotat.
 {% endlegend %}
 
 {% endbelow %}

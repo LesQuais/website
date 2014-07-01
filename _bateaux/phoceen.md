@@ -14,11 +14,10 @@ porte2.jpg
 {% enddiaporama %}
 
 {% legend %}
-La Sublime Porte était la porte d'honneur monumentale du siège du gouvernement de l'Empire ottoman. Elle se situait au centre ville de Constantinople, aujourd'hui Istanbul. 
+La Sublime Porte était la porte d'honneur monumentale du siège du gouvernement de l'Empire ottoman. Elle se situait au centre ville de Constantinople, aujourd'hui Istanbul.
 
-La Sublime Porte durant la période ottomane ; source Wikipedia.
-La Sublime Porte de la mairie d’Istanbul en 2006.
-Photographie : G. Dall'Orto ; source Wikipedia
+La Sublime Porte durant la période ottomane&nbsp;; source Wikipedia.\\
+La Sublime Porte de la mairie d’Istanbul en 2006. Photographie&nbsp;: G. Dall'Orto &nbsp;; source Wikipedia.
 {% endlegend %}
 
 {% diaporama industrie %}
@@ -33,8 +32,8 @@ industrie3.jpg
 
 
 {% legend %}
-Étendue des Chantiers Navals dans le port de La Ciotat en 1940.
-Port de La Ciotat vers 1945.
+Étendue des Chantiers Navals dans le port de La Ciotat en 1940.\\
+Port de La Ciotat vers 1945.\\
 Livraison d’hélice et tramway à l’Escalet.
 
 Toutes les photographies se trouvent aux archives du Musée Ciotaden à La Ciotat.
@@ -56,7 +55,7 @@ Installation du premier chantier naval par Louis Benet, né à La Ciotat dans un
 1836
 ----
 
-Lancement du Phocéen I, premier navire à vapeur en Méditerranée. Il est en bois, équipé de machines anglaises et muni de roues à aubes.
+Lancement du Phocéen&nbsp;I, premier navire à vapeur en Méditerranée. Il est en bois, équipé de machines anglaises et muni de roues à aubes.
 
 {% diaporama navire %}
 
@@ -67,17 +66,17 @@ gravure2.jpg
 {% enddiaporama %}
 
 {% legend %}
-Au cours des siècles, la qualité du mouillage de son port, alliée au savoir faire et à l’expertise de ses habitants, va faire la réputation de La Ciotat. Plusieurs auteurs font remonter la présence des premiers ateliers de construction maritime au 15ᵉ siècle.
+Au cours des siècles, la qualité du mouillage de son port, alliée au savoir faire et à l’expertise de ses habitants, vont faire la réputation de La Ciotat. Plusieurs auteurs font remonter la présence des premiers ateliers de construction maritime au 15ᵉ siècle.
 
-La gravure du navire : archives du Musée Ciotaden, La Ciotat. 
-La gravure du port de La Ciotat : collection privée, La Ciotat.
+La gravure du navire&nbsp;: archives du Musée Ciotaden, La Ciotat.\\
+La gravure du port de La Ciotat&nbsp;: collection privée, La Ciotat.
 {% endlegend %}
 
 
 1838
 --------------
 
-Le sultan de l’empire Ottoman Mahmoud II acquiert le Phocéen, qui est rebaptisé “Peyk-i Șevket“, ce qui peut se traduire par “Messager de sa Majesté“ ou “Messager de la Magnificence“.
+Le sultan de l’empire Ottoman Mahmoud&nbsp;II acquiert le Phocéen, qui est rebaptisé “Peyk-i Șevket“, ce qui peut se traduire par “Messager de sa Majesté“ ou “Messager de la Magnificence“.
 
 {% diaporama carte %}
 
@@ -86,8 +85,7 @@ empire.jpg
 {% enddiaporama %}
 
 {% legend %}
-Carte de l’empire ottoman vers 1800.
-Auteur : Esemono ; source : Commons Wikipedia
+Carte de l’empire ottoman vers 1800. Auteur&nbsp;: Esemono&nbsp;; source&nbsp;: Commons Wikipedia.
 {% endlegend %}
 
 {% diaporama sultan %}
@@ -97,13 +95,13 @@ sultan.jpg
 {% enddiaporama %}
 
 {% legend %}
-Peinture du sultan Mahmoud II ; source non renseignée.
+Peinture du sultan Mahmoud&nbsp;II&nbsp;; source non renseignée.
 {% endlegend %}
 
 
 1841
 --------------
 
-Lancement du Phocéen II, muni des premières machines à vapeur construites à La Ciotat.
+Lancement du Phocéen&nbsp;II, muni des premières machines à vapeur construites à La Ciotat.
 
 {% endbelow %}

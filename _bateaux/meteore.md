@@ -14,8 +14,8 @@ morceaux.jpg
 {% legend %}
 Fragments du météore qui survola Tcheliabinsk en Russie, le vendredi 15 février 2013.
 
-Photographe : Alexander Sapozhnikov.
-Source : Commons Wikipedia.
+Photographe&nbsp;: Alexander Sapozhnikov.\\
+Source&nbsp;: Commons Wikipedia.
 {% endlegend %}
 
 {% diaporama ciel %}
@@ -27,19 +27,19 @@ eclats.jpg
 {% legend %}
 Une explosion spectaculaire d'un météorite.
 
-Auteur : NASA Ames Research Center/S. Molau et P. Jenniskens.
-Source : Commons Wikipedia
+Auteur&nbsp;: NASA Ames Research Center/S. Molau et P. Jenniskens.\\
+Source &nbsp;: Commons Wikipedia
 {% endlegend %}
 
 
 Nous avons retenu ce nom pour cette tentative de s’inscrire dans le futur d’une nouvelle technique, mais aussi pour sa belle **trajectoire d’astre** liant le ciel et la terre.
-Par le Météore nous célébrons également la vitalité des adolescents ainsi que leur capacité **d’illuminer notre monde**.
+Par le Météore nous célébrons également la vitalité des adolescents ainsi que leur capacité **d’illuminer notre monde.**
 
 
 {% below %}
 
 Cet hydravion construit à trois exemplaires est le témoin d’une tentative des Chantiers de La Ciotat de prendre part au développement du marché aéronautique balbutiant. Le Météore est construit à La Ciotat et piloté aux essais par le Ciotadin Ernest Burri.
-Sa longueur est de 13,06 m et son envergure de 21,20 m, il peut transporter 6 passagers.
+Sa longueur est de 13,06&nbsp;m et son envergure de 21,20&nbsp;m, il peut transporter 6 passagers.
 
 3 Septembre 1925
 ------------
@@ -83,8 +83,8 @@ meteor5.jpg
 Les temps de voyage entre Paris à Saigon était passé de xx jours en bateau à xx jours en avion. Quatre changements était nécessaires pour arriver à destination. 
 Le courrier aussi bénéficiait de cette nouvelle voie de transport. 
 
-Photographies : archives du Musée Ciotaden, La Ciotat
-La grille d'horaires du Météore se trouve sur le site : gap.r.orient.pagesperso-orange.fr
+Photographies : archives du Musée Ciotaden, La Ciotat.\\
+La grille d'horaires du Météore se trouve sur le site&nbsp;: gap.r.orient.pagesperso-orange.fr
 {% endlegend %}
 
 {% endbelow %}

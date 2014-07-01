@@ -15,9 +15,9 @@ milli.jpg
 {% enddiaporama %}
 
 {% legend %}
-L’ampère est l’unité de mesure de l’intensité du courant électrique. Cette unité doit son nom à André-Marie Ampère, mathématicien, physicien, chimiste et philosophe français du 18e siècle. Ses travaux fondent l'électrodynamique et influencent considérablement la physique du XIXᵉ siècle. Le nom d’Ampère est celui d’un des douze savants inscrits sur la Tour Eiffel.
+L’ampère est l’unité de mesure de l’intensité du courant électrique. Cette unité doit son nom à André-Marie Ampère, mathématicien, physicien, chimiste et philosophe français du 18ᵉ siècle. Ses travaux fondent l'électrodynamique et influencent considérablement la physique du XIXᵉ siècle. Le nom d’Ampère est celui d’un des douze savants inscrits sur la Tour Eiffel.
 
-Source des deux images : Commons Wikipedia.
+Source des deux images&nbsp;: Commons Wikipedia.
 {% endlegend %}
 
 
@@ -44,10 +44,11 @@ navire2.jpg
 
 {% enddiaporama %}
 
-{% legend %}
-L'Ampère sur la cale de construction, puis un lancement avec foie gras, croustade d'aiguillettes de caneton et grands vins au menu !!
 
-Toutes les images se trouvent aux Archives du Musée Ciotaden à La Ciotat.
+{% legend %}
+L'Ampère sur la cale de construction, puis un lancement avec foie gras, croustade d'aiguillettes de caneton et grands vins au menu&nbsp;!!
+
+Toutes les images se trouvent aux archives du Musée Ciotaden à La Ciotat.
 {% endlegend %}
 
 {% diaporama activite %}
@@ -63,13 +64,15 @@ cartecable.jpg
 {% enddiaporama %}
 
 {% legend %}
-La revue L’Illustration N° 4670 du 3 septembre 1932 montre différentes activités sur un câblier et une carte du réseau des câbles sillonnant les fonds de la Méditerranée, qui se déroulent vers les fonds atlantiques.
+Ces images montrent différentes activités sur un câblier et une carte du réseau des câbles français et étrangers qui sillonnent les fonds de la Méditerranée occidentale et qui se déroulent vers les fonds atlantiques.
+
+Tous les documents ont été publiés dans la revue L’Illustration N°&nbsp;4670 du 3 septembre 1932.
 {% endlegend %}
 
 
 1944
 ------------
 
-L'Ampère est sabordé dans le port de Marseille ; il sera vendu à la démolition aux Chantiers de La Seyne-sur-Mer pour 1 franc symbolique.
+L'Ampère est sabordé dans le port de Marseille&nbsp;; il sera vendu à la démolition aux chantiers navals de La Seyne-sur-Mer pour 1&nbsp;franc symbolique.
 
 {% endbelow %}

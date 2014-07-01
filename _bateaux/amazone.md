@@ -18,7 +18,7 @@ jeu.jpg / jeu-large.jpg
 {% legend %}
 Dans la mythologie, les Amazones sont un peuple de femmes guerrières résidant sur les rives de la mer Noire. Les légendes et récits sont très nombreux à leur propos. Elles sont fréquemment représentées dans des bandes dessinées ou des films d’animation.
 
-"Amazone 10.3.59 XIIIᵉ" de Pablo Picasso. © Succession Picasso 2014. Lithographie dans l’ouvrage Toros et Toreros.\\
+"Amazone 10.3.59 XIIIᵉ" de Pablo Picasso. © Succession Picasso 2014. Lithographie dans "Toros et Toreros".\\
 "Les amazones guerrières du Dahomey" (actuel Benin) photographiées en 1890. New York Public Library. Source&nbsp;: Commons Wikipédia.\\
 "Héroine Amazone", image issue du jeu Heroes of Annihilated Empires. Source&nbsp;: Wikipédia.
 {% endlegend %}
@@ -36,9 +36,9 @@ deforestation.jpg
 {% legend %}
 L'Amazonie est une vaste région de l’Amérique du Sud. Il s’agit d’une plaine couverte de forêt qui s’articule autour du plus long fleuve de la planète Amazone et des ses affluents. Cette région est aujourd'hui dévastée par la déforestation.
 
-Depuis sa source dans les Andes péruviennes, le fleuve parcourt 6000&nbsp;km avant de se jeter dans l'Atlantique. Source&nbsp;: Commons Wikipedia.\\
-Le paysage d'Amazonie à l'ouest de Manaus. Photographie de LecomteB, 2009&nbsp;; Commons Wikipedia.\\
-La déforestation vue depuis un satellite. Les routes tracées dans la forêt suivent un motif caractéristique en « arêtes de poisson&nbsp;». Fichier provenant de la NASA&nbsp;; Commons Wikipedia.
+Depuis sa source dans les Andes péruviennes, le fleuve parcourt 6000&nbsp;km avant de se jeter dans l'Atlantique.\\
+Le paysage d'Amazonie à l'ouest de Manaus. Photographie de LecomteB, 2009.\\
+La déforestation vue depuis un satellite. Les routes tracées dans la forêt suivent un motif caractéristique en «&nbsp;arêtes de poisson&nbsp;». Fichier provenant de la NASA. Toutes les images&nbsp;: Commons Wikipedia.
 
 {% endlegend %}
 
