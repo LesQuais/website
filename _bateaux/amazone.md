@@ -43,7 +43,7 @@ La déforestation vue depuis un satellite. Les routes tracées dans la forêt su
 {% endlegend %}
 
 
-Nous avons retenu Amazone pour son pouvoir évocateur d’images&nbsp;: la forêt tropicale et les **Amazones** de la mythologie. Ce mot est placé dans la cage d’escalier très longue et étroite -&nbsp;comme le canal de Suez&nbsp;- visible de l’extérieur. Sa phosphorescence verdâtre évoque la magie et le **mystère de la forêt.**
+Nous avons retenu Amazone pour son pouvoir évocateur d’images&nbsp;: la forêt tropicale et **les Amazones** de la mythologie. Ce mot est placé dans la cage d’escalier très longue et étroite -&nbsp;comme le canal de Suez&nbsp;- visible de l’extérieur. Sa phosphorescence verdâtre évoque la magie et le **mystère de la forêt.**
 
 {% below %}
 

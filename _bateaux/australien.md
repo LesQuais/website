@@ -106,7 +106,7 @@ Les cartes de menu sont décorées d'une image de ville se trouvant sur une des 
 Texte de la carte navire&nbsp;: «&nbsp;Après 42 jours de traversée arrivé Marseille, il fait froid. Bonjour à vos parents et à Victor. Abel&nbsp;» (qui rentre du Tonkin).
 Carte adressée le 30 avril 1907 à Mademoiselle Berthe Dulaugier à Bordeaux.
 Texte de la carte-menu&nbsp;; «&nbsp;21 Mai 16 heures. Dernières Nouvelles. Nous recevons le renseignement suivant. Nous ne restons pas à Lemnos&nbsp;(?), nous partons demain pour les Dardanelles. Notre courrier ne partira pas encore ce soir, demain nous l’espérons.&nbsp;»
-Au diner du 18 mai 1915&nbsp;: «&nbsp;Potage Flamande - Langue de bœuf braisée à la purée de lentilles - Dindonnerau rôti - Salade - Épinard aux croûtons - Babas au rhum - Fromage & fruits - Biscuits - Café & eau-de-vie&nbsp;»
+Au dîner du 18 mai 1915&nbsp;: «&nbsp;Potage Flamande&nbsp;- Langue de bœuf braisée à la purée de lentilles&nbsp;- Dindonnerau rôti&nbsp;- Salade&nbsp;- Épinard aux croûtons&nbsp;- Babas au rhum&nbsp;- Fromage & fruits&nbsp;- Biscuits&nbsp;- Café & eau-de-vie&nbsp;»
 {% endlegend %}
 
 20 Juillet 1918
