@@ -3,14 +3,23 @@ title: "quoi"
 order: 2
 ---
 
+{% diaporama installation %}
+
+mur.jpg
+
+escalier.jpg
+
+{% enddiaporama %}
+
+{% legend %}
 L'œuvre
 -------
-Il s'agit d'une installation lumineuse qui prend des noms de bateaux construits aux Chantiers Navals de La Ciotat comme source. Chaque noms a été choisis pour son pouvoir évocateur auprès des élèves qui n'ont pas connu cette époque d'activité industrielle de la ville.
+Il s'agit d'une installation lumineuse qui prend des noms de bateaux construits aux Chantiers Navals de La Ciotat comme source. Chaque nom a été choisi pour son pouvoir évocateur auprès des élèves qui n'ont pas connu cette époque d'activité industrielle de la ville.
 
+Collège Jean Jaurès à La Ciotat.\\
+Photos Suzanne Hetzel.
 
-{% diaporama installations %}
-(à faire)
-{% enddiaporama %}
+{% endlegend %}
 
 
 Le projet

@@ -74,3 +74,84 @@ blockquote p:last-child::after {
 	float: right;
 	margin-left: .5em;
 }
+
+.fotorama {
+	float: left;
+	display: block;
+	width: 50%;
+	box-sizing: border-box;
+	padding-right: 1em;
+	margin: .5em 0;	/* 150% line-height */
+	clear: left;
+}
+
+.fotorama.large {
+	float: none;
+	width: 100%;
+}
+
+.legend {
+	width: 48%;
+	box-sizing: border-box;
+	display: inline-block;
+	line-height: 150%;
+	margin-bottom: 1em;
+}
+
+/* Sources are the last paragraph */
+.legend > p:last-child {
+	font-size: 80%;
+	margin-top: 1em;
+}
+
+/* Clearfix */
+.legend::after {
+	display: block;
+	content: ' ';
+	width: 100%;
+	clear: both;
+}
+
+.legend + * {
+	clear: both;
+}
+
+.fotorama__caption {
+	font-family: inherit;
+	color: white;
+	font-size: 80%;
+}
+
+.fotorama__caption__wrap {
+	background-color: black;
+	background-color: rgba(0, 0, 0, 0.8);
+
+	width: 100%;
+	opacity: 0;
+	-webkit-transition-property: opacity;
+	-moz-transition-property: opacity;
+	transition-property: opacity;
+	-webkit-transition-duration: .3s;
+	-moz-transition-duration: .3s;
+	transition-duration: .3s;
+}
+
+.fotorama:hover .fotorama__caption__wrap {
+	opacity: 1;
+}
+
+@media (max-width: 48em) {	/* longest name is 20 chars, + 2 for nav, + 2 for spaces, * 2 for 50% default width, + 10% uncertainty */
+	body {
+		font-size: 100%;
+	}
+
+	.fotorama {
+		float: none;
+		padding-right: 0;
+		margin: 0;
+	}
+
+	.fotorama, .legend {
+		width: 100%;
+	}
+}

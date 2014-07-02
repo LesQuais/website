@@ -9,6 +9,7 @@
 
 		<link rel="stylesheet" href="../css/main.css"/>
 		<link rel="stylesheet" href="../fonts/stylesheet.css"/>
+		<link rel="stylesheet" href="../css/lib/fotorama.min.css" />
 
 		{% capture page_id %}{% if page.id %}{{ page.id }}{% else %}{{ page.title | downcase }}{% endif %}{% endcapture %}
 		{% capture social_title %}{{ site.name }} : {{ page.title }}{% endcapture %}
@@ -32,5 +33,9 @@
 	</head>
 	<body>
 		{{ content }}
+
+
+		<script src="../scripts/lib/jquery-1.11.min.js"></script>
+		<script src="../scripts/lib/fotorama.min.js"></script>
 	</body>
 </html>
