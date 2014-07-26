@@ -8,11 +8,11 @@ Une œuvre comme celle-ci est un travail collaboratif.
 **Suzanne Hetzel &amp; Jean Schneider**&nbsp;: artistes de l’œuvre **Les quais**
 -----------------------------------------
 
-Pour réaliser cette installation, nous avons réuni nos compétences respectives&nbsp;: l'image, les questions liées à la représentions, le devenir forme en partant de faits historiques ou sociaux, la mise en espace de ces formes, le choix des matériaux pour porter au plus loin les enjeux artistiques, la négociation avec les fabricants. Nous nous sommes appuyés sur nos expériences de travail dans notre rapport au spectateur pour proposer une œuvre qui illumine un volet important de l'histoire de La Ciotat et l'accompagne vers le futur des jeunes personnes.
+Pour réaliser cette installation, nous avons réuni nos compétences respectives&nbsp;: l'image, les questions liées à la représentation, l'émergence d'une forme à partir des faits historiques ou sociaux, la mise en espace de ces formes, le choix des matériaux pour porter au plus loin les enjeux artistiques et la négociation avec les fabricants. Nous nous sommes appuyés sur nos expériences de travail pour proposer une œuvre qui illumine un volet important de l'histoire de La Ciotat et l'accompagne vers le futur des jeunes personnes.
 
-Suzanne Hetzel&nbsp;: j’ai été formée à l’École supérieure des Beaux Arts de Marseille (DNSEP en 1989 et Postdiplôme en 1990) avec l’option arts visuels et sonores.
+Suzanne Hetzel&nbsp;: j’ai été formée à l’École supérieure des Beaux Arts de Marseille (DNSEP en 1989 et Postdiplôme en 1990) dans l’option arts visuels et sonores.
 
-Mes installations ont souvent la photographie comme point de départ. À travers elles, je cherche à rendre perceptibles les liens entre l'homme et les choses qui lui sont proches, mais je n'exclue pas le paysage ou le contexte du travail quand ceux-ci influent sur la manière de vivre un lieu. Ainsi j'associe à mes compositions photographiques des objets ou des documents d'archives.\\
+Mes installations prennent souvent la photographie comme point de départ. À travers elles, je cherche à rendre perceptibles les liens entre l'homme et les choses qui lui sont proches, mais je n'exclue pas le paysage ou le contexte du travail quand ceux-ci influent sur la manière de vivre un lieu. Ainsi j'associe à mes compositions photographiques des objets ou des documents d'archives.\\
 Pour voir le travail de Suzanne Hetzel&nbsp;: www.documentsdartistes.org/hetzel
 
 Jean Schneider&nbsp;: je suis designer (Ensci / Les Ateliers, 1988) et je travaille depuis 2001 dans la promotion du design.\\
@@ -50,22 +50,35 @@ de la Direction de l’architecture et de la construction au Conseil Général d
 Véronique Schaëgis a fait le suivi administratif tout le long du projet, et sa patience et son attention nous ont été très précieuses.
 
 
-**Le Musée Ciotaden** à La Ciotat
+Le collège Jean Jaurès à La Ciotat
+---------------------------------------
+
+L'œuvre Les quais est installée au nouveau collège Jean Jaurès. Il a été construit sur une partie des anciens Chantiers. Sa construction date de 2009, il a été réalisé par l'agence d'architecture Poissonnier Ferran de Marseille. Le site &nbsp;: www.poissonnier-ferran-architectes.com
+Ce collège est un des rares collèges en France avec une section Freinet.
+
+Nous remercions le Principal et l'ensemble du personnel pour leur accompagnement.
+Le site du collège&nbsp;: www.clg-jaures-laciotat.ac-aix-marseille.fr
+
+Le Musée Ciotaden à La Ciotat
 ---------------------------------------
 
 Jean-Pierre Jouen, Président des Amis du Vieux La Ciotat, nous a soutenu dans nos recherches de documents et nous a gracieusement offert les droits de reproduction des images provenant des archives du musée.\\
 Le musée possède de nombreuses maquettes de navires construits aux Chantiers Navals de La Ciotat et bien d'autres curiosités. Il se trouve sur le Quai Ganteaume en face de l'office de tourisme.\\
 Pour voir le site&nbsp;: http://www.museeciotaden.org
 
-**Les Messageries Maritimes**
+La CCI (Chambre de Commerce et d'Industrie) à Marseille
+---------------------------------------
+
+La CCI possède un important fonds photographique sur les bateaux construits à La Ciotat. Nous remercions particulièrement François Jonniaux pour sa disponibilité et son aide à la recherche.
+Pour le contacter : www.ccimp.com/ccimp/connaitre/groupe/musee-marine-marseille
+
+
+Les Messageries Maritimes
 ---------------------------------
 
-Le livre et le site des Messageries Maritimes ont été une source précieuse d'informations et d'images tout le long de nos recherches sur les bateaux construits dans le port de La Ciotat. \\
-Pour voir le site&nbsp;: http://www.messageries.martitmes.org
+Le livre de Jean-Claude Rihal&nbsp;: "La Ciotat des messageries Maritimes aux C.N.C." paru en 2008, et les sites sur les Messageries Maritimes ont été une source précieuse d'informations et d'images tout le long de nos recherches sur les bateaux construits dans les chantiers de La Ciotat. \\
+Pour voir le site&nbsp;: http://www.messageries.martitmes.org et http://www.frenchlines.com
 
-**Plexled Paris**
-----------------------
-Raymund Ballhaus est commercial de l'entreprise VGS-Leuchttechnik à Dresde qui est la maison mère de Plexled Paris. Il nous a accueilli en Allemagne pour nous montrer les ateliers de fabrication des enseignes leds, et son conseil nous a été précieux pour des prises de décisions techniques. 
-Pour voir le site&nbsp;: http://www.vgs-leuchttechnik.de
+
 
 
