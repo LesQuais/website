@@ -3,9 +3,9 @@ title: "qui"
 order: 1
 ---
 
-Une œuvre comme celle-ci est un travail collaboratif.
+Une œuvre comme **Les Quais** est un travail collaboratif.
 
-**Suzanne Hetzel &amp; Jean Schneider**&nbsp;: artistes de l’œuvre **Les quais**
+Suzanne Hetzel &amp; Jean Schneider&nbsp;: artistes
 -----------------------------------------
 
 Pour réaliser cette installation, nous avons réuni nos compétences respectives&nbsp;: l'image, les questions liées à la représentation, l'émergence d'une forme à partir des faits historiques ou sociaux, la mise en espace de ces formes, le choix des matériaux pour porter au plus loin les enjeux artistiques et la négociation avec les fabricants. Nous nous sommes appuyés sur nos expériences de travail pour proposer une œuvre qui illumine un volet important de l'histoire de La Ciotat et l'accompagne vers le futur des jeunes personnes.
@@ -20,7 +20,7 @@ J’ai été professeur pendant plusieurs années à l’Université d’art et 
 J’ai également une activité de scénographe d’exposition. Mes projets visent un engagement fort du corps et du mouvement dans l’acte de voir, mais aussi une prise en compte de l’architecture et de l’environnement de l’œuvre. Mon travail veut se mettre au service de l’œuvre sans la magnifier ni la maltraiter : la proposer comme un moment dans l’histoire des formes et lui offrir une nouvelle fois la chance de nous mettre en travail.
 
 
-**Vincent Perrottet**&nbsp;: graphiste
+Vincent Perrottet&nbsp;: graphiste
 -------------------------------------------
 
 Né en 1958 à Saint-Denis. De 1978 à 1984, il étudie à l'École nationale supérieure des Arts Décoratifs, section vidéo/cinéma.
@@ -37,13 +37,13 @@ Membre de l’AGI (Alliance Graphique Internationale) de 2002 à 2006. Vincent P
 Pour voir son travail &nbsp;: www.vincentperrottet.com
 
 
-**Matti Schneider**&nbsp;: site web
+Matti Schneider&nbsp;: site web
 ------------------------------
 
 [Matti Schneider](http://mattischneider.fr) a étudié l'ingénierie logicielle, le design et l'anthropologie. Il met ses compétences au service de projets interdisciplinaires, innovants et à impact social positif.
 
 
-**Véronique Schaëgis**&nbsp;: directrice adjointe
+Véronique Schaëgis&nbsp;: directrice adjointe
 -------------------------------------------------
 
 de la Direction de l’architecture et de la construction au Conseil Général des Bouches-du-Rhône.\\
