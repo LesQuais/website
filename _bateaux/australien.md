@@ -116,7 +116,7 @@ En route dans un convoi pour Saigon, il est torpillé non loin de Malte par le s
 
 {% diaporama torpillage %}
 
-out_torpillage_autralien.jpg/torpillage_autralien.jpg
+torpillage_australien.jpg
 
 {% enddiaporama %}
 

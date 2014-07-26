@@ -82,24 +82,23 @@ La gravure du port de La Ciotat&nbsp;: collection privée, La Ciotat.
 
 Le sultan de l’empire Ottoman Mahmoud&nbsp;II acquiert le Phocéen, qui est rebaptisé “Peyk-i Șevket“, ce qui peut se traduire par “Messager de sa Majesté“ ou “Messager de la Magnificence“.
 
-{% diaporama carte %}
-
-out_empire.jpg/empire.jpg
-
-{% enddiaporama %}
-
-{% legend %}
-Carte de l’empire ottoman vers 1800. Auteur&nbsp;: Esemono&nbsp;; source&nbsp;: Commons Wikipedia.
-{% endlegend %}
-
 {% diaporama sultan %}
 
 out_sultan.jpg/sultan.jpg
 
+out_carte.jpg/carte.jpg
+
 {% enddiaporama %}
 
 {% legend %}
-Peinture du sultan Mahmoud&nbsp;II&nbsp;; source non renseignée.
+
+Peinture du sultan Mahmoud&nbsp;II.
+
+Carte de l’empire Ottoman vers 1800.
+
+Peinture&nbsp;: source non renseignée.\\
+Carte&nbsp;: auteur, Esemono&nbsp;; source&nbsp;: Commons Wikipedia.
+
 {% endlegend %}
 
 

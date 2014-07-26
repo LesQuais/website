@@ -8,7 +8,7 @@ boat_over_bg: true
 
 {% diaporama mesure %}
 
-out_homme.jpg/homme.jpg
+homme.jpg
 
 out_milli.jpg/milli.jpg
 

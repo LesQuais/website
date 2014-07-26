@@ -60,7 +60,7 @@ Photographies d'un article paru dans un magazine. Toutes les images&nbsp;: archi
 
 Les grèves du chantier de La Ciotat arrêtent les travaux.
 
-{% diaporama greve %}
+{% diaporama greves %}
 
 out_journal3.jpg/journal3.jpg
 
@@ -96,7 +96,7 @@ Toutes les photographies sont aux archives du Musée Ciotaden à La Ciotat.
 
 {% diaporama articles %}
 
-out_journaux.jgp/journaux.jgp
+out_journaux.jpg/journaux.jpg
 
 {% enddiaporama %}
 
