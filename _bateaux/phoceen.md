@@ -1,7 +1,8 @@
 ---
 title: "Phocéen"
 size: 45
-color: "rgb(255, 236, 0)"
+color: "rgb(245, 230, 60)"
+text-above-color: "#2B2B2B"
 id: "phoceen"
 boat_over_bg: true
 ---
