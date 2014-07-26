@@ -48,7 +48,7 @@ _Une partie des activités s’appuiera sur des plans fournis au format PDF._
 En avion&nbsp;: 9 jours en 1932 (avec de nombreuses escales, cf. horaires du Météore)&nbsp;; 7 jours en 1938 (vitesse moyenne&nbsp;: 290&nbsp;km/h)&nbsp;; 4&nbsp;jours en 1946&nbsp;; aujourd’hui (avec une route différente)&nbsp;: 12h30.
 
 3ᵉ&nbsp;: proportions&nbsp;: on pourra comparer les tailles des corps des lettres par rapport à leur hauteur et largeur sur les mots. La lettre A de Himalaya, Ampère, Centaure, Australien, par exemple. Ce qui permet d’introduire la notion de «&nbsp;police vectorielle&nbsp;».
-On pourra aussi proposer aux élèves de tracer les plans et sections de certaines lettres, voire d’en approximer le volume (la police VAG Rounded peut assez facilement se ramener à des rectangles et des demi-cercles) et le poids (masse volumique du plexiglass&nbsp;: 1,18g/cm3)
+On pourra aussi proposer aux élèves de tracer les plans et sections de certaines lettres, voire d’en approximer le volume (la police VAG Rounded peut assez facilement se ramener à des rectangles et des demi-cercles) et le poids (masse volumique du plexiglass&nbsp;: 1,18g/cm³)
 
 Éducation civique
 --------------------
