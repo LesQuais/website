@@ -27,7 +27,7 @@ Toutes les peintures se trouvent sur le site du prix national Telstra Natsiaa po
 
 {% diaporama carteA, large %}
 
-carte_australie.jpg
+carte_australie.gif
 
 {% enddiaporama %}
 
