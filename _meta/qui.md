@@ -3,7 +3,7 @@ title: "qui"
 order: 1
 ---
 
-Une œuvre comme **Les Quais** est un travail collaboratif.
+Une œuvre comme **Les quais** est un travail collaboratif.
 
 Suzanne Hetzel &amp; Jean Schneider&nbsp;: artistes
 -----------------------------------------
