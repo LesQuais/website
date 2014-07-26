@@ -31,14 +31,12 @@ carte_australie.gif
 
 {% enddiaporama %}
 
-
-Au travers de ce navire témoigne la guerre, autant que l’éloignement du monde trop connu&nbsp;: **l’Australie**, une île-continent dans l’hémisphère sud et terre d’immigration &nbsp;;
-les îles du Pacifique et le choix de Gauguin de retourner à “la vie sauvage“&nbsp;: «&nbsp;J’emporte mes couleurs et mes pinceaux et je me retremperai loin de tous les hommes&nbsp;».
-Les aborigènes, populations autochtones de l’Australie, ont survécu dans le Nord et l’Ouest. Leur mythologie parle d’un temps primordial, le “temps du rêve“ au cours duquel le paysage a été modelé et les premiers êtres animés ont vécu. La **peinture aborigène**, qui a des styles divers, représente de façon symbolique des moments de cette histoire.
+Nous avons retenu le nom de ce navire pour son pouvoir évocateur. **L’Australie** pourrait être une possible destination des jeunes gens pour un premier grand voyage. Cette île-continent dans l’hémisphère sud est une terre d’immigration. Les aborigènes, populations autochtones de l’Australie, se sont repliés dans le nord et l’ouest. Leur mythologie parle d’un temps primordial, le “temps du rêve“ au cours duquel le paysage a été modelé et les premiers êtres animés ont vécu. La **peinture aborigène** avec une grande variété de styles, représente de façon symbolique des moments de cette histoire.
 
 {% below %}
 
-Australien est un paquebot et le 90ᵉ navire de la compagnie Messageries Maritimes construit à La Ciotat. Nous l’avons retenu avant tout pour son pouvoir évocateur d’un pays lointain. L’Australie pourrait être une possible destination des jeunes gens pour un premier grand voyage. C’est précisément vers la capitale de ce pays que le peintre Paul Gauguin y a embarqué à Marseille.
+Australien est un paquebot et le 90ᵉ navire de la compagnie Messageries Maritimes construit à La Ciotat.
+Les voyages de ce navire témoignent de l'émigration, de la colonisation et de la guerre.
 
 
 1889
@@ -50,13 +48,14 @@ Lancement de l’Australien, le premier d’une série de 4 “navires-sœurs“
 1891
 ----
 
-Il remorque un navire autrichien en panne jusqu’à Ajaccio.
+Remorque un navire autrichien en panne jusqu’à Ajaccio.
 
 
 3 juillet 1895
 --------------
 
-Paul Gauguin embarque à Marseille pour son dernier voyage. Il arrive à Sydney le 6 août de la même année, avant de poursuivre son voyage jusqu’aux Marquises.
+Paul Gauguin embarque à Marseille pour son dernier voyage. Il arrive à Sydney le 6 août de la même année, avant de poursuivre son voyage jusqu’aux Marquises. Ces îles du Pacifique sont le refuge de  Gauguin qui souhaite retourner à “la vie sauvage“&nbsp;: «&nbsp;J’emporte mes couleurs et mes pinceaux et je me retremperai loin de tous les hommes&nbsp;».
+
 
 {% diaporama gaugin %}
 
@@ -80,7 +79,7 @@ Dès ses 17 ans, Paul Gauguin (1848-1903) s’engage sur des navires, d’abord 
 Août 1914
 ---------
 
-L’Australien est réquisitionné comme navire auxiliaire. Il effectuera des transports de troupes et de blessés.
+Réquisitionné comme navire auxiliaire. Il effectuera des transports de troupes et de blessés.
 
 {% diaporama navire %}
 
@@ -106,7 +105,7 @@ Les cartes de menu sont décorées d'une image de ville se trouvant sur une des 
 Texte de la carte navire&nbsp;: «&nbsp;Après 42 jours de traversée arrivé Marseille, il fait froid. Bonjour à vos parents et à Victor. Abel&nbsp;» (qui rentre du Tonkin).
 Carte adressée le 30 avril 1907 à Mademoiselle Berthe Dulaugier à Bordeaux.
 Texte de la carte-menu&nbsp;; «&nbsp;21 Mai 16 heures. Dernières Nouvelles. Nous recevons le renseignement suivant. Nous ne restons pas à Lemnos&nbsp;(?), nous partons demain pour les Dardanelles. Notre courrier ne partira pas encore ce soir, demain nous l’espérons.&nbsp;»
-Au dîner du 18 mai 1915&nbsp;: «&nbsp;Potage Flamande&nbsp;- Langue de bœuf braisée à la purée de lentilles&nbsp;- Dindonnerau rôti&nbsp;- Salade&nbsp;- Épinard aux croûtons&nbsp;- Babas au rhum&nbsp;- Fromage & fruits&nbsp;- Biscuits&nbsp;- Café & eau-de-vie&nbsp;»
+Au dîner du 18 mai 1915&nbsp;: «&nbsp;Potage Flamande&nbsp;- Langue de bœuf braisée à la purée de lentilles&nbsp;- Dindonneau rôti&nbsp;- Salade&nbsp;- Épinard aux croûtons&nbsp;- Babas au rhum&nbsp;- Fromage & fruits&nbsp;- Biscuits&nbsp;- Café & eau-de-vie&nbsp;»
 {% endlegend %}
 
 20 Juillet 1918

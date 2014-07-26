@@ -16,7 +16,7 @@ out_porte2.jpg/porte2.jpg
 {% enddiaporama %}
 
 {% legend %}
-La Sublime Porte était la porte d'honneur monumentale du siège du gouvernement de l'Empire ottoman. Elle se situait au centre ville de Constantinople, aujourd'hui Istanbul.
+La Sublime Porte était la porte d'honneur monumentale du siège du gouvernement de l'Empire Ottoman. Elle se situait au centre ville de Constantinople, aujourd'hui Istanbul.
 
 La Sublime Porte durant la période ottomane&nbsp;; source Wikipedia.\\
 La Sublime Porte de la mairie d’Istanbul en 2006. Photographie&nbsp;: G. Dall'Orto &nbsp;; source Wikipedia.
@@ -32,18 +32,19 @@ out_industrie3.jpg/industrie3.jpg
 
 {% enddiaporama %}
 
-
 {% legend %}
+
 Étendue des Chantiers Navals dans le port de La Ciotat en 1940.\\
 Port de La Ciotat vers 1945.\\
 Livraison d’hélice et tramway à l’Escalet.
 
 Toutes les photographies se trouvent aux archives du Musée Ciotaden à La Ciotat.
+
 {% endlegend %}
 
 Notre choix a été motivé&nbsp;:
 
-- par le caractère innovant de ce navire, qui a ouvert la voie vers **l’apogée industrielle** que la ville a connue pendant un siècle et demi&nbsp; ;
+- par le caractère innovant de ce navire, qui a ouvert la voie vers **l’apogée industrielle** que la ville a connue pendant un siècle et demi&nbsp;;
 - pour souligner l’importance des comptoirs phocéens fondés sur la côte occidentale de la Méditerranée, notamment Marseille (Massalia) et Antibes (Antipolis)&nbsp;;
 - et rappeler qu’à cette époque, la **“Sublime Porte“** est un empire considérable qui s’étend sur une large part de l’Europe.
 
@@ -72,15 +73,15 @@ out_gravure2.jpg/gravure2.jpg
 {% legend %}
 Au cours des siècles, la qualité du mouillage de son port, alliée au savoir faire et à l’expertise de ses habitants, vont faire la réputation de La Ciotat. Plusieurs auteurs font remonter la présence des premiers ateliers de construction maritime au 15ᵉ siècle.
 
-La gravure du navire&nbsp;: archives du Musée Ciotaden, La Ciotat.\\
-La gravure du port de La Ciotat&nbsp;: collection privée, La Ciotat.
+Gravure du navire&nbsp;: archives du Musée Ciotaden, La Ciotat.\\
+Gravure du port de La Ciotat&nbsp;: collection privée, La Ciotat.
 {% endlegend %}
 
 
 1838
 --------------
 
-Le sultan de l’empire Ottoman Mahmoud&nbsp;II acquiert le Phocéen, qui est rebaptisé “Peyk-i Șevket“, ce qui peut se traduire par “Messager de sa Majesté“ ou “Messager de la Magnificence“.
+Acquisition par le  sultan de l’empire Ottoman Mahmoud&nbsp;II. Le Phocéen est rebaptisé “Peyk-i Șevket“, ce qui peut se traduire par “Messager de sa Majesté“ ou “Messager de la Magnificence“.
 
 {% diaporama sultan %}
 

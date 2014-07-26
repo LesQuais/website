@@ -17,7 +17,7 @@ out_alpinistes.jpg/alpinistes.jpg
 Reinhold Messner, né le 17 septembre 1944 dans le Tyrol du Sud, est un alpiniste italien, considéré par beaucoup comme l'un des meilleurs du XXᵉ siècle. Il est réputé pour avoir réalisé la première ascension en solitaire de l’Everest sans apport d'oxygène, et pour être le premier à avoir gravi les quatorze sommets de plus de 8000 mètres.
 
 Reinhold Messner au Château Juval (Tyrol du Sud) en août 2012. Auteur&nbsp;: Vale93b&nbsp;; source&nbsp;: Commons Wikipedia.\\
-Alpinistes au sommet Ortler (Italie)&nbsp;; fond Reinhold Messner, König Ortler&nbsp;; auteur&nbsp;: Edward Theodore Compton (1849-1921)&nbsp;; Commons Wikipedia.
+Alpinistes au sommet Ortler (Italie)&nbsp;; fonds Reinhold Messner, König Ortler&nbsp;; auteur&nbsp;: Edward Theodore Compton (1849-1921)&nbsp;; Commons Wikipedia.
 {% endlegend %}
 
 Le navire tient son nom d’une chaîne de montagne située entre l’Inde et le Tibet dans le sud de l’Asie. L'Himalaya, de la langue sanskrit “demeure des neiges“, abrite les plus hautes montagnes du monde, soit les 14 sommets qui culminent à plus de 8000 mètres d’altitude dont le mont Everest, le plus haut de tous.

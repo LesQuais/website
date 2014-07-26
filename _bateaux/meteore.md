@@ -65,8 +65,7 @@ Toutes les photographies du Météore se trouvent aux archives du Musée Ciotade
 Le 17 février 1931
 ------------
 
-Ouvre la ligne aérienne Paris-Saigon pour le compte de la Compagnie Air Orient.
-La construction des avions à La Ciotat s’est interrompue définitivement avec la Deuxième Guerre mondiale.
+Le pilote Maurice Noguès ouvre la ligne aérienne Paris-Saigon pour le compte de la Compagnie Air Orient. La construction des avions à La Ciotat s’est interrompue définitivement avec la Deuxième Guerre mondiale.
 
 
 {% diaporama courrier %}
@@ -80,10 +79,10 @@ out_meteor5.jpg/meteor5.jpg
 {% enddiaporama %}
 
 {% legend %}
-Les temps de voyage entre Paris à Saigon était passé de xx jours en bateau à xx jours en avion. Quatre changements était nécessaires pour arriver à destination. 
-Le courrier aussi bénéficiait de cette nouvelle voie de transport. 
+Le temps de voyage entre Paris à Saigon est passé de 42 jours en bateau à 9 jours en avion. Quatre changements était nécessaires pour arriver à destination. Seul le trajet Marseille-Beyrouth se faisait avec le Météore qui pouvait emmener 6 passagers dans une cabine chauffée. 
+Le courrier était le principal bénéficiaire de cette nouvelle forme de transport. 
 
-Photographies : archives du Musée Ciotaden, La Ciotat.\\
+Photographies&nbsp;: archives du Musée Ciotaden, La Ciotat.\\
 La grille d'horaires du Météore se trouve sur le site&nbsp;: gap.r.orient.pagesperso-orange.fr
 {% endlegend %}
 
