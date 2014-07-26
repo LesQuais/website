@@ -42,8 +42,9 @@ Enfin, nous avons construit cette œuvre moins comme une manifestation hiératiq
 
 
 Nous avons choisi de décliner le mot ”traversée” dans trois acceptions&nbsp;:
-- au sens premier de percer de part en part,
-- mais aussi de parcourir un pan d’espace ou de temps,
+
+- au sens premier de percer de part en part&nbsp;;
+- mais aussi de parcourir un pan d’espace ou de temps&nbsp;;
 - et enfin au sens métaphorique de dépassement.
 
 
