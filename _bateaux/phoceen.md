@@ -16,10 +16,10 @@ porte2.jpg
 {% enddiaporama %}
 
 {% legend %}
-La Sublime Porte était la porte d'honneur monumentale du siège du gouvernement de l'Empire Ottoman. Elle se situait au centre ville de Constantinople, aujourd'hui Istanbul.
+La Sublime Porte était la porte d'honneur monumentale du siège du gouvernement de l'Empire ottoman. Elle se situait au centre ville de Constantinople, aujourd'hui Istanbul.
 
-La Sublime Porte durant la période ottomane&nbsp;; source Wikipedia.\\
-La Sublime Porte de la mairie d’Istanbul en 2006. Photographie&nbsp;: G. Dall'Orto &nbsp;; source Wikipedia.
+Sublime Porte durant la période ottomane&nbsp;; source Wikipedia.\\
+Sublime Porte de la mairie d’Istanbul en 2006. Photographie&nbsp;: G. Dall'Orto &nbsp;; source Wikipedia.
 {% endlegend %}
 
 {% diaporama industrie %}
@@ -38,16 +38,12 @@ industrie3.jpg
 Port de La Ciotat vers 1945.\\
 Livraison d’hélice et tramway à l’Escalet.
 
-Toutes les photographies se trouvent aux archives du Musée Ciotaden à La Ciotat.
+Source&nbsp;: archives du Musée Ciotaden, La Ciotat.
 
 {% endlegend %}
 
-Notre choix a été motivé&nbsp;:
-
-- par le caractère innovant de ce navire, qui a ouvert la voie vers **l’apogée industrielle** que la ville a connue pendant un siècle et demi&nbsp;;
-- pour souligner l’importance des comptoirs phocéens fondés sur la côte occidentale de la Méditerranée, notamment Marseille (Massalia) et Antibes (Antipolis)&nbsp;;
-- et rappeler qu’à cette époque, la **“Sublime Porte“** est un empire considérable qui s’étend sur une large part de l’Europe.
-
+Notre choix a été motivé par le caractère innovant de ce navire, qui a ouvert la voie vers **l’apogée industrielle** que la ville a connu pendant un siècle et demi. Son nom souligne l’importance des comptoirs phocéens fondés sur la côte occidentale de la Méditerranée, notamment Marseille (Massalia) et Antibes (Antipolis).\\    
+Nous aimerions également rappeler qu’à cette époque, la **“Sublime Porte“** est un empire considérable qui s’étend sur une large part de l’Europe.\\
 Nous lui attribuons la couleur jaune pour son rôle d’éclaireur et d’ouverture.
 
 {% below %}
@@ -81,7 +77,7 @@ Gravure du port de La Ciotat&nbsp;: collection privée, La Ciotat.
 1838
 --------------
 
-Acquisition par le  sultan de l’empire Ottoman Mahmoud&nbsp;II. Le Phocéen est rebaptisé “Peyk-i Șevket“, ce qui peut se traduire par “Messager de sa Majesté“ ou “Messager de la Magnificence“.
+Acquisition par le  sultan de l’Empire ottoman Mahmoud&nbsp;II. Le Phocéen est rebaptisé “Peyk-i Șevket“, ce qui peut se traduire par “Messager de sa Majesté“ ou “Messager de la Magnificence“.
 
 {% diaporama sultan %}
 
@@ -95,10 +91,10 @@ carte.jpg
 
 Peinture du sultan Mahmoud&nbsp;II.
 
-Carte de l’empire Ottoman vers 1800.
+Carte de l’Empire ottoman vers 1800.
 
 Peinture&nbsp;: source non renseignée.\\
-Carte&nbsp;: auteur, Esemono&nbsp;; source&nbsp;: Commons Wikipedia.
+Carte&nbsp;: auteur Esemono&nbsp;; source&nbsp;: Wikipedia Commons.
 
 {% endlegend %}
 

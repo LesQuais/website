@@ -14,8 +14,7 @@ Pour réaliser cette installation, nous avons réuni nos compétences respective
 
 Mes installations prennent souvent la photographie comme point de départ. À travers elles, je cherche à rendre perceptibles les liens entre l'homme et les choses qui lui sont proches, mais je n'exclue pas le paysage ou le contexte du travail quand ceux-ci influent sur la manière de vivre un lieu. Ainsi j'associe à mes compositions photographiques des objets ou des documents d'archives.
 
-Jean Schneider&nbsp;: je suis designer (Ensci / Les Ateliers, 1988) et je travaille depuis 2001 dans la promotion du design.\\
-J’ai été professeur pendant plusieurs années à l’Université d’art et de design d’Helsinki.\\
+Jean Schneider&nbsp;: je suis designer (Ensci / Les Ateliers, 1988) et je travaille depuis 2001 dans la promotion du design. J’ai été professeur pendant plusieurs années à l’Université d’art et de design d’Helsinki.\\
 J’ai également une activité de scénographe d’exposition. Mes projets visent un engagement fort du corps et du mouvement dans l’acte de voir, mais aussi une prise en compte de l’architecture et de l’environnement de l’œuvre. Mon travail veut se mettre au service de l’œuvre sans la magnifier ni la maltraiter : la proposer comme un moment dans l’histoire des formes et lui offrir une nouvelle fois la chance de nous mettre en travail.
 
 

@@ -20,10 +20,10 @@ out_eruption.jpg/eruption.jpg
 {% legend %}
 Le mont Vésuve est un volcan italien d'une hauteur de 1281 m bordant la baie de Naples. Il s'agit du seul volcan d'Europe continentale à être entré en éruption durant les cent dernières années, même s'il est actuellement en sommeil. Sa dernière éruption date de 1944. Sous ses cendres sont enfouis les villes de Pompéi, Herculanum, Oplontis et Stabies. Ensevelies en l’an 79 et conservées jusqu'à nos jours, leur fouille a révélé le quotidien des Romains et marqué un tournant dans notre compréhension de la civilisation latine.
 
-Chromo&nbsp;: collection Hetzel/Schneider\\
+Chromo&nbsp;: collection Hetzel/Schneider.\\
 Photographie de 1892&nbsp;: port de Naples avec le Vésuve en arrière-plan, bibliothèque de Toulouse, fonds Trutat.\\
 Vue aérienne du Vésuve du 7 août 2007, auteur&nbsp;: Pastorius, Wikipedia.\\
-Peinture de Pierre-Henri de Valenciennes&nbsp;: éruption du Vésuve arrivée le 24 août de l'an 79, musée des Augustins Toulouse, photographie de Daniel Martin.
+Peinture de 1813 de Pierre-Henry de Valenciennes&nbsp;: éruption du Vésuve arrivée le 24 août de l'an 79, musée des Augustins Toulouse, photographie de Daniel Martin.
 
 {% endlegend %}
 
@@ -39,9 +39,7 @@ Le Vésuve est le premier bateau sortant des Chantiers de La Ciotat avec une coq
 Janvier 1838
 ----------
 
-Mis à la mer à deux heures et demie.
-
-Le registre ne précise pas s'il s'agit de la nuit ou de l'après-midi.
+Mis à la mer à deux heures et demie. Le registre ne précise pas s'il s'agit de la nuit ou de l'après-midi.
 
 
 Avril 1838

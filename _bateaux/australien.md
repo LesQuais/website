@@ -72,8 +72,8 @@ out_gaugin4.jpg/gaugin4.jpg
 {% legend %}
 Dès ses 17 ans, Paul Gauguin (1848-1903) s’engage sur des navires, d’abord comme novice, puis comme lieutenant dans la marine nationale. Abandonnant les voyages et le monde des affaires, il se consacre entièrement à sa passion&nbsp;: la peinture. Dès 1887 il embarque à nouveau pour Panama, la Martinique, puis la Polynésie, Tahiti et enfin les Marquises où il restera jusqu’à son décès le 8&nbsp;mai 1903.
 
-"Cavalier sur la plage" 1902, est dans la Stavros Niarchos Collection.\\
-"Te Tiare Faranise" (Les Fleurs de France) 1891, "Ne pas travailler" 1896 et "Te Arii Vahine" (La Reine de beauté) 1996, se trouvent au musée Puchkine à Moscou.
+_Cavalier sur la plage_ 1902, est dans la Stavros Niarchos Collection.\\
+_Te Tiare Faranise_ (Les Fleurs de France) 1891, _Ne pas travailler_ 1896 et _Te Arii Vahine_ (La Reine de beauté) 1996&nbsp;: musée Puchkine à Moscou.
 {% endlegend %}
 
 Août 1914
@@ -88,6 +88,7 @@ out_phare.jpg/phare.jpg
 out_navireaus.jpg/navireaus.jpg
 
 out_navireaus_txt.jpg/navireaus_txt.jpg
+«&nbsp;Après 42 jours de traversée arrivé Marseille, il fait froid. Bonjour à vos parents et à Victor. Abel&nbsp;» (qui rentre du Tonkin).
 
 out_menu1910.jpg/menu1910.jpg
 

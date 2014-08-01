@@ -14,8 +14,7 @@ morceaux.jpg
 {% legend %}
 Fragments du météore qui survola Tcheliabinsk en Russie, le vendredi 15 février 2013.
 
-Photographe&nbsp;: Alexander Sapozhnikov.\\
-Source&nbsp;: Commons Wikipedia.
+Photographe&nbsp;: Alexander Sapozhnikov, source&nbsp;: Wikipedia Commons.
 {% endlegend %}
 
 {% diaporama ciel %}
@@ -27,8 +26,7 @@ eclats.jpg
 {% legend %}
 Une explosion spectaculaire d'un météorite.
 
-Auteur&nbsp;: NASA Ames Research Center/S. Molau et P. Jenniskens.\\
-Source &nbsp;: Commons Wikipedia
+Auteur&nbsp;: NASA Ames Research Center/S. Molau et P. Jenniskens, source &nbsp;: Wikipedia Commons.
 {% endlegend %}
 
 
@@ -39,6 +37,7 @@ Par le Météore nous célébrons également la vitalité des adolescents ainsi 
 {% below %}
 
 Cet hydravion construit à trois exemplaires est le témoin d’une tentative des Chantiers de La Ciotat de prendre part au développement du marché aéronautique balbutiant. Le Météore est construit à La Ciotat et piloté aux essais par le Ciotadin Ernest Burri.
+
 Sa longueur est de 13,06&nbsp;m et son envergure de 21,20&nbsp;m, il peut transporter 6 passagers.
 
 3 Septembre 1925
@@ -57,7 +56,7 @@ out_meteor4.jpg/meteor4.jpg
 {% enddiaporama %}
 
 {% legend %}
-Deux photographies de cet étonnant hydravion et une page de publicité sur ses prouesses, parue dans le magazine "L'Aérophile" du 15 juin 1928. 
+Deux photographies de cet étonnant hydravion et une page de publicité sur ses prouesses, parue dans le magazine L'Aérophile du 15 juin 1928.
 
 Toutes les photographies du Météore se trouvent aux archives du Musée Ciotaden à La Ciotat.
 {% endlegend %}
@@ -65,7 +64,7 @@ Toutes les photographies du Météore se trouvent aux archives du Musée Ciotade
 Le 17 février 1931
 ------------
 
-Le pilote Maurice Noguès ouvre la ligne aérienne Paris-Saigon pour le compte de la Compagnie Air Orient. La construction des avions à La Ciotat s’est interrompue définitivement avec la Deuxième Guerre mondiale.
+Ouverture de la ligne aérienne Paris-Saigon par le pilote Maurice Noguès pour le compte de la Compagnie Air Orient. La construction des avions à La Ciotat s’est interrompue définitivement avec la Deuxième Guerre mondiale.
 
 
 {% diaporama courrier %}
@@ -79,10 +78,11 @@ out_meteor5.jpg/meteor5.jpg
 {% enddiaporama %}
 
 {% legend %}
-Le temps de voyage entre Paris à Saigon est passé de 42 jours en bateau à 9 jours en avion. Quatre changements était nécessaires pour arriver à destination. Seul le trajet Marseille-Beyrouth se faisait avec le Météore qui pouvait emmener 6 passagers dans une cabine chauffée. 
-Le courrier était le principal bénéficiaire de cette nouvelle forme de transport. 
+Le temps de voyage entre Paris à Saigon est passé de 42 jours en bateau à 9 jours en avion. Quatre changements étaient nécessaires pour arriver à destination. Seul le trajet Marseille-Beyrouth se faisait avec le Météore qui pouvait emmener 6 passagers dans une cabine chauffée.\\
+Le courrier était le principal bénéficiaire de cette nouvelle forme de transport.
 
-Photographies&nbsp;: archives du Musée Ciotaden, La Ciotat.\\
+Photographie&nbsp;: archives du Musée Ciotaden, La Ciotat.\\
+Lettre&nbsp;: collection Hetzel/Schneider.\\
 Grille d'horaires du Météore&nbsp;: [site personnel](http://gap.r.orient.pagesperso-orange.fr).
 {% endlegend %}
 

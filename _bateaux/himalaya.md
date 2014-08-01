@@ -14,13 +14,13 @@ alpinistes.jpg
 {% enddiaporama %}
 
 {% legend %}
-Reinhold Messner, né le 17 septembre 1944 dans le Tyrol du Sud, est un alpiniste italien, considéré par beaucoup comme l'un des meilleurs du XXᵉ siècle. Il est réputé pour avoir réalisé la première ascension en solitaire de l’Everest sans apport d'oxygène, et pour être le premier à avoir gravi les quatorze sommets de plus de 8000 mètres.
+Reinhold Messner, né le 17 septembre 1944 dans le Tyrol du Sud, est un alpiniste italien, considéré par beaucoup comme l'un des meilleurs du 20ᵉ siècle. Il est réputé pour avoir réalisé la première ascension en solitaire de l’Everest (8848&nbsp;m) sans apport d'oxygène, et pour être le premier à avoir gravi les quatorze sommets de plus de 8000 mètres.
 
-Reinhold Messner au Château Juval (Tyrol du Sud) en août 2012. Auteur&nbsp;: Vale93b&nbsp;; source&nbsp;: Commons Wikipedia.\\
-Alpinistes au sommet Ortler (Italie)&nbsp;; fonds Reinhold Messner, König Ortler&nbsp;; auteur&nbsp;: Edward Theodore Compton (1849-1921)&nbsp;; Commons Wikipedia.
+Reinhold Messner au Château Juval (Tyrol du Sud) en août 2012. Auteur&nbsp;: Vale93b&nbsp;; source&nbsp;: Wikipedia Commons.\\
+Alpinistes au sommet Ortler (Italie), fonds Reinhold Messner, König Ortler, auteur&nbsp;: Edward Theodore Compton (1849-1921), source &nbsp; Wikipedia Commons.
 {% endlegend %}
 
-Le navire tient son nom d’une chaîne de montagne située entre l’Inde et le Tibet dans le sud de l’Asie. L'Himalaya, de la langue sanskrit “demeure des neiges“, abrite les plus hautes montagnes du monde, soit les 14 sommets qui culminent à plus de 8000 mètres d’altitude dont le mont Everest, le plus haut de tous.
+Le navire tient son nom d’une chaîne de montagne située entre l’Inde et le Tibet dans le sud de l’Asie. L'Himalaya, de la langue sanskrit «&nbsp;demeure des neiges&nbsp;», abrite les plus hautes montagnes du monde, soit les 14 sommets qui culminent à plus de 8000 mètres d’altitude dont le mont Everest, le plus haut de tous.
 
 
 {% diaporama sommets, large %}
@@ -30,7 +30,7 @@ montagnes.jpg
 {% enddiaporama %}
 
 
-Ce sont aussi bien l’accumulation des exploits du navire en changeant d'assignation selon les époques, que les **exploits des hommes** cherchant à se mesurer aux **sommets himalayens**, qui nous ont conduit à le choisir pour l’entrée du collège.
+Ce sont aussi bien l’accumulation des exploits du navire en changeant d'assignation selon les époques, que les **exploits des hommes** cherchant à se mesurer aux **sommets himalayens**, qui nous ont conduit à  choisir ce nom pour l’entrée du collège.
 Posé sur le premier pilier de l’entrée, incliné comme une pente de montagne, l’Himalaya est vu de loin, sa lumière bleue teinte toute la sphère d’entrée à l'extérieur comme à l’intérieur.
 
 {% below %}
@@ -73,9 +73,9 @@ Effectue quelques voyages vers Madagascar et La Nouvelle Orléans.
 1916
 ----
 
-Transporte avec le navire Sontay 11&nbsp;420 soldats russes, affectés au front français,
+Transporte avec le navire Sontay 11420 soldats russes, affectés au front français,
 de Dalny à Marseille, puis le contingent sénégalais de Dakar pour la France.
-Il transporte également 20&nbsp;000 Chinois, 25&nbsp;000 Annamites et Tonkinois de Chine vers la France pour couvrir le besoin de main d’œuvre de l'industrie de guerre.
+Il transporte également 20000 Chinois, 25000 Annamites et Tonkinois de Chine vers la France pour couvrir le besoin de main d’œuvre de l'industrie de guerre.
 
 1917
 ----
@@ -90,6 +90,9 @@ feuH.jpg
 
 {% legend %}
 À 2h15, une explosion se produit à bâbord vers l'avant dans une cale chargée de munition. Tout l'avant prend feu et à 2h50 le navire disparait et entraîne 36 personnes.
+
+Carte&nbsp;: collection Hetzel/Schneider
+
 {% endlegend %}
 
 {% endbelow %}
