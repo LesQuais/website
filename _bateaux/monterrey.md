@@ -18,7 +18,7 @@ ville2.jpg
 Le nom du bateau vient de la ville Monterrey située dans le nord-est du Mexique. Elle a 1,1 million d'habitants et on la surnomme la ville des montages.
 
 Monterrey entre el Obispado y el Cerro de la Silla 1904&nbsp;; Elizabeth Visere McGary “An American Girl in Mexico”&nbsp;; Dodd, Mead & co, 1904, New York&nbsp;; source&nbsp;: [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page?uselang=fr).\\
-Vue nocturne&nbsp;: image provenant du site&nbsp;: The Art of Cody Seekins.\\
+Vue nocturne&nbsp;: [Cody Seekins](http://www.codyseekins.com).\\
 Vue diurne&nbsp;: auteur non renseigné&nbsp;, source&nbsp;: [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page?uselang=fr).
 {% endlegend %}
 
