@@ -6,11 +6,11 @@ color: "rgb(5, 87, 158)"
 
 {% diaporama mythologie %}
 
-out_peinture.jpg/peinture.jpg
+peinture.jpg
 
 out_redon.jpg/redon.jpg
 
-out_oldcentaure.jpg/oldcentaure.jpg
+oldcentaure.jpg
 
 {% enddiaporama %}
 
@@ -39,7 +39,7 @@ out_construction1.jpg/construction1.jpg
 
 out_construction2.jpg/construction2.jpg
 
-out_construction3.jpg/construction3.jpg
+construction3.jpg
 
 {% enddiaporama %}
 
@@ -59,9 +59,9 @@ Lancement du Centaure. Le lancement initialement prévu pour le dimanche 19 juil
 
 out_spectateurs.jpg/spectateurs.jpg
 
-out_lancrecto.jpg/lancrecto.jpg
+lancrecto.jpg
 
-out_lancverso.jpg/lancverso.jpg
+lancverso.jpg
 
 {% enddiaporama %}
 
@@ -77,11 +77,11 @@ Il assure la ligne du golfe Persique, puis effectue des livraisons entre le golf
 
 {% diaporama navireC %}
 
-out_salle.jpg/salle.jpg
+salle.jpg
 
-out_navire1.jpg/navire1.jpg
+navire1.jpg
 
-out_navire2.jpg/navire2.jpg
+navire2.jpg
 
 {% enddiaporama %}
 

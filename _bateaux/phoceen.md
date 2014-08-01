@@ -11,7 +11,7 @@ boat_over_bg: true
 
 out_porte1.jpg/porte1.jpg
 
-out_porte2.jpg/porte2.jpg
+porte2.jpg
 
 {% enddiaporama %}
 
@@ -24,11 +24,11 @@ La Sublime Porte de la mairie d’Istanbul en 2006. Photographie&nbsp;: G. Dall'
 
 {% diaporama industrie %}
 
-out_industrie1.jpg/industrie1.jpg
+industrie1.jpg
 
-out_industrie2.jpg/industrie2.jpg
+industrie2.jpg
 
-out_industrie3.jpg/industrie3.jpg
+industrie3.jpg
 
 {% enddiaporama %}
 
@@ -64,7 +64,7 @@ Lancement du Phocéen&nbsp;I, premier navire à vapeur en Méditerranée. Il est
 
 {% diaporama navire %}
 
-out_gravure1.jpg/gravure1.jpg
+gravure1.jpg
 
 out_gravure2.jpg/gravure2.jpg
 
@@ -87,7 +87,7 @@ Acquisition par le  sultan de l’empire Ottoman Mahmoud&nbsp;II. Le Phocéen es
 
 out_sultan.jpg/sultan.jpg
 
-out_carte.jpg/carte.jpg
+carte.jpg
 
 {% enddiaporama %}
 

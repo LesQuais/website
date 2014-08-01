@@ -6,11 +6,11 @@ color: "rgb(66, 119, 126)"
 
 {% diaporama ville %}
 
-out_carte.jpg/carte.jpg
+carte.jpg
 
-out_ville1.jpg/ville1.jpg
+ville1.jpg
 
-out_ville2.jpg/ville2.jpg
+ville2.jpg
 
 {% enddiaporama %}
 
@@ -38,13 +38,13 @@ Lancement de la construction.
 
 {% diaporama constructionM %}
 
-out_journal2.jpg/journal2.jpg
-
-out_journal4.jpg/journal4.jpg
-
 out_charge.jpg/charge.jpg
 
-out_dessous.jpg/dessous.jpg
+dessous.jpg
+
+journal2.jpg
+
+journal4.jpg
 
 {% enddiaporama %}
 
@@ -62,7 +62,7 @@ Les grèves du chantier de La Ciotat arrêtent les travaux.
 
 {% diaporama greves %}
 
-out_journal3.jpg/journal3.jpg
+journal3.jpg
 
 {% enddiaporama %}
 
@@ -79,24 +79,13 @@ Remorqué à La Spezia en Italie pour achever la construction.
 
 {% diaporama depart %}
 
-out_bord.jpg/bord.jpg
+bord.jpg
 
-out_navire1.jpg/navire1.jpg
+navire1.jpg
 
-out.tire.jpg/tire.jpg
+tire.jpg
 
-{% enddiaporama %}
-
-{% legend %}
-Le Monterrey quitte le port de La Ciotat pour l'Italie avant la fin de la construction. 
-
-Toutes les photographies sont aux archives du Musée Ciotaden à La Ciotat. 
-{% endlegend %}
-
-
-{% diaporama articles %}
-
-out_journaux.jpg/journaux.jpg
+out_articles.jpg/articles.jpg
 
 {% enddiaporama %}
 

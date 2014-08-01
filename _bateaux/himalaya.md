@@ -7,9 +7,9 @@ boat_over_bg: true
 
 {% diaporama reinhold %}
 
-out_messner.jpg/messner.jpg
+messner.jpg
 
-out_alpinistes.jpg/alpinistes.jpg
+alpinistes.jpg
 
 {% enddiaporama %}
 
@@ -84,7 +84,7 @@ Torpillé près de Bizerte, les rescapés sont sauvés par les avisos Impatiente
 
 {% diaporama torpillageH %}
 
-out_feuH.jpg/feuH.jpg
+feuH.jpg
 
 {% enddiaporama %}
 

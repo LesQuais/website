@@ -58,11 +58,11 @@ Fait le service sur le Rhône pour assurer le transport entre Lyon, Valence, Bea
 
 {% diaporama navire %}
 
-out_vienne.jpg/vienne.jpg
+vienne.jpg
 
-out_colombe.jpg/colombe.jpg
+colombe.jpg
 
-out_tarascon.jpg/tarascon.jpg
+tarascon.jpg
 
 {% enddiaporama %}
 

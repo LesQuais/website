@@ -7,7 +7,7 @@ id: "meteore"
 
 {% diaporama regles %}
 
-out_morceaux.jpg/morceaux.jpg
+morceaux.jpg
 
 {% enddiaporama %}
 
@@ -20,7 +20,7 @@ Source&nbsp;: Commons Wikipedia.
 
 {% diaporama ciel %}
 
-out_eclats.jpg/eclats.jpg
+eclats.jpg
 
 {% enddiaporama %}
 
@@ -48,9 +48,9 @@ Effectue son premier vol
 
 {% diaporama avionM %}
 
-out_meteor1.jpg/meteor1.jpg
+meteor1.jpg
 
-out_meteor3.jpg/meteor3.jpg
+meteor3.jpg
 
 out_meteor4.jpg/meteor4.jpg
 
@@ -70,7 +70,7 @@ Le pilote Maurice Noguès ouvre la ligne aérienne Paris-Saigon pour le compte d
 
 {% diaporama courrier %}
 
-out_meteor2.jpg/meteor2.jpg
+meteor2.jpg
 
 out_horaire.jpg/horaire.jpg
 
