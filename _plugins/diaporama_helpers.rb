@@ -9,21 +9,22 @@
 module Fotorama
 	def self.render(page_id, diaporama_name, user_data, additional_classes = '')
 		classes = 'fotorama ' + additional_classes
-		result = '<div class="' + classes.strip + '" data-nav="none" data-allowfullscreen="native" data-fit="scaledown" data-transition="slide" data-width="100%" data-maxheight="100%">' # see usage of data attributes at http://fotorama.io/customize/
+		result = '<div class="' + classes.strip + '" data-nav="none" data-allowfullscreen="native" data-fit="scaledown" data-transition="slide" data-loop="true" data-width="100%" data-maxheight="100%">' # see usage of data attributes at http://fotorama.io/customize/
 
-		result << '<img src'
+		result << '<img src="'
 
 		user_data.each do |filenames, caption|
 			filename = filenames[0]
 			filename_fullwidth = filenames[1]
 
-			result << '="'
 			result << image_path(page_id, diaporama_name, filename)
 			result << '" '
 			result << 'data-full="' + image_path(page_id, diaporama_name, filename_fullwidth) + '" ' if filename_fullwidth
 			result << html_metadata(caption)
-			result << '></a><a href'	# ending with an empty <a> is less annoying than having a loop initialization
+			result << '></a><a href="'
 		end
+
+		result.chomp!('<a href="')	# removing the last empty <a> is less annoying than having a loop initialization
 
 		result << '></a></div>'
 	end
