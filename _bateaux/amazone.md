@@ -23,7 +23,7 @@ _Les amazones guerrières du Dahomey_ (actuel Benin), photographiées en 1890, N
 _Héroine Amazone_, image issue du jeu Heroes of Annihilated Empires. Source&nbsp;: Wikipédia.
 {% endlegend %}
 
-{% diaporama amazonie %} 
+{% diaporama amazonie %}
 
 out_fleuve.jpg/fleuve.jpg
 

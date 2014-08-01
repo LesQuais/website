@@ -42,7 +42,7 @@ Source&nbsp;: archives du Musée Ciotaden, La Ciotat.
 
 {% endlegend %}
 
-Notre choix a été motivé par le caractère innovant de ce navire, qui a ouvert la voie vers **l’apogée industrielle** que la ville a connu pendant un siècle et demi. Son nom souligne l’importance des comptoirs phocéens fondés sur la côte occidentale de la Méditerranée, notamment Marseille (Massalia) et Antibes (Antipolis).\\    
+Notre choix a été motivé par le caractère innovant de ce navire, qui a ouvert la voie vers **l’apogée industrielle** que la ville a connu pendant un siècle et demi. Son nom souligne l’importance des comptoirs phocéens fondés sur la côte occidentale de la Méditerranée, notamment Marseille (Massalia) et Antibes (Antipolis).\\
 Nous aimerions également rappeler qu’à cette époque, la **“Sublime Porte“** est un empire considérable qui s’étend sur une large part de l’Europe.\\
 Nous lui attribuons la couleur jaune pour son rôle d’éclaireur et d’ouverture.
 
