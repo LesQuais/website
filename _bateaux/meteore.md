@@ -83,7 +83,7 @@ Le temps de voyage entre Paris à Saigon est passé de 42 jours en bateau à 9 j
 Le courrier était le principal bénéficiaire de cette nouvelle forme de transport. 
 
 Photographies&nbsp;: archives du Musée Ciotaden, La Ciotat.\\
-La grille d'horaires du Météore se trouve sur le site&nbsp;: gap.r.orient.pagesperso-orange.fr
+Grille d'horaires du Météore&nbsp;: [site personnel](http://gap.r.orient.pagesperso-orange.fr).
 {% endlegend %}
 
 {% endbelow %}

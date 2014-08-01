@@ -17,9 +17,7 @@ SVT
 
 4ᵉ&nbsp;: le volcanisme. On pourra utiliser les documents visuels liés au Vésuve.
 
-3ᵉ&nbsp;: l'énergie. Le Centaure illustre la place des chantiers de La Ciotat dans le transport de pétrole et de gaz liquéfié. Aujourd'hui, les plus grands pétroliers mesurent 380&nbsp;m de long et transportent plus de 400000 tonnes de pétrole. Les Chantiers ont aussi contruit plusieurs navires de transport de gaz naturel liquéfié. Aujourd'hui, deux de ces navires continuent à naviguer&nbsp;: le Mostefa ben Boulaid lancé en 1976&nbsp;:
-http://www.marinetraffic.com/fr/ais/details/ships/605076050/vessel:MOSTEFA_BEN_BOULAID
-et le Belanak, lancé en 1975&nbsp;: http://www.marinetraffic.com/fr/ais/details/ships/508040000/vessel:BELANAK.
+3ᵉ&nbsp;: l'énergie. Le Centaure illustre la place des chantiers de La Ciotat dans le transport de pétrole et de gaz liquéfié. Aujourd'hui, les plus grands pétroliers mesurent 380&nbsp;m de long et transportent plus de 400000 tonnes de pétrole. Les Chantiers ont aussi construit plusieurs navires de transport de gaz naturel liquéfié. Aujourd'hui, deux de ces navires continuent à naviguer&nbsp;: le [Mostefa ben Boulaid](http://www.marinetraffic.com/fr/ais/details/ships/605076050/vessel:MOSTEFA_BEN_BOULAID) lancé en 1976&nbsp; et le [Belanak](http://www.marinetraffic.com/fr/ais/details/ships/508040000/vessel:BELANAK) lancé en 1975.
 
 La déforestation&nbsp;: sur la page de l'Amazone, nous présentons une image satellite qui illustre le grignotage de la forêt amazonienne au fur et à mesure que les voies de communications sont construites.
 
@@ -38,7 +36,7 @@ Physique-Chimie
 Mathématiques
 ---------------
 
-_Une partie des activités s’appuiera sur des plans fournis au format PDF._
+Une partie des activités s’appuiera sur des plans [fournis au format PDF](#tlcharger).
 
 6ᵉ&nbsp;: proportions&nbsp;: on pourra vérifier que la longueur des enseignes des noms de bateaux n’est pas réellement proportionnelle à la taille réelle des bateaux.
 
@@ -76,10 +74,7 @@ L’évolution du capitalisme peut s’illustrer aussi à travers les noms sans 
 Géographie
 -------------
 
-5ᵉ&nbsp;: la ressource énergétique. On pourra suivre les parcours de trois bateaux de transport de gaz naturel liquéfié, construits à La Ciotat et qui naviguent encore aujourd'hui (en 2014)&nbsp;: le Mostefa ben Boulaid lancé en 1976&nbsp;:\\
-http://www.marinetraffic.com/fr/ais/details/ships/605076050/vessel:MOSTEFA_BEN_BOULAID
-le Belanak, lancé en 1975&nbsp;: http://www.marinetraffic.com/fr/ais/details/ships/508040000/vessel:BELANAK\\
-Gaz Suez, lancé en 1978&nbsp;: http://www.marinetraffic.com/fr/ais/details/ships/353220000/vessel:GAS_SUEZ
+5ᵉ&nbsp;: la ressource énergétique. On pourra suivre les parcours de trois bateaux de transport de gaz naturel liquéfié, construits à La Ciotat et qui naviguent encore aujourd'hui (en 2014)&nbsp;: [le Mostefa ben Boulaid](http://www.marinetraffic.com/fr/ais/details/ships/605076050/vessel:MOSTEFA_BEN_BOULAID) lancé en 1976&nbsp;; [le Belanak](http://www.marinetraffic.com/fr/ais/details/ships/508040000/vessel:BELANAK) lancé en 1975&nbsp;; et [le Gaz Suez](http://www.marinetraffic.com/fr/ais/details/ships/353220000/vessel:GAS_SUEZ) lancé en 1978.
 
 4ᵉ&nbsp;: migrations et tourisme. On pourra partir des cartes postales et de l’histoire des bateaux pour parler des migrations de l'Europe vers l'Australie et l'Asie au début du 20ᵉ siècle. On pourra aussi évoquer le fait que les paquebots, bien que parfois luxueux, n’étaient que marginalement des navires de loisir (rien à voir avec les croisières actuelles, ni en terme de programmes, ni en termes de nombres de passagers). Prospérité et fin des Messageries Maritimes.
 

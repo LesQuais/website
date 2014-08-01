@@ -10,10 +10,9 @@ Suzanne Hetzel &amp; Jean Schneider&nbsp;: artistes
 
 Pour réaliser cette installation, nous avons réuni nos compétences respectives&nbsp;: l'image, les questions liées à la représentation, l'émergence d'une forme à partir des faits historiques ou sociaux, la mise en espace de ces formes, le choix des matériaux pour porter au plus loin les enjeux artistiques et la négociation avec les fabricants. Nous nous sommes appuyés sur nos expériences de travail pour proposer une œuvre qui illumine un volet important de l'histoire de La Ciotat et l'accompagne vers le futur des jeunes personnes.
 
-Suzanne Hetzel&nbsp;: j’ai été formée à l’École supérieure des Beaux Arts de Marseille (DNSEP en 1989 et Postdiplôme en 1990) dans l’option arts visuels et sonores.
+[Suzanne Hetzel](http://documentsdartistes.org/artistes/hetzel/page1.html)&nbsp;: j’ai été formée à l’École supérieure des Beaux Arts de Marseille (DNSEP en 1989 et Postdiplôme en 1990) dans l’option arts visuels et sonores.
 
-Mes installations prennent souvent la photographie comme point de départ. À travers elles, je cherche à rendre perceptibles les liens entre l'homme et les choses qui lui sont proches, mais je n'exclue pas le paysage ou le contexte du travail quand ceux-ci influent sur la manière de vivre un lieu. Ainsi j'associe à mes compositions photographiques des objets ou des documents d'archives.\\
-Pour voir le travail de Suzanne Hetzel&nbsp;: www.documentsdartistes.org/hetzel
+Mes installations prennent souvent la photographie comme point de départ. À travers elles, je cherche à rendre perceptibles les liens entre l'homme et les choses qui lui sont proches, mais je n'exclue pas le paysage ou le contexte du travail quand ceux-ci influent sur la manière de vivre un lieu. Ainsi j'associe à mes compositions photographiques des objets ou des documents d'archives.
 
 Jean Schneider&nbsp;: je suis designer (Ensci / Les Ateliers, 1988) et je travaille depuis 2001 dans la promotion du design.\\
 J’ai été professeur pendant plusieurs années à l’Université d’art et de design d’Helsinki.\\
@@ -23,18 +22,16 @@ J’ai également une activité de scénographe d’exposition. Mes projets vise
 Vincent Perrottet&nbsp;: graphiste
 -------------------------------------------
 
-Né en 1958 à Saint-Denis. De 1978 à 1984, il étudie à l'École nationale supérieure des Arts Décoratifs, section vidéo/cinéma.
+[Vincent Perrottet](http://vincentperrottet.com/) est né en 1958 à Saint-Denis. De 1978 à 1984, il étudie à l'École nationale supérieure des Arts Décoratifs, section vidéo/cinéma.
 
 En 1983, c’est la rencontre décisive avec le collectif Grapus avec lequel il travaillera jusqu'en 1989, collaboration entrecoupée par la création de deux collectifs de jeunes graphistes&nbsp;: 1984/1985 Thève, Perrottet, Milville, 1987/1988 "Courage" avec Pierre di Sciullo et Pierre Milville.
-
 En 1989, Vincent Perrottet et Gérard Paris-Clavel créent les Graphistes Associés, l’un des trois ateliers issus de Grapus.
 
 Depuis le début de son activité de graphiste, il a réalisé de nombreuses identités visuelles, matériaux d’information et de sensibilisation, expositions, publications et affiches dans les domaines d’utilité publique, institutions culturelles et de santé publique, théâtres, musées, associations, syndicats... Conseil et réalisations graphiques pour le Crips Île-de-France (prévention du sida, des hépatites, des drogues...) de 1988 à 2012.
 
 Parallèlement à son activité de graphiste, Vincent Perrottet est enseignant&nbsp;: en 1992 et 1993, il est professeur à l’École Supérieure d’Art et de Design d’Amiens (ESAD) et fait des interventions multiples en cours, conférences, jury de concours d’entrée et de diplômes dans de nombreuses écoles d’art françaises et européennes. De 1999 à 2004, il enseigne à l’École d’art du Havre.
 
-Membre de l’AGI (Alliance Graphique Internationale) de 2002 à 2006. Vincent Perrottet participe à l’organisation et à la direction artistique du Festival international de l’affiche et des arts graphiques de Chaumont de 2002 à 2009.\\
-Pour voir son travail &nbsp;: www.vincentperrottet.com
+Membre de l’AGI (Alliance Graphique Internationale) de 2002 à 2006. Vincent Perrottet participe à l’organisation et à la direction artistique du Festival international de l’affiche et des arts graphiques de Chaumont de 2002 à 2009.
 
 
 Matti Schneider&nbsp;: site web
@@ -53,32 +50,27 @@ Véronique Schaëgis a fait le suivi administratif tout le long du projet, et sa
 Le collège Jean Jaurès à La Ciotat
 ---------------------------------------
 
-L'œuvre Les quais est installée au nouveau collège Jean Jaurès. Il a été construit sur une partie des anciens Chantiers. Sa construction date de 2009, il a été réalisé par l'agence d'architecture Poissonnier Ferran de Marseille. Le site &nbsp;: www.poissonnier-ferran-architectes.com
-Ce collège est un des rares collèges en France avec une section Freinet.
+L'œuvre Les quais est installée au nouveau [collège Jean Jaurès](http://www.clg-jaures-laciotat.ac-aix-marseille.fr/). Il a été construit sur une partie des anciens Chantiers. Sa construction date de 2009, il a été réalisé par l'agence d'architecture [Poissonnier Ferran](http://www.poissonnier-ferran-architectes.com/) de Marseille.
+
+Ce collège est un des rares collèges en France avec une section [Freinet](https://fr.wikipedia.org/wiki/Pédagogie_Freinet).
 
 Nous remercions le Principal et l'ensemble du personnel pour leur accompagnement.
-Le site du collège&nbsp;: www.clg-jaures-laciotat.ac-aix-marseille.fr
 
 Le Musée Ciotaden à La Ciotat
 ---------------------------------------
 
-Jean-Pierre Jouen, Président des Amis du Vieux La Ciotat, nous a soutenu dans nos recherches de documents et nous a gracieusement offert les droits de reproduction des images provenant des archives du musée.\\
+Jean-Pierre Jouen, Président des Amis du Vieux La Ciotat, nous a soutenu dans nos recherches de documents et nous a gracieusement offert les droits de reproduction des images provenant des [archives du musée](http://www.museeciotaden.org).\\
 Le musée possède de nombreuses maquettes de navires construits aux Chantiers Navals de La Ciotat et bien d'autres curiosités. Il se trouve sur le Quai Ganteaume en face de l'office de tourisme.\\
-Pour voir le site&nbsp;: http://www.museeciotaden.org
 
 La CCI (Chambre de Commerce et d'Industrie) à Marseille
 ---------------------------------------
 
-La CCI possède un important fonds photographique sur les bateaux construits à La Ciotat. Nous remercions particulièrement François Jonniaux pour sa disponibilité et son aide à la recherche.
-Pour le contacter : www.ccimp.com/ccimp/connaitre/groupe/musee-marine-marseille
+La [CCI](http://www.ccimp.com/ccimp/connaitre/groupe/musee-marine-marseille) possède un important fonds photographique sur les bateaux construits à La Ciotat. Nous remercions particulièrement François Jonniaux pour sa disponibilité et son aide à la recherche.
 
 
 Les Messageries Maritimes
 ---------------------------------
 
-Le livre de Jean-Claude Rihal&nbsp;: "La Ciotat des messageries Maritimes aux C.N.C." paru en 2008, et les sites sur les Messageries Maritimes ont été une source précieuse d'informations et d'images tout le long de nos recherches sur les bateaux construits dans les chantiers de La Ciotat. \\
-Pour voir le site&nbsp;: http://www.messageries.martitmes.org et http://www.frenchlines.com
-
-
+Le livre de Jean-Claude Rihal&nbsp;: La Ciotat des Messageries Maritimes aux C.N.C., paru en 2008, et les sites sur les [Messageries Maritimes](http://www.messageries.martitmes.org) et [French Lines](http://www.frenchlines.com) ont été une source précieuse d'informations et d'images tout le long de nos recherches sur les bateaux construits dans les chantiers de La Ciotat.
 
 

@@ -124,6 +124,7 @@ Affrété par MSC Geneva, rebaptisé MSC Nicole.
 2001
 ------------
 
-Acquis par Gulmare Holdings S.A. (MSC) en 2014, il navigue toujours sous ce nom.
+Acquis par Gulmare Holdings S.A. (MSC).\\
+En 2014, il navigue toujours sous ce nom. On peut le [suivre en temps réel](http://www.marinetraffic.com/fr/ais/details/ships/8509387/vessel:MSC_NICOLE).
 
 {% endbelow %}
