@@ -22,7 +22,7 @@ Le mont Vésuve est un volcan italien d'une hauteur de 1281 m bordant la baie de
 
 Chromo&nbsp;: collection Hetzel/Schneider.\\
 Photographie de 1892&nbsp;: port de Naples avec le Vésuve en arrière-plan, bibliothèque de Toulouse, fonds Trutat.\\
-Vue aérienne du Vésuve du 7 août 2007, auteur&nbsp;: Pastorius, Wikipedia.\\
+Vue aérienne du Vésuve du 7 août 2007. Auteur&nbsp;: Pastorius, source : [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vesuvius_from_plane.jpg).\\
 Peinture de 1813 de Pierre-Henry de Valenciennes&nbsp;: éruption du Vésuve arrivée le 24 août de l'an 79, musée des Augustins Toulouse, photographie de Daniel Martin.
 
 {% endlegend %}

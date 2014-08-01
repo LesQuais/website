@@ -14,7 +14,7 @@ morceaux.jpg
 {% legend %}
 Fragments du météore qui survola Tcheliabinsk en Russie, le vendredi 15 février 2013.
 
-Photographe&nbsp;: Alexander Sapozhnikov, source&nbsp;: Wikipedia Commons.
+Photographe&nbsp;: Alexander Sapozhnikov, source&nbsp;: [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page?uselang=fr).
 {% endlegend %}
 
 {% diaporama ciel %}
@@ -26,7 +26,7 @@ eclats.jpg
 {% legend %}
 Une explosion spectaculaire d'un météorite.
 
-Auteur&nbsp;: NASA Ames Research Center/S. Molau et P. Jenniskens, source &nbsp;: Wikipedia Commons.
+Auteur&nbsp;: NASA Ames Research Center/S. Molau et P. Jenniskens, source &nbsp;: [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page?uselang=fr).
 {% endlegend %}
 
 

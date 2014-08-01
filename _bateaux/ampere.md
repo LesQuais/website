@@ -17,7 +17,7 @@ out_milli.jpg/milli.jpg
 {% legend %}
 L’ampère est l’unité de mesure de l’intensité du courant électrique. Cette unité doit son nom à André-Marie Ampère, mathématicien, physicien, chimiste et philosophe français du 18ᵉ siècle. Ses travaux fondent l'électrodynamique et influencent considérablement la physique du 19ᵉ siècle. Le nom d’Ampère est celui d’un des douze savants inscrits sur la Tour Eiffel.
 
-Source des deux images&nbsp;: Wikipedia Commons.
+Source des deux images&nbsp;: [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page?uselang=fr).
 {% endlegend %}
 
 

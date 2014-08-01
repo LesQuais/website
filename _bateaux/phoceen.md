@@ -18,8 +18,8 @@ porte2.jpg
 {% legend %}
 La Sublime Porte était la porte d'honneur monumentale du siège du gouvernement de l'Empire ottoman. Elle se situait au centre ville de Constantinople, aujourd'hui Istanbul.
 
-Sublime Porte durant la période ottomane&nbsp;; source Wikipedia.\\
-Sublime Porte de la mairie d’Istanbul en 2006. Photographie&nbsp;: G. Dall'Orto &nbsp;; source Wikipedia.
+Sublime Porte durant la période ottomane. Source [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bab-i_Ali.jpg).\\
+Sublime Porte de la mairie d’Istanbul en 2006. Photographie&nbsp;: G. Dall'Orto &nbsp;; source [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:DSC04009_Istanbul_-_La_Sublime_Porta_-_Foto_G._Dall%27Orto_25-5-2006.jpg).
 {% endlegend %}
 
 {% diaporama industrie %}
@@ -94,7 +94,7 @@ Peinture du sultan Mahmoud&nbsp;II.
 Carte de l’Empire ottoman vers 1800.
 
 Peinture&nbsp;: source non renseignée.\\
-Carte&nbsp;: auteur Esemono&nbsp;; source&nbsp;: Wikipedia Commons.
+Carte&nbsp;: auteur Esemono&nbsp;; source&nbsp;: [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page?uselang=fr).
 
 {% endlegend %}
 

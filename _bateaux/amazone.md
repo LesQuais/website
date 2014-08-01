@@ -38,7 +38,7 @@ L'Amazonie est une vaste région de l’Amérique du Sud. Il s’agit d’une pl
 
 Depuis sa source dans les Andes péruviennes, le fleuve parcourt 6000&nbsp;km avant de se jeter dans l'Atlantique.\\
 Le paysage d'Amazonie à l'ouest de Manaus. Photographie de LecomteB, 2009.\\
-La déforestation vue depuis un satellite. Les routes tracées dans la forêt suivent un motif caractéristique en «&nbsp;arêtes de poisson&nbsp;». Fichier provenant de la NASA. Toutes les images&nbsp;: Wikipedia Commons.
+La déforestation vue depuis un satellite. Les routes tracées dans la forêt suivent un motif caractéristique en «&nbsp;arêtes de poisson&nbsp;». Fichier provenant de la NASA. Toutes les images&nbsp;: [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page?uselang=fr).
 
 {% endlegend %}
 
@@ -128,7 +128,7 @@ rimbaud.jpg
 > (3 premières strophes du poème _Le Bateau ivre_ écrit par Arthur Rimbaud en 1871)
 
 Dessin du poète Arthur Rimbaud mourant réalisé à l'hôpital de Marseille par sa sœur Isabelle.\\
-Source&nbsp;: Wikipedia Commons.
+Source&nbsp;: [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page?uselang=fr).
 {% endlegend %}
 
 
