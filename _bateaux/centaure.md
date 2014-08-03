@@ -15,7 +15,7 @@ oldcentaure.jpg
 {% enddiaporama %}
 
 {% legend %}
-La représentation de la figure mythologique du centaure par trois artistes de différentes époques. 
+La représentation de la figure mythologique du centaure par trois artistes de différentes époques.
 
 _Centaure_ de Girma Kefle Meskal (Ethiopie), dimensions&nbsp;: 23.5 x 34&nbsp;cm, acrylique sur parchemin. Collection privée.\\
 _Centaure et Centauresse_ d'Odilon Redon, env. 1885/1890, 36,5 × 34&nbsp;cm, charbon sur papier. Collection privée.\\
@@ -43,7 +43,7 @@ construction3.jpg
 {% enddiaporama %}
 
 {% legend %}
-Ce navire a une hélice entrainée par une turbine de 20000 chevaux vapeur. On voit ici l'impressionnante salle des machines, puis différentes étapes de sa construction. 
+Ce navire a une hélice entrainée par une turbine de 20000 chevaux vapeur. On voit ici l'impressionnante salle des machines, puis différentes étapes de sa construction.
 
 Photographie de la salle des machines&nbsp;: archives de la CCI Marseille-Provence.\\
 Photographies de la construction du Centaure &nbsp;: archives du Musée Ciotaden, La Ciotat.
@@ -69,7 +69,7 @@ lancverso.jpg
 Les lancements de navires furent un jour de fête pour toute la population de La Ciotat.
 La carte montrant le lancement du Centaure fut probablement envoyée à l’occasion du lancement du Sea Sapphire le 8 juin 1962.
 
-Photographie des spectateurs&nbsp;: archives du Musée Ciotaden, La Ciotat. 
+Photographie des spectateurs&nbsp;: archives du Musée Ciotaden, La Ciotat.
 Carte&nbsp;: collection Hetzel/Schneider.
 
 {% endlegend %}
@@ -89,7 +89,7 @@ navire2.jpg
 {% legend %}
 L'aménagement du «&nbsp;:Carré des affaires&nbsp;:» est dans un style contemporain de l'époque de la construction du bateau.
 
-Photographie du carré des affaires&nbsp;: archives de la CCI de Marseille-Provence. 
+Photographie du carré des affaires&nbsp;: archives de la CCI de Marseille-Provence.
 Photographies des navires&nbsp;: archives du Musée Ciotaden, La Ciotat.
 {% endlegend %}
 
