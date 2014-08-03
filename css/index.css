@@ -87,3 +87,42 @@ ol {
 	width: 24%;
 	text-align: center;
 }
+
+@media (max-width: 30em) {	/* 9 boat names + their margin + safety */
+	#boatsRight {
+		right: -8em;
+		top: 12.9em;
+	}
+
+	#boatsLeft {
+		left: -2em;
+	}
+	.boats li {
+		margin-bottom: .5em;
+	}
+
+	#words li {
+		display: block;
+		width: 100%;
+		text-align: center;
+	}
+
+	#meta, #meta li, #prolongements {
+		display: inline-block;
+		margin-right: 1em;
+		font-size: 100%;
+	}
+
+	#prolongements {
+		visibility: hidden;
+	}
+
+	#prolongements::after {
+		content: '+';
+		visibility: visible;
+	}
+
+	#meta::after {
+		display: none;
+	}
+}
