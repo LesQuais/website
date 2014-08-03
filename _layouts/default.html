@@ -23,8 +23,8 @@
 		<meta name="twitter:description" content="{{ site.description }}"/>
 		<meta property="og:description" content="{{ site.description }}"/>
 
-		<meta name="twitter:image:src" content="http://lesquais.mattischneider.fr/images/cards/{{page_id}}.jpeg"/>
-		<meta property="og:image" content="http://lesquais.mattischneider.fr/images/cards/{{page_id}}.jpeg"/>
+		<meta name="twitter:image:src" content="http://lesquais.mattischneider.fr/images/cards/{% if page.layout == 'boat' %}{{page_id}}{% else %}default{% endif %}.jpeg"/>
+		<meta property="og:image" content="http://lesquais.mattischneider.fr/images/cards/{% if page.layout == 'boat' %}{{page_id}}{% else %}default{% endif %}.jpeg"/>
 
 		<meta name="twitter:domain" content="http://lesquais.voyage"/>
 		<meta property="og:url" content="http://lesquais.voyage"/>
