@@ -33,7 +33,7 @@ Parallèlement à son activité de graphiste, Vincent Perrottet est enseignant&n
 Membre de l’AGI (Alliance Graphique Internationale) de 2002 à 2006. Vincent Perrottet participe à l’organisation et à la direction artistique du Festival international de l’affiche et des arts graphiques de Chaumont de 2002 à 2009.
 
 
-Matti Schneider&nbsp;: site web
+Matti Schneider&nbsp;: extension numérique
 ------------------------------
 
 [Matti Schneider](http://mattischneider.fr) a étudié l'ingénierie logicielle, le design et l'anthropologie. Il met ses compétences au service de projets interdisciplinaires, innovants et à impact social positif.
