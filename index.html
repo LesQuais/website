@@ -15,14 +15,24 @@ id: les_quais
 {% endfor %}
 </ol>
 
-<ol id="boats">
-{% assign boats = site.bateaux | sort: 'size' %}
-{% for boat in boats reversed %}
+{% assign boats = site.bateaux | sort: 'size' | reverse %}
+
+<ol class="boats" id="boatsRight">
+{% for boat in boats reversed offset:5 %}
 	<li style="color: {{ boat.color }}; font-size: {{ boat.size | plus: 50 }}%">
 		<a href="{{ boat.url }}" id="{{ boat.title }}"><span class="name">{{boat.title}}</span>&nbsp;{{ boat.size | integer_or_two_decimals }}<span id="meters">&nbsp;m</span></a>
 	</li>
 {% endfor %}
 </ol>
+
+<ol class="boats" id="boatsLeft">
+{% for boat in boats reversed limit:5 %}
+	<li style="color: {{ boat.color }}; font-size: {{ boat.size | plus: 50 }}%">
+		<a href="{{ boat.url }}" id="{{ boat.title }}"><span class="name">{{boat.title}}</span>&nbsp;{{ boat.size | integer_or_two_decimals }}<span id="meters">&nbsp;m</span></a>
+	</li>
+{% endfor %}
+</ol>
+
 
 <ol id="words">
 {% assign words = site.mots | sort: 'order' %}
