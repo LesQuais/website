@@ -31,7 +31,7 @@ carte_australie.gif
 
 {% enddiaporama %}
 
-Nous avons retenu le nom de ce navire pour son pouvoir évocateur. **L’Australie** pourrait être une possible destination des jeunes gens pour un premier grand voyage. Cette île-continent dans l’hémisphère sud est une terre d’immigration. Les aborigènes, populations autochtones de l’Australie, se sont repliés dans le nord et l’ouest. Leur mythologie parle d’un temps primordial, le “temps du rêve“ au cours duquel le paysage a été modelé et les premiers êtres animés ont vécu. La **peinture aborigène** avec une grande variété de styles, représente de façon symbolique des moments de cette histoire.
+Nous avons retenu le nom de ce navire pour son pouvoir évocateur. **L’Australie** pourrait être une possible destination des jeunes gens pour un premier grand voyage. Cette île-continent dans l’hémisphère sud est une terre d’immigration. Les aborigènes, populations autochtones de l’Australie, se sont repliés dans le nord et l’ouest. Leur mythologie parle d’un temps primordial, le «&nbsp;temps du rêve&nbsp;» au cours duquel le paysage a été modelé et les premiers êtres animés ont vécu. La **peinture aborigène** avec une grande variété de styles, représente de façon symbolique des moments de cette histoire.
 
 {% below %}
 
@@ -42,7 +42,7 @@ Les voyages de ce navire témoignent de l'émigration, de la colonisation et de 
 1889
 ----
 
-Lancement de l’Australien, le premier d’une série de 4 “navires-sœurs“ avec le Polynésien, l’Armand Behic et le Ville de la Ciotat, affecté aux lignes du Pacifique&nbsp;: Australie et Nouvelle Calédonie.
+Lancement de l’Australien, le premier d’une série de 4 «&nbsp;navires-sœurs&nbsp;» avec le Polynésien, l’Armand Behic et le Ville de la Ciotat, affecté aux lignes du Pacifique&nbsp;: Australie et Nouvelle Calédonie.
 
 
 1891
@@ -54,7 +54,7 @@ Remorque un navire autrichien en panne jusqu’à Ajaccio.
 3 juillet 1895
 --------------
 
-Paul Gauguin embarque à Marseille pour son dernier voyage. Il arrive à Sydney le 6 août de la même année, avant de poursuivre son voyage jusqu’aux Marquises. Ces îles du Pacifique sont le refuge de  Gauguin qui souhaite retourner à “la vie sauvage“&nbsp;: «&nbsp;J’emporte mes couleurs et mes pinceaux et je me retremperai loin de tous les hommes&nbsp;».
+Paul Gauguin embarque à Marseille pour son dernier voyage. Il arrive à Sydney le 6 août de la même année, avant de poursuivre son voyage jusqu’aux Marquises. Ces îles du Pacifique sont le refuge de  Gauguin qui souhaite retourner à «&nbsp;la vie sauvage&nbsp;»&nbsp;: «&nbsp;J’emporte mes couleurs et mes pinceaux et je me retremperai loin de tous les hommes&nbsp;».
 
 
 {% diaporama gaugin %}
@@ -121,7 +121,7 @@ torpillage_australien.jpg
 {% enddiaporama %}
 
 {% legend %}
-À comparer les cartes des différents navires torpillés, on remarque un même fond de "modèle de torpillage peint" avec le bateau touché en incrustation.
+À comparer les cartes des différents navires torpillés, on remarque un même fond de «&nbsp;modèle de torpillage peint&nbsp;» avec le bateau touché en incrustation.
 
 Carte postale des Messagerie Maritimes.
 Source&nbsp;: archives du Musée Ciotaden à La Ciotat.

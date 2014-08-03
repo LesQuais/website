@@ -58,7 +58,7 @@ C’est pourquoi, au delà du support immédiatement visible de l’œuvre, nous
 Enfin, nous avons construit cette œuvre moins comme une manifestation hiératique de l’Art, que comme une présence familière, que l’on peut aussi voir sans la regarder, ignorer sans qu’elle vous abandonne et investir par de multiples biais, tant que les mots sont liés à l’existence. Nous aimerions que les élèves qui quitteront ce collège aient éprouvé que -&nbsp;comme pour nous&nbsp;- l’Art accompagne la vie même.
 
 
-Nous avons choisi de décliner le mot ”traversée” dans trois acceptions&nbsp;:
+Nous avons choisi de décliner le mot «&nbsp;traversée&nbsp;» dans trois acceptions&nbsp;:
 
 - au sens premier de percer de part en part&nbsp;;
 - mais aussi de parcourir un pan d’espace ou de temps&nbsp;;
@@ -82,8 +82,8 @@ Pour rappeler qu’il s’agissait de navires construits aux Chantiers, et non p
 ### TRAVERSER (le dépassement)
 
 Pour évoquer enfin la communauté humaine et le dépassement du soi qu’elle suppose, nous avons ajouté quatre mots qui nous semblent porteur d’un sens fort pour les collégiens et la communauté éducative&nbsp;: (se) construire, l’amitié, s’élever, l’humanité.\\
-S’élever renvoie tout particulièrement au rôle que Freinet donnait à l’enseignement&nbsp; “l’humanité“ évoque le souvenir de Jean Jaurès, et nous semble si juste dans le contexte d’un collège&nbsp;: communauté engagée dans la construction, l’échange, le partage, la mise au jour des futurs citoyens, “l’humanité“ est un projet sans fin.
+S’élever renvoie tout particulièrement au rôle que Freinet donnait à l’enseignement&nbsp; «&nbsp;l’humanité&nbsp;» évoque le souvenir de Jean Jaurès, et nous semble si juste dans le contexte d’un collège&nbsp;: communauté engagée dans la construction, l’échange, le partage, la mise au jour des futurs citoyens, «&nbsp;l’humanité&nbsp;» est un projet sans fin.
 
 
-Ainsi, nous comprenons “la traversée“ comme un mouvement qui partirait de l’œuvre pour rejoindre une histoire plus grande, qui porte espoir pour le futur. Elle renvoie par exemple à l’histoire des techniques, du travail, de l’industrie, telle qu’elle s’incarne dans l’espace urbain de la Ciotat et dans la mémoire de ses habitants. Elle évoque le commerce, l’échange, les voyages, l’étranger. Elle invite à réfléchir à ce qu’est apprendre, travailler, former une communauté aujourd’hui.
+Ainsi, nous comprenons «&nbsp;la traversée&nbsp;» comme un mouvement qui partirait de l’œuvre pour rejoindre une histoire plus grande, qui porte espoir pour le futur. Elle renvoie par exemple à l’histoire des techniques, du travail, de l’industrie, telle qu’elle s’incarne dans l’espace urbain de la Ciotat et dans la mémoire de ses habitants. Elle évoque le commerce, l’échange, les voyages, l’étranger. Elle invite à réfléchir à ce qu’est apprendre, travailler, former une communauté aujourd’hui.
 

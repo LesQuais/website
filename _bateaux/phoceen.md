@@ -43,7 +43,7 @@ Source&nbsp;: archives du Musée Ciotaden, La Ciotat.
 {% endlegend %}
 
 Notre choix a été motivé par le caractère innovant de ce navire, qui a ouvert la voie vers **l’apogée industrielle** que la ville a connu pendant un siècle et demi. Son nom souligne l’importance des comptoirs phocéens fondés sur la côte occidentale de la Méditerranée, notamment Marseille (Massalia) et Antibes (Antipolis).\\
-Nous aimerions également rappeler qu’à cette époque, la **“Sublime Porte“** est un empire considérable qui s’étend sur une large part de l’Europe.\\
+Nous aimerions également rappeler qu’à cette époque, la «&nbsp;**Sublime Porte**&nbsp;» est un empire considérable qui s’étend sur une large part de l’Europe.\\
 Nous lui attribuons la couleur jaune pour son rôle d’éclaireur et d’ouverture.
 
 {% below %}
@@ -77,7 +77,7 @@ Gravure du port de La Ciotat&nbsp;: collection privée, La Ciotat.
 1838
 --------------
 
-Acquisition par le  sultan de l’Empire ottoman Mahmoud&nbsp;II. Le Phocéen est rebaptisé “Peyk-i Șevket“, ce qui peut se traduire par “Messager de sa Majesté“ ou “Messager de la Magnificence“.
+Acquisition par le  sultan de l’Empire ottoman Mahmoud&nbsp;II. Le Phocéen est rebaptisé «&nbsp;Peyk-i Șevket&nbsp;», ce qui peut se traduire par «&nbsp;Messager de sa Majesté&nbsp;» ou «&nbsp;Messager de la Magnificence&nbsp;».
 
 {% diaporama sultan %}
 

@@ -23,7 +23,7 @@ Vincent Perrottet&nbsp;: graphiste
 
 [Vincent Perrottet](http://vincentperrottet.com/) est né en 1958 à Saint-Denis. De 1978 à 1984, il étudie à l'École nationale supérieure des Arts Décoratifs, section vidéo/cinéma.
 
-En 1983, c’est la rencontre décisive avec le collectif Grapus avec lequel il travaillera jusqu'en 1989, collaboration entrecoupée par la création de deux collectifs de jeunes graphistes&nbsp;: 1984/1985 Thève, Perrottet, Milville, 1987/1988 "Courage" avec Pierre di Sciullo et Pierre Milville.
+En 1983, c’est la rencontre décisive avec le collectif Grapus avec lequel il travaillera jusqu'en 1989, collaboration entrecoupée par la création de deux collectifs de jeunes graphistes&nbsp;: 1984/1985 Thève, Perrottet, Milville, 1987/1988 _Courage_ avec Pierre di Sciullo et Pierre Milville.
 En 1989, Vincent Perrottet et Gérard Paris-Clavel créent les Graphistes Associés, l’un des trois ateliers issus de Grapus.
 
 Depuis le début de son activité de graphiste, il a réalisé de nombreuses identités visuelles, matériaux d’information et de sensibilisation, expositions, publications et affiches dans les domaines d’utilité publique, institutions culturelles et de santé publique, théâtres, musées, associations, syndicats... Conseil et réalisations graphiques pour le Crips Île-de-France (prévention du sida, des hépatites, des drogues...) de 1988 à 2012.
