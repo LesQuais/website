@@ -1,6 +1,6 @@
 ---
-title: "pourquoi"
-order: 4
+title: "prolongements"
+layout: "meta"
 ---
 
 Propositions d'activités pédagogiques pouvant s'appuyer sur l'œuvre Les quais

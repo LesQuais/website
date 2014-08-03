@@ -4,12 +4,17 @@ layout: default
 
 <link rel="stylesheet" type="text/css" href="../css/meta.css">
 
-<nav>
+<nav id="{{ page.title }}">
 	<a id="home" title="{{ site.name }}" href="{{ site.baseurl }}/">╳</a>
 
 	<h1>{{ page.title }}</h1>
+
+{% if page.prev %}
 	<a id="prev" href="{{ page.prev.url }}">{{ page.prev.title }}</a>
+{% endif %}
+{% if page.next %}
 	<a id="next" href="{{ page.next.url }}">{{ page.next.title }}</a>
+{% endif %}
 </nav>
 
 {{ content }}

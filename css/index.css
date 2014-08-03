@@ -10,11 +10,11 @@ ol {
 	list-style: none;
 }
 
-#meta, #words {
+#meta, #words, #prolongements {
 	letter-spacing: .18em;
 }
 
-#meta {
+#meta, #prolongements {
 	color: rgb(82, 82, 26);
 
 	font-size: 70%;
@@ -32,6 +32,11 @@ ol {
 	position: absolute;
 	left: 2.8em;
 	top: .3em;
+}
+
+#prolongements {
+	float: right;
+	z-index: 1;
 }
 
 #boats {

@@ -33,3 +33,8 @@ h2, h3 {
 p + ul {
 	margin-top: -1em;
 }
+
+
+#prolongements h1 {
+	font-size: 620%;
+}
