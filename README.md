@@ -1,4 +1,4 @@
-The digital extension of the artistic project “Les Quais”, for the Jean Jaurès junior high school in [La Ciotat](https://wiki.openstreetmap.org/wiki/La_Ciotat).
+The digital extension of the artistic project “Les quais”, for the Jean Jaurès junior high school in [La Ciotat](https://wiki.openstreetmap.org/wiki/La_Ciotat).
 
 
 Building
