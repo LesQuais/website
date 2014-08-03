@@ -3,6 +3,9 @@ layout: default
 ---
 
 <link rel="stylesheet" type="text/css" href="../css/meta.css">
+{% if page.additional_css %}
+<link rel="stylesheet" type="text/css" href="../css/{{ page.additional_css }}.css">
+{% endif %}
 
 <nav id="{{ page.title }}">
 	<a id="home" title="{{ site.name }}" href="{{ site.baseurl }}/">╳</a>
