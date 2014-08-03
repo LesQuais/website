@@ -36,6 +36,10 @@ p + ul {
 	margin-top: -1em;
 }
 
+.legend p:first-child {
+	margin-top: .3em;
+}
+
 
 #prolongements h1 {
 	font-size: 620%;
