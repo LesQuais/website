@@ -58,18 +58,19 @@ Nous remercions le Principal et l'ensemble du personnel pour leur accompagnement
 Le Musée Ciotaden à La Ciotat
 ---------------------------------------
 
-Jean-Pierre Jouen, Président des Amis du Vieux La Ciotat, nous a soutenu dans nos recherches de documents et nous a gracieusement offert les droits de reproduction des images provenant des [archives du musée](http://www.museeciotaden.org).\\
-Le musée possède de nombreuses maquettes de navires construits aux Chantiers Navals de La Ciotat et bien d'autres curiosités. Il se trouve sur le Quai Ganteaume en face de l'office de tourisme.\\
+Jean-Pierre Jouen, Président des Amis du Vieux La Ciotat, nous a soutenu dans nos recherches de documents et nous a gracieusement offert les droits de reproduction des images provenant des [archives du musée](http://www.museeciotaden.org).
+
+Le musée possède de nombreuses maquettes de navires construits aux Chantiers Navals de La Ciotat et bien d'autres curiosités. Il se trouve sur le Quai Ganteaume en face de l'office de tourisme.
 
 La CCI (Chambre de Commerce et d'Industrie) à Marseille
 ---------------------------------------
 
-La [CCI](http://www.ccimp.com/ccimp/connaitre/groupe/musee-marine-marseille) possède un important fonds photographique sur les bateaux construits à La Ciotat. Nous remercions particulièrement François Jonniaux pour sa disponibilité et son aide à la recherche.
+La [CCI de Marseille](http://www.ccimp.com/ccimp/connaitre/groupe/musee-marine-marseille) possède un important fonds photographique sur les bateaux construits à La Ciotat. Nous remercions particulièrement François Jonniaux pour sa disponibilité et son aide à la recherche.
 
 
 Les Messageries Maritimes
 ---------------------------------
 
-Le livre de Jean-Claude Rihal&nbsp;: La Ciotat des Messageries Maritimes aux C.N.C., paru en 2008, et les sites sur les [Messageries Maritimes](http://www.messageries.martitmes.org) et [French Lines](http://www.frenchlines.com) ont été une source précieuse d'informations et d'images tout le long de nos recherches sur les bateaux construits dans les chantiers de La Ciotat.
+Le livre de Jean-Claude Rihal&nbsp;: La Ciotat des Messageries Maritimes aux C.N.C., paru en 2008, et les sites des [Messageries Maritimes](http://www.messageries.martitmes.org) et [French Lines](http://www.frenchlines.com) ont été une source précieuse d'informations et d'images tout au long de nos recherches sur les bateaux construits dans les chantiers de La Ciotat.
 
 
