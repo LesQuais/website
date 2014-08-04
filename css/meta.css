@@ -44,6 +44,10 @@ p + ul {
 	margin-bottom: 2em;
 }
 
+#home img {
+	width: 1.5em;
+}
+
 
 #prolongements h1 {
 	font-size: 620%;
