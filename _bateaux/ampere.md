@@ -48,7 +48,7 @@ out_navire2.jpg/navire2.jpg
 {% legend %}
 L'Ampère sur la cale de construction, puis un lancement avec foie gras, croustade d'aiguillettes de caneton et grands vins au menu&nbsp;!!
 
-Photographies et doument&nbsp;: archives du Musée Ciotaden, La Ciotat.
+Photographies et document&nbsp;: archives du Musée Ciotaden, La Ciotat.
 {% endlegend %}
 
 
@@ -67,7 +67,7 @@ out_cartecable.jpg/cartecable.jpg
 {% legend %}
 Ces images montrent différentes activités sur un câblier et une carte du réseau des câbles français et étrangers, qui sillonnent les fonds de la Méditerranée occidentale, et qui se déroulent vers les fonds atlantiques.
 
-Tous les documents&nbsp;: publiés dans la revue _L’Illustration_ N°&nbsp;4670 du 3 septembre 1932.
+Tous les documents&nbsp;: publiés dans la revue _L’Illustration_ numéro&nbsp;4670 du 3 septembre 1932.
 {% endlegend %}
 
 

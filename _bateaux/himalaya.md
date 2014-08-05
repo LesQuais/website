@@ -89,7 +89,7 @@ feuH.jpg
 {% enddiaporama %}
 
 {% legend %}
-À 2h15, une explosion se produit à bâbord vers l'avant dans une cale chargée de munition. Tout l'avant prend feu et à 2h50 le navire disparait et entraîne 36 personnes.
+À 2h15, une explosion se produit à bâbord vers l'avant dans une cale chargée de munition. Tout l'avant prend feu, et à 2h50 le navire disparaît et entraîne 36 personnes.
 
 Carte&nbsp;: collection Hetzel/Schneider
 

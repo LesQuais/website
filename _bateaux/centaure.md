@@ -17,7 +17,7 @@ oldcentaure.jpg
 {% legend %}
 La représentation de la figure mythologique du centaure par trois artistes de différentes époques.
 
-_Centaure_ de Girma Kefle Meskal (Ethiopie), dimensions&nbsp;: 23.5 x 34&nbsp;cm, acrylique sur parchemin. Collection privée.\\
+_Centaure_ de Girma Kefle Meskal (Ethiopie), dimensions&nbsp;: 23,5 x 34&nbsp;cm, acrylique sur parchemin. Collection privée.\\
 _Centaure et Centauresse_ d'Odilon Redon, env. 1885/1890, 36,5 × 34&nbsp;cm, charbon sur papier. Collection privée.\\
 _Le Centaure chevauché par l'Amour_, œuvre romaine du Iᵉ - IIᵉ siècle après J.-C., découvert à Rome au XVIIᵉ siècle, marbre, hauteur 1,47&nbsp;m, longueur 1,07&nbsp;m. Musée du Louvre, Paris.
 {% endlegend %}

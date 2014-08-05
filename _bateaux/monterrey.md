@@ -17,7 +17,7 @@ ville2.jpg
 {% legend %}
 Le nom du bateau vient de la ville Monterrey située dans le nord-est du Mexique. Elle a 1,1 million d'habitants et on la surnomme la ville des montages.
 
-Monterrey entre el Obispado y el Cerro de la Silla 1904&nbsp;; Elizabeth Visere McGary “An American Girl in Mexico”&nbsp;; Dodd, Mead & co, 1904, New York&nbsp;; source&nbsp;: [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page?uselang=fr).\\
+Monterrey entre el Obispado y el Cerro de la Silla 1904&nbsp;; Elizabeth Visere McGary _An American Girl in Mexico_&nbsp;; Dodd, Mead & co, 1904, New York&nbsp;; source&nbsp;: [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page?uselang=fr).\\
 Vue nocturne&nbsp;: [Cody Seekins](http://www.codyseekins.com).\\
 Vue diurne&nbsp;: auteur non renseigné&nbsp;, source&nbsp;: [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page?uselang=fr).
 {% endlegend %}
@@ -53,7 +53,8 @@ journal4.jpg
 {% legend %}
 La construction du navire débutée à La Ciotat, s'est terminée dans le port de la Spezia en Italie.
 
-Photographies d'un article paru dans un magazine. Toutes les images&nbsp;: archives du Musée Ciotaden à La Ciotat.
+Photographies d'un article paru dans un magazine.\\
+Source&nbsp;: archives du Musée Ciotaden, La Ciotat.
 {% endlegend %}
 
 1988
@@ -68,7 +69,7 @@ journal3.jpg
 {% enddiaporama %}
 
 {% legend %}
-Un article du mensuel Marseille du mois de février 1988 fait part de la volonté des ouvriers des Chantiers de se battre contre la fermeture définitive. Depuis les licenciements massifs commencés en 1986, les ouvriers sont en grève et organisent de nombreuses manifestations. Par la suite, des milliers d'hommes vont perdre leur travail.
+Un article du mensuel _Marseille_ du mois de février 1988 fait part de la volonté des ouvriers des Chantiers de se battre contre la fermeture définitive. Depuis les licenciements massifs commencés en 1986, les ouvriers sont en grève et organisent de nombreuses manifestations. Par la suite, des milliers d'hommes vont perdre leur travail.
 
 Source&nbsp;: archives du Musée Ciotaden, La Ciotat.
 {% endlegend %}

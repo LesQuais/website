@@ -19,8 +19,8 @@ out_jeu.jpg/jeu.jpg
 Dans la mythologie, les Amazones sont un peuple de femmes guerrières résidant sur les rives de la mer Noire. Les légendes et récits sont très nombreux à leur propos. Elles sont fréquemment représentées dans des bandes dessinées ou des films d’animation.
 
 _Amazone 10.3.59 XIIIᵉ_ de Pablo Picasso, © Succession Picasso 2014, lithographie dans _Toros et Toreros_.\\
-_Les amazones guerrières du Dahomey_ (actuel Benin), photographiées en 1890, New York Public Library. Source&nbsp;: Wikipédia Commons.\\
-_Héroine Amazone_, image issue du jeu Heroes of Annihilated Empires. Source&nbsp;: Wikipédia.
+_Les amazones guerrières du Dahomey_ (actuel Benin), photographiées en 1890, New York Public Library. Source&nbsp;: [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page?uselang=fr).\\
+_Héroine Amazone_, image issue du jeu _Heroes of Annihilated Empires_. Source&nbsp;: Wikipédia.
 {% endlegend %}
 
 {% diaporama amazonie %}
@@ -37,8 +37,8 @@ deforestation.jpg
 L'Amazonie est une vaste région de l’Amérique du Sud. Il s’agit d’une plaine couverte de forêt qui s’articule autour du plus long fleuve de la planète Amazone et des ses affluents. Cette région est aujourd'hui dévastée par la déforestation.
 
 Depuis sa source dans les Andes péruviennes, le fleuve parcourt 6000&nbsp;km avant de se jeter dans l'Atlantique.\\
-Le paysage d'Amazonie à l'ouest de Manaus. Photographie de LecomteB, 2009.\\
-La déforestation vue depuis un satellite. Les routes tracées dans la forêt suivent un motif caractéristique en «&nbsp;arêtes de poisson&nbsp;». Fichier provenant de la NASA. Toutes les images&nbsp;: [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page?uselang=fr).
+Le paysage d'Amazonie à l'ouest de Manaus. Photographie&nbsp;: LecomteB, 2009.\\
+La déforestation vue depuis un satellite. Les routes tracées dans la forêt suivent un motif en «&nbsp;arêtes de poisson&nbsp;». Fichier provenant de la NASA. Toutes les images&nbsp;: [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page?uselang=fr).
 
 {% endlegend %}
 
@@ -69,7 +69,7 @@ mer.jpg
 Les deux photographies de l'aménagement intérieur de l'Amazone témoignent de la différence nette entre la première et la seconde classe, mais aussi du soin apporté aux détails et de l'ingéniosité de l'organisation de l'espace.
 
 Les intérieurs&nbsp;: archives de la CCI Marseille-Provence.\\
-Carte postale&nbsp;: édition H. Grimaud, 54 Rue Mazenod, Marseille.
+Carte postale&nbsp;: édition H. Grimaud, Marseille.
 {% endlegend %}
 
 
@@ -124,8 +124,8 @@ rimbaud.jpg
 > Moi, l'autre hiver, plus sourd que les cerveaux d'enfants,\\
 > Je courus ! Et les Péninsules démarrées\\
 > N'ont pas subi tohu-bohus plus triomphants.
->
-> (3 premières strophes du poème _Le Bateau ivre_ écrit par Arthur Rimbaud en 1871)
+
+(3 premières strophes du poème _Le Bateau ivre_ écrit par Arthur Rimbaud en 1871)
 
 Dessin du poète Arthur Rimbaud mourant réalisé à l'hôpital de Marseille par sa sœur Isabelle.\\
 Source&nbsp;: [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page?uselang=fr).
