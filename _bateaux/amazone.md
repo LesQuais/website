@@ -7,9 +7,9 @@ boat_over_bg: true
 
 {% diaporama lesamazones %}
 
-out_picasso.jpg/picasso.jpg
+picasso.jpg
 
-out_dahomey.jpg/dahomey.jpg
+dahomey.jpg
 
 out_jeu.jpg/jeu.jpg
 
@@ -25,11 +25,11 @@ _Héroine Amazone_, image issue du jeu Heroes of Annihilated Empires. Source&nbs
 
 {% diaporama amazonie %}
 
-out_fleuve.jpg/fleuve.jpg
+fleuve.jpg
 
-out_foret.jpg/foret.jpg
+foret.jpg
 
-out_deforestation.jpg/deforestation.jpg
+deforestation.jpg
 
 {% enddiaporama %}
 
@@ -57,11 +57,11 @@ Lancement du navire pour la ligne d’Extrême Orient, construit spécialement p
 
 out_escalier.jpg/escalier.jpg
 
-out_cabine.jpg/cabine.jpg
+cabine.jpg
 
-out_amlancement.jpg/amlancement.jpg
+amlancement.jpg
 
-out_mer.jpg/mer.jpg
+mer.jpg
 
 {% enddiaporama %}
 
@@ -139,7 +139,7 @@ L’Amazone est démoli à Marseille
 
 {% diaporama plan %}
 
-out_plans.jpg/plans.jpg
+plans.jpg
 
 {% enddiaporama %}
 

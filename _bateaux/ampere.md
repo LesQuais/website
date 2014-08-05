@@ -34,11 +34,11 @@ Lancement. Fait rare, le navire refusa de glisser après sa libération. Il glis
 
 {% diaporama navireAmp %}
 
-out_construction.jpg/construction.jpg
+construction.jpg
 
 out_menuAmp.jpg/menuAmp.jpg
 
-out_navire1.jpg/navire1.jpg
+navire1.jpg
 
 out_navire2.jpg/navire2.jpg
 
@@ -56,7 +56,7 @@ Photographies et doument&nbsp;: archives du Musée Ciotaden, La Ciotat.
 
 out_article.jpg/article.jpg
 
-out_rond.jpg/rond.jpg
+rond.jpg
 
 out_cable.jpg/cable.jpg
 

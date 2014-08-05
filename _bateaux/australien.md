@@ -7,13 +7,13 @@ boat_over_bg: true
 
 {% diaporama aborigene %}
 
-out_aborig1.jpg/aborig1.jpg
+aborig1.jpg
 
 out_aborig2.jpg/aborig2.jpg
 
 out_aborig3.jpg/aborig3.jpg
 
-out_aborig4.jpg/aborig4.jpg
+aborig4.jpg
 
 out_aborig5.jpg/aborig5.jpg
 
@@ -59,9 +59,9 @@ Paul Gauguin embarque à Marseille pour son dernier voyage. Il arrive à Sydney 
 
 {% diaporama gaugin %}
 
-out_gaugin1.jpg/gaugin1.jpg
+gaugin1.jpg
 
-out_gaugin2.jpg/gaugin2.jpg
+gaugin2.jpg
 
 out_gaugin3.jpg/gaugin3.jpg
 
@@ -83,11 +83,11 @@ Réquisitionné comme navire auxiliaire. Il effectuera des transports de troupes
 
 {% diaporama navire %}
 
-out_phare.jpg/phare.jpg
+phare.jpg
 
-out_navireaus.jpg/navireaus.jpg
+navireaus.jpg
 
-out_navireaus_txt.jpg/navireaus_txt.jpg
+navireaus_txt.jpg
 «&nbsp;Après 42 jours de traversée arrivé Marseille, il fait froid. Bonjour à vos parents et à Victor. Abel&nbsp;» (qui rentre du Tonkin).
 
 out_menu1910.jpg/menu1910.jpg
