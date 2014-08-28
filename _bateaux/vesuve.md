@@ -18,7 +18,7 @@ out_eruption.jpg/eruption.jpg
 {% enddiaporama %}
 
 {% legend %}
-Le mont Vésuve est un volcan italien d'une hauteur de 1281 m bordant la baie de Naples. Il s'agit du seul volcan d'Europe continentale à être entré en éruption durant les cent dernières années, même s'il est actuellement en sommeil. Sa dernière éruption date de 1944. Sous ses cendres sont enfouis les villes de Pompéi, Herculanum, Oplontis et Stabies. Ensevelies en l’an 79 et conservées jusqu'à nos jours, leur fouille a révélé le quotidien des Romains et marqué un tournant dans notre compréhension de la civilisation latine.
+Le mont Vésuve est un volcan italien d'une hauteur de 1{%nnbsp%}281 m bordant la baie de Naples. Il s'agit du seul volcan d'Europe continentale à être entré en éruption durant les cent dernières années, même s'il est actuellement en sommeil. Sa dernière éruption date de 1{%nnbsp%}944. Sous ses cendres sont enfouis les villes de Pompéi, Herculanum, Oplontis et Stabies. Ensevelies en l’an 79 et conservées jusqu'à nos jours, leur fouille a révélé le quotidien des Romains et marqué un tournant dans notre compréhension de la civilisation latine.
 
 Chromo&nbsp;: collection Hetzel/Schneider.\\
 Photographie de 1892&nbsp;: port de Naples avec le Vésuve en arrière-plan, bibliothèque de Toulouse, fonds Trutat.\\

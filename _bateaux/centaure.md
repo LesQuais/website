@@ -43,7 +43,7 @@ construction3.jpg
 {% enddiaporama %}
 
 {% legend %}
-Ce navire a une hélice entrainée par une turbine de 20000 chevaux vapeur. On voit ici l'impressionnante salle des machines, puis différentes étapes de sa construction.
+Ce navire a une hélice entrainée par une turbine de 20{%nnbsp%}000 chevaux vapeur. On voit ici l'impressionnante salle des machines, puis différentes étapes de sa construction.
 
 Photographie de la salle des machines&nbsp;: archives de la CCI Marseille-Provence.\\
 Photographies de la construction du Centaure &nbsp;: archives du Musée Ciotaden, La Ciotat.

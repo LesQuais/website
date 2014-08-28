@@ -14,13 +14,13 @@ alpinistes.jpg
 {% enddiaporama %}
 
 {% legend %}
-Reinhold Messner, né le 17 septembre 1944 dans le Tyrol du Sud, est un alpiniste italien, considéré par beaucoup comme l'un des meilleurs du 20ᵉ siècle. Il est réputé pour avoir réalisé la première ascension en solitaire de l’Everest (8848&nbsp;m) sans apport d'oxygène, et pour être le premier à avoir gravi les quatorze sommets de plus de 8000 mètres.
+Reinhold Messner, né le 17 septembre 1944 dans le Tyrol du Sud, est un alpiniste italien, considéré par beaucoup comme l'un des meilleurs du 20ᵉ siècle. Il est réputé pour avoir réalisé la première ascension en solitaire de l’Everest (8{%nnbsp%}848&nbsp;m) sans apport d'oxygène, et pour être le premier à avoir gravi les quatorze sommets de plus de 8{%nnbsp%}000 mètres.
 
 Reinhold Messner au Château Juval (Tyrol du Sud) en août 2012. Auteur&nbsp;: Vale93b&nbsp;; source&nbsp;: [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page?uselang=fr).\\
 Alpinistes au sommet Ortler (Italie), fonds Reinhold Messner, König Ortler, auteur&nbsp;: Edward Theodore Compton (1849-1921), source &nbsp; [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page?uselang=fr).
 {% endlegend %}
 
-Le navire tient son nom d’une chaîne de montagne située entre l’Inde et le Tibet dans le sud de l’Asie. L'Himalaya, de la langue sanskrit «&nbsp;demeure des neiges&nbsp;», abrite les plus hautes montagnes du monde, soit les 14 sommets qui culminent à plus de 8000 mètres d’altitude dont le mont Everest, le plus haut de tous.
+Le navire tient son nom d’une chaîne de montagne située entre l’Inde et le Tibet dans le sud de l’Asie. L'Himalaya, de la langue sanskrit «&nbsp;demeure des neiges&nbsp;», abrite les plus hautes montagnes du monde, soit les 14 sommets qui culminent à plus de 8{%nnbsp%}000 mètres d’altitude dont le mont Everest, le plus haut de tous.
 
 
 {% diaporama sommets, large %}
@@ -73,9 +73,9 @@ Effectue quelques voyages vers Madagascar et La Nouvelle Orléans.
 1916
 ----
 
-Transporte avec le navire Sontay 11420 soldats russes, affectés au front français,
+Transporte avec le navire Sontay 11{%nnbsp%}420 soldats russes, affectés au front français,
 de Dalny à Marseille, puis le contingent sénégalais de Dakar pour la France.
-Il transporte également 20000 Chinois, 25000 Annamites et Tonkinois de Chine vers la France pour couvrir le besoin de main d’œuvre de l'industrie de guerre.
+Il transporte également 20{%nnbsp%}000 Chinois, 25{%nnbsp%}000 Annamites et Tonkinois de Chine vers la France pour couvrir le besoin de main d’œuvre de l'industrie de guerre.
 
 1917
 ----

@@ -36,7 +36,7 @@ deforestation.jpg
 {% legend %}
 L'Amazonie est une vaste région de l’Amérique du Sud. Il s’agit d’une plaine couverte de forêt qui s’articule autour du plus long fleuve de la planète Amazone et des ses affluents. Cette région est aujourd'hui dévastée par la déforestation.
 
-Depuis sa source dans les Andes péruviennes, le fleuve parcourt 6000&nbsp;km avant de se jeter dans l'Atlantique.\\
+Depuis sa source dans les Andes péruviennes, le fleuve parcourt 6{%nnbsp%}000&nbsp;km avant de se jeter dans l'Atlantique.\\
 Le paysage d'Amazonie à l'ouest de Manaus. Photographie&nbsp;: LecomteB, 2009.\\
 La déforestation vue depuis un satellite. Les routes tracées dans la forêt suivent un motif en «&nbsp;arêtes de poisson&nbsp;». Fichier provenant de la NASA. Toutes les images&nbsp;: [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page?uselang=fr).
 
