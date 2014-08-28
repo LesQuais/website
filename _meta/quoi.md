@@ -68,13 +68,13 @@ Nous avons choisi de décliner le mot «&nbsp;traversée&nbsp;» dans trois acce
 - et enfin au sens métaphorique de dépassement.
 
 
-### TRAVERSER (percer de part en part)
+### Traverser (percer de part en part)
 
 Le support principal de l’œuvre est la lumière. Elle s’est imposée à nous en résonance avec l’architecture du collège, ses larges baies vitrées sous les voûtes, les perspectives que la cour et l’entrée laissent sur l’espace urbain et le paysage.\\
 En choisissant des sources et des qualités de lumières différentes, et en les disposant à plusieurs endroits différents, cette œuvre proposera une présence rayonnante autant diurne que nocturne de l’espace du collège. Sa jouissance n’est pas réservée aux élèves et aux enseignants.
 
 
-### TRAVERSÉE (le parcours du temps et de l’espace)
+### Traversée (le parcours du temps et de l’espace)
 
 Nous avons retenus des noms de bateaux construits aux Chantiers navals au 19e et au 20e siècles. Ils sont par métonymie l’évocation des voyages, du commerce, de l’échange, et le symbole du travail collectif et de l’histoire récente de la ville. Chacun de ces navires marque un moment singulier des Chantiers Navals, et souvent de l’histoire, grande ou petite…\\
 Il s’agit des noms porteurs d’un sens toujours actuel&nbsp;: évocateurs de lieux (Amazone, Monterrey, Vésuve), de personnalité (Ampère) ou encore de figure mythique&nbsp;: Centaure.
@@ -82,7 +82,7 @@ Il s’agit des noms porteurs d’un sens toujours actuel&nbsp;: évocateurs de 
 Pour rappeler qu’il s’agissait de navires construits aux Chantiers, et non pas des noms vagues, nous ajoutons la longueur des navires. Ces chiffres indiquent à la fois le volume matériel qu’occupait un navire en construction dans une cale du port de la ville, mais interpelle aussi la fantaisie qui pourrait jaillir d’une association d’un nom de lieu rattaché à une dimension irréaliste.
 
 
-### TRAVERSER (le dépassement)
+### Traverser (le dépassement)
 
 Pour évoquer enfin la communauté humaine et le dépassement du soi qu’elle suppose, nous avons ajouté quatre mots qui nous semblent porteur d’un sens fort pour les collégiens et la communauté éducative&nbsp;: (se) construire, l’amitié, s’élever, l’humanité.\\
 S’élever renvoie tout particulièrement au rôle que Freinet donnait à l’enseignement&nbsp; «&nbsp;l’humanité&nbsp;» évoque le souvenir de Jean Jaurès, et nous semble si juste dans le contexte d’un collège&nbsp;: communauté engagée dans la construction, l’échange, le partage, la mise au jour des futurs citoyens, «&nbsp;l’humanité&nbsp;» est un projet sans fin.
