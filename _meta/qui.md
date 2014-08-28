@@ -71,6 +71,4 @@ La [CCI de Marseille](http://www.ccimp.com/ccimp/connaitre/groupe/musee-marine-m
 Les Messageries Maritimes
 ---------------------------------
 
-Le livre de Jean-Claude Rihal&nbsp;: La Ciotat des Messageries Maritimes aux C.N.C., paru en 2008, et les sites des [Messageries Maritimes](http://www.messageries.martitmes.org) et [French Lines](http://www.frenchlines.com) ont été des sources précieuses d'informations et d'images tout au long de nos recherches sur les bateaux construits dans les chantiers de La Ciotat.
-
-
+Le livre de Jean-Claude Rihal&nbsp;: La Ciotat des Messageries Maritimes aux C.N.C., paru en 2008, et les sites des [Messageries Maritimes](http://www.messageries-maritimes.org) et [French Lines](http://www.frenchlines.com) ont été des sources précieuses d'informations et d'images tout au long de nos recherches sur les bateaux construits dans les chantiers de La Ciotat.
