@@ -55,7 +55,7 @@ out_bateau.jpg/bateau.jpg
 {% legend %}
 À voir le détail de cette hélice, on imagine la force nécessaire de la part des ouvriers pour manipuler, déplacer et caler les différents éléments du bateau.
 
-Hélice sur le pont&nbsp;: archives de la CCI Marseille-Provence.\\
+Hélice sur le pont&nbsp;: Collection de la CCI Marseille-Provence.\\
 Lancement et carte postale&nbsp;: archives du Musée Ciotaden, La Ciotat.
 {% endlegend %}
 

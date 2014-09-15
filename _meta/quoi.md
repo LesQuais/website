@@ -10,6 +10,8 @@ L'œuvre
 
 mur.jpg
 
+noms.jpg
+
 phoceen.jpg
 
 himalaya.jpg
@@ -18,25 +20,23 @@ vesuve.jpg
 
 escalier.jpg
 
-nuit1.jpg
+out_cour.jpg/cour.jpg
 
 elever.jpg
 
-out_cour.jpg/cour.jpg
+detail.jpg
 
 humanite.jpg
 
+nuit1.jpg
+
 nuit2.jpg
-
-detail.jpg
-
-noms.jpg
 
 {% enddiaporama %}
 
 {% legend %}
 
-Il s'agit d'une installation lumineuse qui prend comme source des noms de bateaux construits aux Chantiers Navals de La Ciotat. Chaque nom a été choisi pour son pouvoir évocateur auprès des élèves qui n'ont pas connu cette époque d'activité industrielle de la ville.
+Il s'agit d'une installation lumineuse qui prend comme source des noms de bateaux construits aux Chantiers Navals de La Ciotat. Chaque nom a été choisi pour son pouvoir évocateur auprès des élèves qui n'ont pas connu cette époque d'activité industrielle de la ville. La réalisation de cette œuvre s'est achevée en juillet 2014. 
 
 Collège Jean Jaurès à La Ciotat.\\
 Photographies de Suzanne Hetzel.
@@ -50,7 +50,7 @@ Le projet
 Sous le titre **Les quais**, notre proposition artistique réunit les mouvements alternés d’accostage et de départ qui rythment toute navigation. Terres nouvelles, escales connues et familières, port d’attache, éloignement des repères et approche des atterrages, nous souhaitons susciter ces émotions en les associant à la fréquentation du collège pendant quatre ans par des personnalités en pleine transformation.
 
 
-Cette œuvre donne un rôle essentiel aux mots et aux sens multiples qu’ils véhiculent. Le collège est un moment où l’on quitte l’enfance, sans être encore fait. Le langage tient dans cette traversée une place toute particulière&nbsp;: celui des jeunes adolescents où les mots recomposent les territoires des amitiés, des sentiments, marquent les communautés du conformisme ou des ruptures&nbsp;; celui des langues étrangères qui ouvrent des horizons &nbsp;; celui de notre propre langue au travers de la littérature et de la poésie.\\
+Cette œuvre donne un rôle essentiel aux mots et aux sens multiples qu’ils véhiculent. Le collège est un moment où l’on quitte l’enfance, sans être encore fait. Le langage tient dans cette traversée une place toute particulière&nbsp;: celui des jeunes adolescents où les mots recomposent les territoires des amitiés, des sentiments, marquent les communautés du conformisme ou des ruptures&nbsp;; celui des langues étrangères qui ouvrent des horizons&nbsp;; celui de notre propre langue au travers de la littérature et de la poésie.\\
 Les quais donne aussi une place première à la lumière comme médium. Les mots que nous avons choisis sont visibles de jour, de nuit, et se mêlent aux variations du jour, puisque les installations sont visibles depuis l’extérieur. À l’instar d’un phare, elles projettent la présence de l’espace architectural vers la ville, elles orientent l’espace nocturne par leurs lueurs.
 
 
@@ -76,7 +76,7 @@ En choisissant des sources et des qualités de lumières différentes, et en les
 
 ### Traversée (le parcours du temps et de l’espace)
 
-Nous avons retenus des noms de bateaux construits aux Chantiers navals au 19e et au 20e siècles. Ils sont par métonymie l’évocation des voyages, du commerce, de l’échange, et le symbole du travail collectif et de l’histoire récente de la ville. Chacun de ces navires marque un moment singulier des Chantiers Navals, et souvent de l’histoire, grande ou petite…\\
+Nous avons retenus des noms de bateaux construits aux Chantiers navals au 19ᵉ et au 20ᵉ siècles. Ils sont par métonymie l’évocation des voyages, du commerce, de l’échange, et le symbole du travail collectif et de l’histoire récente de la ville. Chacun de ces navires marque un moment singulier des Chantiers Navals, et souvent de l’histoire, grande ou petite…\\
 Il s’agit des noms porteurs d’un sens toujours actuel&nbsp;: évocateurs de lieux (Amazone, Monterrey, Vésuve), de personnalité (Ampère) ou encore de figure mythique&nbsp;: Centaure.
 
 Pour rappeler qu’il s’agissait de navires construits aux Chantiers, et non pas des noms vagues, nous ajoutons la longueur des navires. Ces chiffres indiquent à la fois le volume matériel qu’occupait un navire en construction dans une cale du port de la ville, mais interpelle aussi la fantaisie qui pourrait jaillir d’une association d’un nom de lieu rattaché à une dimension irréaliste.
@@ -85,7 +85,7 @@ Pour rappeler qu’il s’agissait de navires construits aux Chantiers, et non p
 ### Traverser (le dépassement)
 
 Pour évoquer enfin la communauté humaine et le dépassement du soi qu’elle suppose, nous avons ajouté quatre mots qui nous semblent porteur d’un sens fort pour les collégiens et la communauté éducative&nbsp;: (se) construire, l’amitié, s’élever, l’humanité.\\
-S’élever renvoie tout particulièrement au rôle que Freinet donnait à l’enseignement&nbsp; «&nbsp;l’humanité&nbsp;» évoque le souvenir de Jean Jaurès, et nous semble si juste dans le contexte d’un collège&nbsp;: communauté engagée dans la construction, l’échange, le partage, la mise au jour des futurs citoyens, «&nbsp;l’humanité&nbsp;» est un projet sans fin.
+S’élever renvoie tout particulièrement au rôle que Célestin Freinet donnait à l’enseignement. «&nbsp;L’humanité&nbsp;» évoque le souvenir de Jean Jaurès et nous semble si juste dans le contexte d’un collège&nbsp;: communauté engagée dans la construction, l’échange, le partage, la mise au jour des futurs citoyens. «&nbsp;L’humanité&nbsp;» est un projet sans fin.
 
 
 Ainsi, nous comprenons «&nbsp;la traversée&nbsp;» comme un mouvement qui partirait de l’œuvre pour rejoindre une histoire plus grande, qui porte espoir pour le futur. Elle renvoie par exemple à l’histoire des techniques, du travail, de l’industrie, telle qu’elle s’incarne dans l’espace urbain de la Ciotat et dans la mémoire de ses habitants. Elle évoque le commerce, l’échange, les voyages, l’étranger. Elle invite à réfléchir à ce qu’est apprendre, travailler, former une communauté aujourd’hui.

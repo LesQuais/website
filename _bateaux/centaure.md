@@ -45,7 +45,7 @@ construction3.jpg
 {% legend %}
 Ce navire a une hélice entrainée par une turbine de 20{%nnbsp%}000 chevaux vapeur. On voit ici l'impressionnante salle des machines, puis différentes étapes de sa construction.
 
-Photographie de la salle des machines&nbsp;: archives de la CCI Marseille-Provence.\\
+Photographie de la salle des machines&nbsp;: Collection de la CCI Marseille-Provence.\\
 Photographies de la construction du Centaure &nbsp;: archives du Musée Ciotaden, La Ciotat.
 {% endlegend %}
 
@@ -74,7 +74,7 @@ Carte&nbsp;: collection Hetzel/Schneider.
 
 {% endlegend %}
 
-Il assure la ligne du golfe Persique, puis effectue des livraisons entre le golfe et le Japon.
+Il assure la ligne du golfe Persique, puis effectue des livraisons entre le Golfe et le Japon.
 
 {% diaporama navireC %}
 
@@ -87,9 +87,9 @@ navire2.jpg
 {% enddiaporama %}
 
 {% legend %}
-L'aménagement du «&nbsp;:Carré des affaires&nbsp;:» est dans un style contemporain de l'époque de la construction du bateau.
+L'aménagement du «&nbsp;Carré des officiers&nbsp;» est dans un style contemporain de l'époque de la construction du bateau.
 
-Photographie du carré des affaires&nbsp;: archives de la CCI de Marseille-Provence.
+Photographie du carré des officiers&nbsp;: Collection de la CCI de Marseille-Provence.
 Photographies des navires&nbsp;: archives du Musée Ciotaden, La Ciotat.
 {% endlegend %}
 

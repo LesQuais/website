@@ -18,7 +18,7 @@ out_jeu.jpg/jeu.jpg
 {% legend %}
 Dans la mythologie, les Amazones sont un peuple de femmes guerrières résidant sur les rives de la mer Noire. Les légendes et récits sont très nombreux à leur propos. Elles sont fréquemment représentées dans des bandes dessinées ou des films d’animation.
 
-_Amazone 10.3.59 XIIIᵉ_ de Pablo Picasso, © Succession Picasso 2014, lithographie dans _Toros et Toreros_.\\
+_Amazone, 10.3.59 XIII_ de Pablo Picasso, © Succession Picasso 2014, lithographie dans _Toros et Toreros_.\\
 _Les amazones guerrières du Dahomey_ (actuel Benin), photographiées en 1890, New York Public Library. Source&nbsp;: [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page?uselang=fr).\\
 _Héroine Amazone_, image issue du jeu _Heroes of Annihilated Empires_. Source&nbsp;: Wikipédia.
 {% endlegend %}
@@ -68,7 +68,7 @@ mer.jpg
 {% legend %}
 Les deux photographies de l'aménagement intérieur de l'Amazone témoignent de la différence nette entre la première et la seconde classe, mais aussi du soin apporté aux détails et de l'ingéniosité de l'organisation de l'espace.
 
-Les intérieurs&nbsp;: archives de la CCI Marseille-Provence.\\
+Les intérieurs&nbsp;: Collection de la CCI Marseille-Provence.\\
 Carte postale&nbsp;: édition H. Grimaud, Marseille.
 {% endlegend %}
 
