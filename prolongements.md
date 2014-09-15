@@ -86,8 +86,6 @@ On pourra évoquer, au travers des enseignes Amazone et Centaure, les animaux pr
 
 À télécharger
 ------------------
-Un [diaporama] de photographies anciennes des navires construits à La Ciotat, utilisés par l'œuvre Les quais.
+Un [diaporama](/images/prolongements/diaporama.pdf) de photographies anciennes des navires construits à La Ciotat, utilisés par l'œuvre Les quais.
 
 [Plans vectorisés] de construction des enseignes.
-
-
