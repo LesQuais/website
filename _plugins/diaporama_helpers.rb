@@ -7,11 +7,11 @@
 
 
 module Fotorama
-	def self.render(page_id, diaporama_name, user_data, additional_classes = '')
+	def self.render(page_id, diaporama_name, user_data, additional_classes = '', lazy_load_all = true)
 		classes = 'fotorama ' + additional_classes
 		result = '<div class="' + classes.strip + '" data-nav="none" data-allowfullscreen="native" data-fit="scaledown" data-transition="slide" data-loop="true" data-width="100%" data-maxheight="100%">' # see usage of data attributes at http://fotorama.io/customize/
 
-		result << '<img src="'
+		result << (lazy_load_all ? '<a href="' : '<img src="')
 
 		user_data.each do |filenames, caption|
 			filename = filenames[0]
