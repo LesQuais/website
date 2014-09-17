@@ -41,6 +41,14 @@ layout: default
 	</nav>
 </div>
 
+<script type="text/javascript">
+	// inline to avoid FOUC
+	var spacer = document.getElementById('spacer');
+
+	spacer.style.height = window.innerHeight + 'px';
+	window.scrollTo(0, spacer.offsetTop);
+</script>
+
 <div id="below">
 	{{ page.below | markdownify }}
 </div>

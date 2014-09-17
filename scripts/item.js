@@ -1,17 +1,15 @@
 window.onload = function() {
 	var under	= document.getElementById('under'),
 		over	= document.getElementById('over'),
-		above	= document.getElementById('above')
-		spacer	= document.getElementById('spacer');
+		above	= document.getElementById('above');
 
-	spacer.style.height = window.innerHeight + 'px';
+	function scrollHandler() {
+		under.style.top	= ((above.clientHeight - window.scrollY) / 1.5) + 'px';
+		over.style.top	= ((above.clientHeight - window.scrollY) / 1.25) + 'px';
+	}
+
+	window.addEventListener('scroll', scrollHandler);
 
 	under.style.position = 'fixed';
-
-	window.addEventListener('scroll', function() {
-		under.style.top = ((above.clientHeight - window.scrollY) / 1.5) + 'px';
-		over.style.top = ((above.clientHeight - window.scrollY) / 1.25) + 'px';
-	});
-
-	window.scrollTo(0, spacer.offsetTop);
+	scrollHandler();
 }
