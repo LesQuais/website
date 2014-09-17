@@ -10,6 +10,5 @@ window.onload = function() {
 
 	window.addEventListener('scroll', scrollHandler);
 
-	under.style.position = 'fixed';
 	scrollHandler();
 }
