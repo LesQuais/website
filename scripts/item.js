@@ -1,4 +1,7 @@
 window.onload = function() {
+	if (window.innerWidth < 768)	// too small for the effect to be visible, and this is a small device so with limited computing power, will be terribly sluggish
+		return;
+
 	var under	= document.getElementById('under'),
 		over	= document.getElementById('over'),
 		above	= document.getElementById('above'),
