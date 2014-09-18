@@ -2,23 +2,6 @@
 layout: default
 ---
 
-<link rel="stylesheet" type="text/css" href="../css/boat.css">
-
-<style>
-	#below, h1 {
-		color: {{ page.color }};
-	}
-
-	#above, #right:hover, #left:hover {
-		background-color: {{ page.color }};
-	}
-{% if page.text-above-color %}
-	#above, #above .legend {
-		color: {{ page.text-above-color }};
-	}
-{% endif %}
-</style>
-
 {% capture page_id %}{% if page.id %}{{ page.id }}{% else %}{{ page.title | downcase }}{% endif %}{% endcapture %}
 
 <div id="above">
@@ -40,6 +23,14 @@ layout: default
 		<a id="home" title="Retour à la page d'accueil" href="{{ site.baseurl }}/"><img src="../images/home.svg" alt="" /></a>
 	</nav>
 </div>
+
+<script type="text/javascript">
+	// inline to avoid FOUC
+	var spacer = document.getElementById('spacer');
+
+	spacer.style.height = window.innerHeight + 'px';
+	window.scrollTo(0, spacer.offsetTop);
+</script>
 
 <div id="below">
 	{{ page.below | markdownify }}

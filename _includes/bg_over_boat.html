@@ -1,2 +1,2 @@
-<img id="under" src="../images/boats/{{ page_id }}.jpg" alt="{{ page.title | capitalize }} (bateau)" />
-<img id="over" src="../images/backgrounds/{{ page_id }}.png" alt="{{ page.title | capitalize }} (objet)" />
+{% picture boats/{{ page_id }}.jpg alt="{{ page.title | capitalize }} (bateau)" id="under" width="100%" height="100%" %}
+{% picture backgrounds/{{ page_id }}.png alt="{{ page.title | capitalize }} (objet)" id="over" width="100%" height="100%" %}

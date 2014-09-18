@@ -79,6 +79,7 @@ blockquote p:last-child::after {
 	float: left;
 	display: block;
 	width: 50%;
+	min-height: 300px;	/* decrease importance of flicker due to lazy loading of images */
 	box-sizing: border-box;
 	padding-right: 1em;
 	margin: .5em 0;	/* 150% line-height */
@@ -88,6 +89,7 @@ blockquote p:last-child::after {
 .fotorama.large {
 	float: none;
 	width: 100%;
+	min-height: 400px;	/* decrease importance of flicker due to lazy loading of images */
 }
 
 .legend {
