@@ -14,7 +14,7 @@ strong {
 #under, #over {
 	z-index: -1;
 	width: 100%;
-	position: fixed;
+	position: absolute;
 	height: auto !important;	/* the HTML says 100% to speed up rendering, we set it to the proper ratio afterwards */
 	top: 0;
 	left: 0;

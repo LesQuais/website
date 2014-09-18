@@ -14,6 +14,9 @@ window.onload = function() {
 		over.style.top	= ((above.clientHeight - window.scrollY) / 1.25 - offset) + 'px';
 	}
 
+	under.style.position = 'fixed';	// don't do it through css to allow for progressive display of image
+	over.style.position = 'fixed';	// don't do it through css to allow for progressive display of image
+
 	window.addEventListener('scroll', scrollHandler);
 	window.addEventListener('resize', function() { offset = computeOffset() });
 	window.addEventListener('resize', scrollHandler);
