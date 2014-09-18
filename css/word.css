@@ -20,3 +20,18 @@ nav {
 	line-height: 1;
 	margin-top: -1em;
 }
+
+@media (max-width: 30em) {
+	body {
+		padding: .5em;
+		font-size: 100%;
+	}
+
+	h1 {
+		font-size: 150%;
+	}
+
+	#prev, #next {
+		margin-top: 0;
+	}
+}
