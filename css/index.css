@@ -3,6 +3,7 @@ body {
 	height: 100%;
 	position: relative;
 	max-width: none;
+	min-height: 30em;	/* 20 characters for the longest boat name, at about 150% font-size */
 }
 
 a {
@@ -89,16 +90,21 @@ ol {
 }
 
 @media (max-width: 30em) {	/* 9 boat names + their margin + safety */
+	.boats {
+		font-size: 70%;
+	}
+
 	#boatsRight {
 		right: -8em;
-		top: 12.9em;
+		top: 14.6em;
 	}
 
 	#boatsLeft {
-		left: -2em;
+		top: 6em;
+		left: -1.5em;
 	}
 	.boats li {
-		margin-bottom: .5em;
+		margin-bottom: .2em;
 	}
 
 	#words li {
