@@ -2,6 +2,7 @@ name: Les quais
 markdown: kramdown
 highlighter: false
 # baseurl: /
+gems: [ 'mini_magick' ]
 
 collections:
   bateaux:
@@ -33,3 +34,24 @@ defaults:
       additional_css: "word"
 
 description: Une œuvre de Suzanne Hetzel et Jean Schneider sur les chantiers navals de La Ciotat (PACA).
+
+picture:
+  source: "images"
+  output: "images"
+  markup: "picture"
+  presets:
+    default:
+      source_supersmall:
+        media: "(max-width: 768px)"
+        width: "768"
+      source_small:
+        media: "(max-width: 1024px)"
+        width: "1024"
+      source_high:
+        media: "(min-width: 1280px)"
+        width: "1440"
+      source_superhigh:
+        media: "(min-width: 1440px)"
+        width: "2880"
+      source_default:
+        width: "1280"
