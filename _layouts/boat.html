@@ -28,7 +28,7 @@ layout: default
 	// inline to avoid FOUC
 	var spacer = document.getElementById('spacer');
 
-	spacer.style.height = window.innerHeight + 'px';
+	spacer.style.height = Math.min(window.innerWidth * 3 / 4, window.innerHeight) + 'px';
 	window.scrollTo(0, spacer.offsetTop);
 </script>
 

@@ -51,3 +51,18 @@ p + ul {
 #prolongements h1 {
 	font-size: 550%;
 }
+
+@media (max-width: 30em) {
+	html body {	/* increase specificity to avoid override by word.css */
+		padding: .5em;
+		font-size: 100%;
+	}
+
+	html h1 {	/* increase specificity to avoid override by word.css */
+		font-size: 150%;
+	}
+
+	html #prev, html #next {	/* increase specificity to avoid override by word.css */
+		margin-top: 0;
+	}
+}
