@@ -2,9 +2,12 @@ window.onload = function() {
 	var under	= document.getElementById('under'),
 		over	= document.getElementById('over'),
 		above	= document.getElementById('above'),
-		pixelsLeakingBelow = under.clientHeight - window.innerHeight;
+		offset	= computeOffset();
 
-	var offset	= (pixelsLeakingBelow > 0 ? pixelsLeakingBelow / 2 : 0);
+	function computeOffset() {
+		var pixelsLeakingBelow = under.clientHeight - window.innerHeight;
+		return pixelsLeakingBelow > 0 ? pixelsLeakingBelow / 2 : 0;
+	}
 
 	function scrollHandler() {
 		under.style.top	= ((above.clientHeight - window.scrollY) / 1.5 - offset) + 'px';
@@ -12,6 +15,9 @@ window.onload = function() {
 	}
 
 	window.addEventListener('scroll', scrollHandler);
+	window.addEventListener('resize', function() { offset = computeOffset() });
+	window.addEventListener('resize', scrollHandler);
+
 
 	scrollHandler();
 }
