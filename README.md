@@ -7,3 +7,11 @@ Building
 This site is built with the [Jekyll](http://jekyllrb.com) engine.
 
 Jekyll ≥ v2.1 is needed to build the site. It is not officially out at the time of writing, which means you need to build it from `master`.
+
+Once it's installed, simply run:
+
+```
+jekyll build
+```
+
+The resulting website is in `_site`. Just publish that to the target server and serve static files.
